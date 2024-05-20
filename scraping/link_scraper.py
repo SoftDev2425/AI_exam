@@ -15,6 +15,9 @@ from selenium.common.exceptions import NoSuchElementException
 
 def scrape_links(postnr, browser):
     try:
+        # Change path name depending on if you are a Mac or Windows user. 
+        # "./" for Mac.
+        # "../" for Windows.
         directory_path = '../data/link_data/'
         if not os.path.exists(directory_path):
             os.makedirs(directory_path)

@@ -151,7 +151,11 @@ def scrape_energy_class(browser):
 
 
 def house_data_scrape(zip_code, browser):
+    # Change path name depending on if you are a Mac or Windows user. 
+    # "./" for Mac.
+    # "../" for Windows.
     filename = f"../data/house_data/house_data_{zip_code}.csv"
+    # Remember to change to path here too.
     directory_path = '../data/house_data/'
     
     print(f"Checking if directory {directory_path} exists...")
@@ -162,6 +166,7 @@ def house_data_scrape(zip_code, browser):
     visited_urls = load_visited_urls(filename)
 
     try:
+        # Remember to change to path here too.
         with open(f"../data/link_data/data_{zip_code}.csv", "r") as file:
             links = file.readlines()
     except Exception as e:
