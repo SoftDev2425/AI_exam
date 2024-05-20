@@ -6,13 +6,13 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 
-browser = webdriver.Firefox()
-browser.get('https://www.dingeo.dk')
-time.sleep(2)
+#browser = webdriver.Firefox()
+#browser.get('https://www.dingeo.dk')
+#time.sleep(2)
 
-accept_terms(browser)
+#accept_terms(browser)
 
-def scrape_links(postnr):
+def scrape_links(postnr, browser):
     try:
         browser.get(f'https://www.dingeo.dk/salg/#?postnr={postnr}')
         
@@ -64,7 +64,7 @@ def scrape_links(postnr):
     except Exception as e:
         print(e)
 
-    browser.quit()
+    #browser.quit()
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Fetches house links from dinGeo")

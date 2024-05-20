@@ -8,14 +8,14 @@ from selenium.webdriver.common.by import By
 from accept_terms import accept_terms
 from coordinates import get_coordinates
 
-browser = webdriver.Firefox()
-browser.get('https://www.dingeo.dk')
-time.sleep(2)
+#browser = webdriver.Firefox()
+#browser.get('https://www.dingeo.dk')
+#time.sleep(2)
 
-accept_terms(browser)
+#accept_terms(browser)
 
 def save_to_csv(data, filename):
-    fieldnames = ['Address', 'X', 'Y', 'Price', 'Type', 'Size', 'Squaremeter price', 'Energy class', 'Url']
+    fieldnames = ['Address', 'X', 'Y', 'Price', 'Type', 'Room count', 'Construction year', 'Risk of burglary', 'Distance to pharmacy', 'Distance to daycare', 'Distance to grocery store', 'Size', 'Squaremeter price', 'Energy class', 'Url']
     file_exists = os.path.isfile(filename)
     with open(filename, 'a', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -27,7 +27,7 @@ def load_visited_urls(filename):
     visited_urls = []
     if not os.path.exists(filename):
         with open(filename, 'w', newline='') as csvfile:
-            fieldnames = ['Address', 'X', 'Y', 'Price', 'Type', 'Size', 'Squaremeter price', 'Energy class', 'Url']
+            fieldnames = ['Address', 'X', 'Y', 'Price', 'Type', 'Room count', 'Construction year', 'Risk of burglary','Distance to pharmacy','Distance to daycare','Distance to grocery store', 'Size', 'Squaremeter price', 'Energy class', 'Url']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
         return visited_urls
@@ -51,7 +51,7 @@ def scrape_address(browser):
         return address
     except:
         print("No address found")
-        return None
+        return "N/A"
 
 def scrape_price(browser):
     try:
@@ -59,7 +59,7 @@ def scrape_price(browser):
         return price
     except:
         print("No price found")
-        return None
+        return "N/A"
     
 def scrape_type(browser):
     try:
@@ -67,7 +67,58 @@ def scrape_type(browser):
         return type
     except:
         print("No type found")
-        return None
+        return "N/A"
+    
+def scrape_construction_year(browser):
+    try:
+        construction_year = browser.find_element(By.XPATH, '//*[@id="ctrldiv"]/div[6]/div[1]/div[2]/div[1]/div[1]/div/div[2]/dl/dd[6]').text
+        return construction_year
+    except:
+        print("No construction year found")
+        return "N/A"
+
+def get_room_count(browser):
+    try:
+        room_count = browser.find_element(By.XPATH, '//*[@id="ctrldiv"]/div[6]/div[1]/div[2]/div[1]/div[1]/div/div[2]/dl/dd[3]').text
+        return room_count
+    except:
+        print("No room count found")
+        return "N/A"
+    
+def get_risk_of_burglary(browser):
+    try:
+        risk_of_burglary = browser.find_element(By.XPATH, '//*[@id="naboerne"]/div[5]/div/div[2]/div/div[1]/p[1]/u').text
+        return risk_of_burglary
+    except:
+        print("No risk of burglary found")
+        return "N/A"
+    
+def get_distance_to_pharmacy(browser):
+    try:
+        distance_to_pharmacy = browser.find_element(By.XPATH, '//*[@id="afstande"]/div/div[2]/div/div/div[2]/div[1]/div/div/p[3]/strong').text
+        distance_to_pharmacy = distance_to_pharmacy.split()[1]
+        return distance_to_pharmacy
+    except:
+        print("No distance to pharmacy found")
+        return "N/A"
+    
+def get_distance_to_daycare(browser):
+    try:
+        distance_to_daycare = browser.find_element(By.XPATH, '//*[@id="afstande"]/div/div[2]/div/div/div[2]/div[4]/div/div/p[3]/strong').text
+        distance_to_daycare = distance_to_daycare.split()[1]
+        return distance_to_daycare
+    except:
+        print("No distance to daycare found")
+        return "N/A"
+    
+def get_distance_to_grocery_store(browser):
+    try:
+        distance_to_grocery_store = browser.find_element(By.XPATH, '//*[@id="afstande"]/div/div[2]/div/div/div[2]/div[2]/div/div/p[3]/strong').text
+        distance_to_grocery_store = distance_to_grocery_store.split()[1]
+        return distance_to_grocery_store
+    except:
+        print("No distance to grocery store found")
+        return "N/A"
 
 def scrape_squaremetres(browser):
     try:
@@ -75,7 +126,7 @@ def scrape_squaremetres(browser):
         return squaremetres
     except:
         print("No square metres found")
-        return None
+        return "N/A"
 
 def scrape_energy_class(browser):
     try:
@@ -105,7 +156,7 @@ def scrape_energy_class(browser):
         return "N/A"
 
 
-def house_data_scrape(zip_code):
+def house_data_scrape(zip_code, browser):
     filename = f"./data/house_data/house_data_{zip_code}.csv"
     visited_urls = load_visited_urls(filename)
 
@@ -125,37 +176,33 @@ def house_data_scrape(zip_code):
         time.sleep(3)
         try:
             address = scrape_address(browser)
-            print(address)
-            
-            if not address:
-                continue
             
             stripped_address = address.split(',')[0].strip()
             x, y = get_coordinates(stripped_address, zip_code)
 
             price = scrape_price(browser)
-            print(price)
-            if not price:
-                continue
 
             cleaned_price = int(price.replace(".", "").split()[0])
             type = scrape_type(browser)
-            print(type)
-            if not type:
-                continue
+            
+            construction_year = scrape_construction_year(browser)
+            
+            room_count = get_room_count(browser)
+            
+            risk_of_burglary = get_risk_of_burglary(browser)
+
+            distance_to_pharmacy = get_distance_to_pharmacy(browser)
+
+            distance_to_daycare = get_distance_to_daycare(browser)
+            
+            distance_to_grocery_store = get_distance_to_grocery_store(browser)
 
             squaremetres = scrape_squaremetres(browser)
-            print(squaremetres)
-            if not squaremetres:
-                continue
 
             cleaned_squaremetres = int(squaremetres.split()[0])
             price_sqrtmetres = int(int(cleaned_price) / int(cleaned_squaremetres))   
 
             energy_class = scrape_energy_class(browser)
-            print(energy_class)
-            if not energy_class:
-                continue
 
             house_data = {
                 'Address': address,
@@ -163,13 +210,19 @@ def house_data_scrape(zip_code):
                 'Y': y,
                 'Price': cleaned_price,
                 'Type': type,
+                'Room count': room_count,
+                'Construction year': construction_year,
+                'Risk of burglary': risk_of_burglary,
+                'Distance to pharmacy': distance_to_pharmacy,
+                'Distance to daycare': distance_to_daycare,
+                'Distance to grocery store': distance_to_grocery_store,
                 'Size': cleaned_squaremetres,
                 'Squaremeter price': price_sqrtmetres,
                 'Energy class': energy_class,
                 'Url': link
             }
 
-            #print(filename, house_data)
+            print(filename, house_data)
             
             save_to_csv(house_data, filename)
 
@@ -177,7 +230,7 @@ def house_data_scrape(zip_code):
             print(f"Url skipped: {link}")
             print(e)
             continue
-    browser.quit()
+    #browser.quit()
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Fetches house data from dinGeo")

@@ -8,11 +8,11 @@ from selenium.webdriver.common.by import By
 from accept_terms import accept_terms
 from coordinates import get_coordinates
 
-browser = webdriver.Firefox()
-browser.get('https://www.dingeo.dk')
-time.sleep(2)
+#browser = webdriver.Firefox()
+#browser.get('https://www.dingeo.dk')
+#time.sleep(2)
 
-accept_terms(browser)
+#accept_terms(browser)
 
 def save_to_csv(data, filename):
     fieldnames = ['Address', 'X', 'Y', 'Price', 'Type', 'Room count', 'Construction year', 'Risk of burglary', 'Distance to pharmacy', 'Distance to daycare', 'Distance to grocery store', 'Size', 'Squaremeter price', 'Energy class', 'Url']
@@ -156,7 +156,7 @@ def scrape_energy_class(browser):
         return "N/A"
 
 
-def house_data_scrape(zip_code):
+def house_data_scrape(zip_code, browser):
     filename = f"./data/house_data/house_data_{zip_code}.csv"
     visited_urls = load_visited_urls(filename)
 
@@ -230,7 +230,7 @@ def house_data_scrape(zip_code):
             print(f"Url skipped: {link}")
             print(e)
             continue
-    browser.quit()
+    #browser.quit()
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Fetches house data from dinGeo")
