@@ -8,16 +8,10 @@ from selenium.webdriver.common.by import By
 from accept_terms import accept_terms
 from coordinates import get_coordinates
 
-#browser = webdriver.Firefox()
-#browser.get('https://www.dingeo.dk')
-#time.sleep(2)
-
-#accept_terms(browser)
-
 def save_to_csv(data, filename):
     fieldnames = ['Address', 'X', 'Y', 'Price', 'Type', 'Room count', 'Construction year', 'Risk of burglary', 'Distance to pharmacy', 'Distance to daycare', 'Distance to grocery store', 'Size', 'Squaremeter price', 'Energy class', 'Url']
     file_exists = os.path.isfile(filename)
-    with open(filename, 'a', newline='') as csvfile:
+    with open(filename, 'a', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         if not file_exists:
             writer.writeheader()
@@ -26,14 +20,14 @@ def save_to_csv(data, filename):
 def load_visited_urls(filename):
     visited_urls = []
     if not os.path.exists(filename):
-        with open(filename, 'w', newline='') as csvfile:
-            fieldnames = ['Address', 'X', 'Y', 'Price', 'Type', 'Room count', 'Construction year', 'Risk of burglary','Distance to pharmacy','Distance to daycare','Distance to grocery store', 'Size', 'Squaremeter price', 'Energy class', 'Url']
+        with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
+            fieldnames = ['Address', 'X', 'Y', 'Price', 'Type', 'Room count', 'Construction year', 'Risk of burglary', 'Distance to pharmacy', 'Distance to daycare', 'Distance to grocery store', 'Size', 'Squaremeter price', 'Energy class', 'Url']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
         return visited_urls
 
     try:
-        with open(filename, 'r') as file:
+        with open(filename, 'r', encoding='utf-8') as file:
             reader = csv.DictReader(file)
             for row in reader:
                 visited_urls.append(row['Url'])
@@ -157,14 +151,26 @@ def scrape_energy_class(browser):
 
 
 def house_data_scrape(zip_code, browser):
-    filename = f"./data/house_data/house_data_{zip_code}.csv"
+    # Change path name depending on if you are a Mac or Windows user. 
+    # "./" for Mac.
+    # "../" for Windows.
+    filename = f"../data/house_data/house_data_{zip_code}.csv"
+    # Remember to change to path here too.
+    directory_path = '../data/house_data/'
+    
+    print(f"Checking if directory {directory_path} exists...")
+    if not os.path.exists(directory_path):
+        print(f"Directory {directory_path} does not exist. Creating it now...")
+        os.makedirs(directory_path)
+    
     visited_urls = load_visited_urls(filename)
 
     try:
-        with open(f"./data/link_data/data_{zip_code}.csv", "r") as file:
+        # Remember to change to path here too.
+        with open(f"../data/link_data/data_{zip_code}.csv", "r") as file:
             links = file.readlines()
     except Exception as e:
-        print(e)
+        print(f"Error reading link data file: {e}")
         return
     
     for link in links:
@@ -222,13 +228,12 @@ def house_data_scrape(zip_code, browser):
                 'Url': link
             }
 
-            print(filename, house_data)
-            
+            print(f"Saving data to {filename}")
             save_to_csv(house_data, filename)
 
         except Exception as e:
             print(f"Url skipped: {link}")
-            print(e)
+            print(f"Error while scraping house data for zip code {zip_code}: {e}")
             continue
     #browser.quit()
 

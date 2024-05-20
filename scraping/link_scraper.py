@@ -1,6 +1,7 @@
 import csv
 import time
 import argparse
+import os
 from accept_terms import accept_terms
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -14,6 +15,14 @@ from selenium.common.exceptions import NoSuchElementException
 
 def scrape_links(postnr, browser):
     try:
+        # Change path name depending on if you are a Mac or Windows user. 
+        # "./" for Mac.
+        # "../" for Windows.
+        directory_path = '../data/link_data/'
+        if not os.path.exists(directory_path):
+            os.makedirs(directory_path)
+        
+        
         browser.get(f'https://www.dingeo.dk/salg/#?postnr={postnr}')
         
         time.sleep(8)
@@ -53,16 +62,17 @@ def scrape_links(postnr, browser):
         for href in href_values:
             links.add(href)
 
-        with open(f'../data/link_data/data_{postnr}.csv', 'w+',newline='') as file:
+        with open(f'{directory_path}data_{postnr}.csv', 'w+',newline='') as file:
             writer = csv.writer(file)
             for link in links:
                 if link != f'https://www.dingeo.dk/salg/kort/#?postnr={postnr}':
                     writer.writerow([link.rstrip(',')])
+            pass        
     except NoSuchElementException:
     # Handling the error
         print("Zip code not available")
     except Exception as e:
-        print(e)
+        print(f"Error scraping links for zip code {postnr}: {e}")
 
     #browser.quit()
 
