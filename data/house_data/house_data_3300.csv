@@ -1,0 +1,164 @@
+Address,X,Y,Price,Type,Room count,Construction year,Risk of burglary,Distance to pharmacy,Distance to daycare,Distance to grocery store,Size,Squaremeter price,Energy class,Url
+Skovtoften 23,56.012903,12.050227,2995000,Fritidshus,4,1960,mellem,"4,77",4150,3.794,86,34825,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/skovtoften-23/
+Hanetoften 3,55.969548,11.984768,3495000,Villa,4,2003,lav,"2,38",1975,2.232,138,25326,B,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/hanetoften-3/
+Øvre Møllevej 3,55.998171,12.016267,3550000,Villa,5,1942,lav,"2,79",1883,1.975,110,32272,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/%C3%B8vre%20m%C3%B8llevej-3/
+Åsebro 50,55.978025,12.00905,3295000,Villa,5,,mellem,962,372,649,136,24227,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/%C3%A5sebro-50/
+Skåninggårdsvej 20,55.951108,12.038839,2795000,Villa,4,1960,mellem,"2,69",156,391,143,19545,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/sk%C3%A5ningg%C3%A5rdsvej-20/
+Sikavej 1,56.0042,12.010937,2495000,Villa,4,1933,mellem,"3,51",1799,1.352,105,23761,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/sikavej-1/
+Mejsebakken 3,55.933299,12.039998,2095000,Fritidshus,3,1973,meget lav,"4,58",1015,1.644,72,29097,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/mejsebakken-3/
+Piletoften 9,56.010342,12.045058,1750000,Fritidshus,3,1962,lav,"4,38",3905,3.440,50,35000,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/piletoften-9/
+Piletoften 12,56.009941,12.044978,2695000,Fritidshus,4,1975,lav,"4,34",3862,3.432,93,28978,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/piletoften-12/
+Musvitvej 8,55.932792,12.047584,1295000,Fritidshus,3,,lav,"4,78",1006,1.640,58,22327,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/musvitvej-8/
+Fjordvej 37B,55.931508,12.042309,2495000,Fritidshus,4,1960,lav,"4,81",1165,1.807,106,23537,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/fjordvej-37b/
+Niels Larsensvej 36,55.941904,12.030642,10200000,Villa,9,1914,meget lav,"3,52",969,782,250,40800,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/niels%20larsensvej-36/
+Ternevej 24,55.962733,12.024977,2395000,Villa,3,1975,lav,"1,18",1046,1.046,133,18007,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/ternevej-24/
+Skovbakkevej 3,55.977342,12.023104,2395000,Villa,4,1947,lav,467,83,286,115,20826,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/skovbakkevej-3/
+Sune Ebbesensvej 13,56.020898,12.046586,7995000,Fritidshus,5,1974,meget høj,"5,53",4391,3.786,123,65000,G,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/sune%20ebbesensvej-13/
+Tømmerpladsvej 22,55.971268,12.015894,1995000,Villa,4,1975,lav,424,554,241,102,19558,B,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/t%C3%B8mmerpladsvej-22/
+Ryagervej 43,56.005301,12.05167,3750000,Fritidshus,4,,lav,"4,04",3596,3.592,84,44642,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/ryagervej-43/
+Runevænget 17,55.952825,12.030514,2195000,Villa,3,1967,mellem,"2,33",415,538,138,15905,B,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/runev%C3%A6nget-17/
+Maagevej 20,55.963833,12.026489,1845000,Villa,4,1974,lav,"1,09",891,971,123,15000,G,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/maagevej-20/
+Rybakkevej 10,56.003756,12.062175,2295000,Fritidshus,3,1971,lav,"4,26",3592,3.660,66,34772,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/rybakkevej-10/
+Tårnvænget 24,55.947493,12.040545,4495000,Villa,5,2016,mellem,"3,10",492,399,164,27408,A2015,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/t%C3%A5rnv%C3%A6nget-24/
+K F Ulrichsvej 20,,,2595000,Villa,4,1969,mellem,"2,47",222,385,127,20433,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/k%20f%20ulrichsvej-20/
+Vinderød Enghavevej 34,55.982625,12.010031,1895000,Villa,4,1928,lav,"1,28",193,714,107,17710,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/vinder%C3%B8d%20enghavevej-34/
+Peder Müllersvej 7,56.015719,12.028187,6900000,Fritidshus,5,1960,høj,"4,74",3090,2.488,198,34848,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/peder%20m%C3%BCllersvej-7/
+"Torvegade 18H, 1. ",55.973269,12.027816,750000,Ejerlejlighed,1,1922,lav,395,286,553,40,18750,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/torvegade-18h/1-/
+Helsingevej 22A,55.985893,12.030705,1045000,Villa,4,1780,lav,"1,52",1061,1.073,80,13062,E,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/helsingevej-22a/
+Ole Jørgensvej 4,55.980676,12.016092,1645000,Villa,4,1947,lav,899,482,279,108,15231,E,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/ole%20j%C3%B8rgensvej-4/
+Rybakkevej 8,56.00359,12.061405,1995000,Fritidshus,2,1989,lav,"4,22",3644,3.712,40,49875,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/rybakkevej-8/
+Skibsvænget 4,55.942642,12.046902,4995000,Villa,5,2020,høj,"3,76",115,547,206,24247,A2020,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/skibsv%C3%A6nget-4/
+"Bjørnebakkevej 21, 1. ",55.958747,12.027513,1995000,Ejerlejlighed,3,,mellem,"1,65",1008,1.216,86,23197,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/bj%C3%B8rnebakkevej-21/1-/
+Auderødvej 60,55.971994,12.061466,7995000,Fritidshus,3,1957,mellem,"2,54",1658,2.666,88,90852,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/auder%C3%B8dvej-60/
+Tårnvænget 18,55.947493,12.04176,4195000,Villa,5,2018,mellem,"3,13",537,329,171,24532,A2015,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/t%C3%A5rnv%C3%A6nget-18/
+Gl. Møllevej 48,55.967481,11.98893,2095000,Fritidshus,3,,lav,"2,18",1895,2.009,101,20742,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/gl.%20m%C3%B8llevej-48/
+Hanehovedvej 154D,55.969755,11.982175,2150000,Rækkehus,4,2003,lav,"2,54",2083,2.394,103,20873,A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/hanehovedvej-154d/
+Åkandevej 7,55.979366,12.008192,2095000,Villa,5,1954,mellem,"1,09",247,699,124,16895,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/%C3%A5kandevej-7/
+Golfbakken 4D,55.99579,12.015053,1345000,Ejerlejlighed,2,1961,lav,"2,54",1608,1.896,64,21015,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/golfbakken-4d/
+Helsingevej 89,56.002501,12.031241,5500000,Fritidshus,2,1935,meget lav,"3,31",2748,2.642,52,105769,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/helsingevej-89/
+Sagasvej 10,55.989279,12.028458,3195000,Villa,6,1962,lav,"1,84",1345,1.299,235,13595,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/sagasvej-10/
+Nattergalevej 6,56.004425,12.053021,2695000,Fritidshus,4,1973,lav,"4,00",3560,3.564,109,24724,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/nattergalevej-6/
+Nørrevangen 24,55.950382,12.045172,2595000,Villa,5,1976,mellem,"2,95",566,332,156,16634,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/n%C3%B8rrevangen-24/
+Niels Larsensvej 2,55.945116,12.034359,1300000,Fritidshus,2,1966,mellem,"3,22",691,384,62,20967,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/niels%20larsensvej-2/
+Sømærkevej 15,55.9698,11.992408,3495000,Villa,3,1947,lav,"1,90",1574,1.745,184,18994,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/s%C3%B8m%C3%A6rkevej-15/
+"Nørregade 20A, 2. th",55.97442,12.020568,1395000,Ejerlejlighed,2,,lav,149,195,163,59,23644,E,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/n%C3%B8rregade-20a/2-th/
+Brederødvej 21,55.962169,12.047482,1095000,Villa,3,1877,mellem,"2,05",527,1.621,92,11902,F,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/breder%C3%B8dvej-21/
+Vinderød Skov 49A,55.987037,12.017506,1775000,Villa,3,1949,lav,"1,56",874,912,120,14791,E,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/vinder%C3%B8d%20skov-49a/
+Paradisstien 32,56.017454,12.037597,7500000,Fritidshus,4,2022,meget høj,"5,01",3719,3.118,125,60000,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/paradisstien-32/
+Vinderød Skov 22,55.995072,12.014369,1995000,Villa,3,1946,mellem,"2,47",1519,1.824,94,21223,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/vinder%C3%B8d%20skov-22/
+Vinderød Enghavevej 25,55.983106,12.014983,1595000,Villa,4,1967,lav,"1,18",498,539,119,13403,E,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/vinder%C3%B8d%20enghavevej-25/
+Bukketornvej 12,55.966719,12.032308,2095000,Villa,6,1972,lav,993,455,976,155,13516,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/bukketornvej-12/
+Arresø Alle 52,56.016463,12.047866,2595000,Villa,4,1970,meget høj,"5,08",4302,3.717,173,15000,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/arres%C3%B8%20alle-52/
+Vibevænget 14,55.977244,12.011954,1845000,Villa,5,1960,mellem,760,168,492,112,16473,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/vibev%C3%A6nget-14/
+Jernvænget 14,55.952756,12.034734,2795000,Villa,6,1970,mellem,"2,42",200,464,172,16250,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/jernv%C3%A6nget-14/
+Bjørnedalsvej 34,55.958625,12.023939,2795000,Villa,4,1958,mellem,"1,63",1142,1.305,83,33674,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/bj%C3%B8rnedalsvej-34/
+Skåninggårdsvej 2,55.951453,12.041905,2445000,Villa,5,1950,mellem,"2,74",351,537,161,15186,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/sk%C3%A5ningg%C3%A5rdsvej-2/
+Duevej 15,55.96513,12.027451,2195000,Villa,4,1950,lav,972,737,878,114,19254,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/duevej-15/
+Jacob Jensensvej 1,55.978998,12.012171,2395000,Villa,5,1917,mellem,879,309,444,192,12473,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/jacob%20jensensvej-1/
+Falkevej 13,55.93382,12.039827,1795000,Fritidshus,2,1983,meget lav,"4,53",966,1.591,44,40795,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/falkevej-13/
+Aavej 45,55.975478,12.008738,2550000,Villa,4,1973,mellem,858,366,690,118,21610,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/aavej-45/
+Maglehøjvej 10,55.967582,12.035577,2395000,Villa,6,1962,lav,"1,09",374,1.112,170,14088,E,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/magleh%C3%B8jvej-10/
+Hanehovedvej 154K,55.969615,11.981886,1895000,Rækkehus,4,2003,lav,"2,56",2107,2.414,96,19739,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/hanehovedvej-154k/
+Bjørnebakkevej 82,55.958911,12.02691,2795000,Rækkehus,4,2007,mellem,"1,62",1045,1.247,130,21500,A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/bj%C3%B8rnebakkevej-82/
+Kirsebærvej 8,55.945653,12.03265,1595000,Fritidshus,4,1965,mellem,"3,14",664,347,90,17722,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/kirseb%C3%A6rvej-8/
+Kastanievej 6,56.006684,11.993908,1895000,Villa,4,1961,lav,"4,11",711,276,122,15532,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/kastanievej-6/
+Skibsvænget 34,55.943357,12.044817,3595000,Villa,5,2018,høj,"3,63",184,486,129,27868,A2020,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/skibsv%C3%A6nget-34/
+Den Korte Vej 1,56.010766,12.01279,7500000,Fritidshus,6,1934,høj,"4,21",1985,1.399,150,50000,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/den%20korte%20vej-1/
+Sagasvej 12,55.989297,12.028803,2795000,Villa,4,1962,lav,"1,84",1354,1.311,147,19013,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/sagasvej-12/
+Niels Larsensvej 32,55.942278,12.031478,3495000,Fritidshus,4,2016,meget lav,"3,49",917,726,105,33285,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/niels%20larsensvej-32/
+Mostergårdsvej 11,56.008348,12.011061,2495000,Fritidshus,3,,høj,"3,96",1819,1.269,80,31187,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/mosterg%C3%A5rdsvej-11/
+Strandgade 4,55.972809,12.020178,1995000,Rækkehus,4,1987,lav,102,232,135,107,18644,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/strandgade-4/
+Frydsvej 2,55.971436,12.025359,2795000,Villa,4,,lav,310,288,367,125,22360,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/frydsvej-2/
+Lupinvej 6,55.967496,12.033346,2975000,Villa,4,1997,lav,981,362,988,178,16713,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/lupinvej-6/
+Jupitervej 6,55.944538,12.02826,2395000,Fritidshus,5,2006,mellem,"3,21",906,602,99,24191,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/jupitervej-6/
+Hjortemosevej 19,55.990731,12.011019,2695000,Villa,7,1964,mellem,"2,06",995,1.414,231,11666,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/hjortemosevej-19/
+"Torvegade 20, 2. th",55.973332,12.028104,1795000,Ejerlejlighed,3,2006,lav,414,303,572,94,19095,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/torvegade-20/2-th/
+Hillerødvej 129,55.942078,12.064295,4395000,Villa,8,1965,meget lav,"4,40",1176,1.263,217,20253,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/hiller%C3%B8dvej-129/
+Grønagervej 4,55.98441,12.016813,3175000,Villa,7,1973,lav,"1,28",664,632,176,18039,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/gr%C3%B8nagervej-4/
+Mirabelvej 3,55.943017,12.037672,1395000,Fritidshus,4,1970,meget lav,"3,51",538,647,72,19375,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/mirabelvej-3/
+Vidjekrogen 22,56.006965,12.028531,2795000,Fritidshus,4,2005,høj,"3,77",2913,2.388,111,25180,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/vidjekrogen-22/
+Tinsoldaten 2,55.991384,12.026697,3295000,Villa,5,2006,lav,"2,04",1544,1.470,137,24051,B,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/tinsoldaten-2/
+Nellikevej 3,55.981645,12.015059,2995000,Villa,5,,lav,"1,02",473,403,185,16189,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/nellikevej-3/
+Tvede Linds Vej 1,56.018447,12.056877,5495000,Fritidshus,6,1775,høj,"5,50",3747,3.753,221,24864,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/tvede%20linds%20vej-1/
+Granager 3,56.010045,12.022697,3495000,Fritidshus,4,1955,høj,"4,09",2581,2.016,102,34264,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/granager-3/
+Rygårds Alle 2,56.008464,12.048459,1595000,Fritidshus,3,1970,mellem,"4,27",3804,3.651,72,22152,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/ryg%C3%A5rds%20alle-2/
+Skovskadevej 11,56.001705,12.003281,1495000,Fritidshus,2,1966,mellem,"3,37",1381,1.088,48,31145,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/skovskadevej-11/
+Birkevænget 6,56.00471,12.059998,3295000,Fritidshus,3,,lav,"4,27",3690,3.753,65,50692,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/birkev%C3%A6nget-6/
+Agnetevej 4,56.004641,11.994619,1670000,Villa,3,1961,lav,"3,89",762,492,68,24558,G,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/agnetevej-4/
+Asser Rigs Vej 7,56.0201,12.053492,4450000,Fritidshus,4,1943,høj,"5,59",3986,3.986,110,40454,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/asser%20rigs%20vej-7/
+Absalonsvej 23,56.015645,12.039315,4395000,Fritidshus,4,1930,lav,"4,84",3758,3.166,83,52951,G,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/absalonsvej-23/
+Søbakken 9,55.96748,12.05127,2295000,Villa,5,1958,mellem,"1,99",1039,2.069,172,13343,E,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/s%C3%B8bakken-9/
+Vinderød Enghavevej 12,55.983898,12.015795,2595000,Villa,6,1946,lav,"1,24",581,597,170,15264,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/vinder%C3%B8d%20enghavevej-12/
+Bystævnet 2,55.951874,12.038874,3495000,Villa,4,2018,mellem,"2,61",173,457,186,18790,A2010,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/byst%C3%A6vnet-2/
+Skjalm Hvidesvej 32,56.024541,12.040101,5600000,Fritidshus,3,1977,meget høj,"5,82",4197,3.585,82,68292,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/skjalm%20hvidesvej-32/
+Strandvejen 31,55.965037,12.021651,3195000,Villa,7,1949,lav,909,976,744,191,16727,E,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/strandvejen-31/
+Kristtornvej 46,55.964028,12.035212,2495000,Villa,6,1972,lav,"1,34",754,1.304,134,18619,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/kristtornvej-46/
+Mårstien 3,56.005428,12.004163,2595000,Fritidshus,5,1987,mellem,"3,74",1359,901,126,20595,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/m%C3%A5rstien-3/
+Åsebro 25,55.979172,12.014598,1400000,Villa,6,1946,lav,797,301,291,175,8000,E,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/%C3%A5sebro-25/
+Piletoften 10,56.009777,12.044242,1395000,Fritidshus,2,1971,lav,"4,31",3828,3.385,25,55800,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/piletoften-10/
+Skibsvænget 5,55.943059,12.047219,5495000,Villa,6,2021,høj,"3,72",165,501,236,23283,A2015,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/skibsv%C3%A6nget-5/
+Ahornvej 12,55.978365,12.022731,1595000,Villa,4,1955,lav,575,83,236,94,16968,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/ahornvej-12/
+Fjordgade 7,55.968323,12.016543,3250000,Villa,4,1956,lav,633,747,417,118,27542,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/fjordgade-7/
+Rørskærvej 12,56.013101,12.069391,4850000,Fritidshus,6,2007,høj,"5,37",2930,2.961,184,26358,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/r%C3%B8rsk%C3%A6rvej-12/
+Annasvej 2,56.005625,11.992605,1695000,Villa,4,,lav,"4,04",622,343,106,15990,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/annasvej-2/
+Sneppevænget 1,56.009607,12.060958,2995000,Fritidshus,3,1978,mellem,"4,75",3506,3.550,92,32554,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/sneppev%C3%A6nget-1/
+Baggersvej 54,55.984196,12.006406,2150000,Villa,3,1969,lav,"1,56",234,1.003,103,20873,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/baggersvej-54/
+Sune Ebbesensvej 17,56.020657,12.045169,4495000,Fritidshus,4,1947,meget høj,"5,48",4297,3.692,69,65144,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/sune%20ebbesensvej-17/
+Ellevej 49,55.988261,12.009694,2275000,Villa,4,1970,lav,"1,83",709,1.203,114,19956,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/ellevej-49/
+Baggersvej 82,55.985859,12.006506,2595000,Villa,5,1973,lav,"1,70",418,1.118,161,16118,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/baggersvej-82/
+Hjortevej 1,56.00345,12.011396,1495000,Villa,6,1953,mellem,"3,42",1838,1.411,169,8846,F,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/hjortevej-1/
+Stjernevej 7,55.943198,12.028888,4800000,Fritidshus,5,1991,meget lav,"3,37",1012,698,166,28915,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/stjernevej-7/
+"Krudttårnsbakken 11, 1. mf",55.968976,12.026859,3395000,Ejerlejlighed,4,,lav,578,472,548,136,24963,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/krudtt%C3%A5rnsbakken-11/1-mf/
+Gartnervænget 6B,56.011159,12.024229,3195000,Fritidshus,5,1981,høj,"4,21",2702,2.126,190,16815,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/gartnerv%C3%A6nget-6b/
+Skovsvinget 3,56.019511,12.065067,1795000,Fritidshus,4,1987,høj,"5,84",3247,3.246,67,26791,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/skovsvinget-3/
+Kirsebærvej 5,55.944936,12.032303,1095000,Fritidshus,2,1964,mellem,"3,21",746,429,36,30416,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/kirseb%C3%A6rvej-5/
+Ahornvej 33,55.98113,12.02319,2995000,Villa,5,1954,lav,884,384,360,157,19076,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/ahornvej-33/
+Bogfinkevej 11,55.941128,12.032632,1895000,Fritidshus,5,1965,meget lav,"3,63",845,836,107,17710,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/bogfinkevej-11/
+Skovvej 2B,55.966903,12.038963,1795000,Villa,2,1952,lav,"1,31",548,1.340,70,25642,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/skovvej-2b/
+Revlingsvinget 3,56.019596,12.069828,2845000,Fritidshus,5,2012,høj,"5,99",2951,2.947,141,20177,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/revlingsvinget-3/
+Kristtornvej 35,55.965186,12.036243,3995000,Villa,5,1974,lav,"1,29",641,1.279,171,23362,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/kristtornvej-35/
+Auderød Byvej 9,55.97488,12.06904,4895000,Villa,4,,mellem,"3,03",2159,3.154,156,31378,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/auder%C3%B8d%20byvej-9/
+Piletoften 4,56.010073,12.043039,3350000,Fritidshus,4,1961,lav,"4,31",3831,3.310,103,32524,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/piletoften-4/
+Hvidsværmervej 9,55.939752,12.039151,2495000,Fritidshus,3,1974,meget lav,"3,88",484,999,69,36159,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/hvidsv%C3%A6rmervej-9/
+Møllevangsvej 36,56.005544,11.995729,2595000,Villa,5,1934,lav,"3,95",822,448,104,24951,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/m%C3%B8llevangsvej-36/
+Skovsvinget 5,56.019849,12.065403,1695000,Fritidshus,4,1980,høj,"5,88",3233,3.230,63,26904,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/skovsvinget-5/
+Kristtornvej 39,55.964924,12.035911,3995000,Villa,7,1984,lav,"1,30",664,1.278,196,20382,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/kristtornvej-39/
+Blåfuglevej 17,55.939972,12.041516,2350000,Fritidshus,3,1992,meget lav,"3,90",343,911,130,18076,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/bl%C3%A5fuglevej-17/
+Heilmannsvej 6,55.971888,12.025166,2795000,Villa,4,1912,lav,270,237,355,106,26367,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/heilmannsvej-6/
+Hvidtjørnevej 11,55.986413,12.009154,1995000,Villa,4,1970,lav,"1,67",502,1.051,126,15833,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/hvidtj%C3%B8rnevej-11/
+Bryggervangen 7,55.979513,12.021253,3195000,Villa,7,1955,lav,699,203,152,190,16815,E,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/bryggervangen-7/
+Degnebakken 6,55.947807,12.027109,1795000,Fritidshus,5,,mellem,"2,84",704,483,104,17259,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/degnebakken-6/
+Lille Ryvej 3,56.018138,12.071571,9800000,Fritidshus,10,1912,høj,"5,92",2814,2.818,254,38582,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/lille%20ryvej-3/
+Strandvejen 53,55.96198,12.021704,1795000,Villa,3,1930,mellem,"1,25",1234,1.081,107,16775,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/strandvejen-53/
+Ryagervej 1,56.005647,12.058426,1750000,Fritidshus,2,1969,lav,"4,30",3757,3.815,35,50000,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/ryagervej-1/
+Ligustervej 22,55.950591,12.042835,1695000,Villa,4,1963,mellem,"2,85",416,425,102,16617,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/ligustervej-22/
+Lars Holmsvej 9A,56.01093,12.044119,4995000,Fritidshus,5,2022,lav,"4,42",3944,3.384,152,32861,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/lars%20holmsvej-9a/
+Åsebro 15,55.97992,12.016241,2695000,Villa,5,1987,lav,818,404,218,136,19816,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/%C3%A5sebro-15/
+Rørskærvej 6,56.013247,12.067971,1995000,Fritidshus,4,1947,høj,"5,34",3019,3.049,50,39900,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/r%C3%B8rsk%C3%A6rvej-6/
+Skovtoften 13,56.013707,12.047821,4995000,Fritidshus,4,1960,lav,"4,79",4230,3.654,125,39960,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/skovtoften-13/
+Melby Enghavevej 8,55.991248,12.008198,1875000,Villa,4,1971,mellem,"2,18",1020,1.540,122,15368,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/melby%20enghavevej-8/
+Musvitvej 1D,55.931788,12.046787,1850000,Fritidshus,3,2009,lav,"4,87",1113,1.751,76,24342,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/musvitvej-1d/
+Rørskærvej 14,56.012979,12.070016,3750000,Fritidshus,4,1960,høj,"5,38",2891,2.923,96,39062,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/r%C3%B8rsk%C3%A6rvej-14/
+Jernvænget 9,55.953055,12.03552,1888888,Villa,4,1969,mellem,"2,41",210,501,91,20757,E,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/jernv%C3%A6nget-9/
+Åvænget 3,56.00589,12.044898,2195000,Fritidshus,3,1974,meget lav,"3,92",3448,3.419,71,30915,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/%C3%A5v%C3%A6nget-3/
+Elverhøj 40,55.990704,12.023479,3995000,Villa,4,2006,lav,"1,94",1429,1.342,156,25608,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/elverh%C3%B8j-40/
+Bogfinkevej 15,55.941556,12.0328,2333000,Fritidshus,2,1964,meget lav,"3,59",832,787,50,46660,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/bogfinkevej-15/
+Ellevej 59,55.989309,12.009688,2495000,Villa,4,1962,lav,"1,94",821,1.306,178,14016,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/ellevej-59/
+Åsebro 16A,55.980604,12.017016,1995000,Rækkehus,4,1872,lav,870,450,235,118,16906,B,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/%C3%A5sebro-16a/
+Cottagevej 2,56.017086,12.06291,3395000,Fritidshus,3,1960,høj,"5,53",3350,3.361,108,31435,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/cottagevej-2/
+Bukketornvej 58,55.964345,12.03263,1895000,Villa,4,1975,lav,"1,21",714,1.159,120,15791,E,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/bukketornvej-58/
+Chr. E. Bartholdys Alle 34,,,2195000,Fritidshus,3,1961,mellem,"4,71",3992,3.946,75,29266,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/chr.%20e.%20bartholdys%20alle-34/
+Lærkevænget 14,56.006897,12.063979,3795000,Fritidshus,4,2006,høj,"4,61",3379,3.437,105,36142,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/l%C3%A6rkev%C3%A6nget-14/
+Vinkelvej 10,55.980923,12.021633,2495000,Villa,6,1962,lav,855,354,278,162,15401,E,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/vinkelvej-10/
+Strandgade 21,55.971939,12.015549,2675000,Villa,5,1922,lav,412,510,261,170,15735,E,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/strandgade-21/
+Arrenakkestien 16,56.010715,12.028582,4995000,Fritidshus,4,2019,høj,"4,18",2962,2.395,101,49455,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/arrenakkestien-16/
+Revlingsvinget 9,56.0196,12.068461,3495000,Fritidshus,5,2013,høj,"5,95",3036,3.033,136,25698,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/revlingsvinget-9/
+Nørrevangen 10,55.95032,12.04719,2475000,Villa,5,1973,mellem,"3,02",694,306,165,15000,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/n%C3%B8rrevangen-10/
+Skovhjørnet 7,55.999628,12.011757,2995000,Villa,4,1965,mellem,"3,00",1967,1.648,148,20236,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/skovhj%C3%B8rnet-7/
+Bjørnebakkevej 68,55.958707,12.025946,2675000,Rækkehus,5,2006,mellem,"1,64",1064,1.252,132,20265,C,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/bj%C3%B8rnebakkevej-68/
+Skovbovej 23,56.008632,12.002074,1995000,Fritidshus,2,1977,høj,"4,12",1264,696,52,38365,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/skovbovej-23/
+Mosetoften 5,56.008272,12.04757,1695000,Fritidshus,2,2001,lav,"4,23",3760,3.594,43,39418,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/mosetoften-5/
+Arresø Alle 18,56.015523,12.058313,2690000,Fritidshus,5,1961,høj,"5,25",3633,3.651,120,22416,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/arres%C3%B8%20alle-18/
+Gøgekrogen 6,56.012012,12.054453,2675000,Fritidshus,3,1967,mellem,"4,79",3887,3.920,79,33860,N/A,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/g%C3%B8gekrogen-6/
+Skovdalsvej 11,55.985567,12.016872,1695000,Villa,3,1947,lav,"1,40",737,757,91,18626,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/skovdalsvej-11/
+Møllevangsvej 13,56.006541,11.991905,3195000,Villa,8,1877,lav,"4,15",583,234,175,18257,D,https://www.dingeo.dk/adresse/3300-frederiksv%C3%A6rk/m%C3%B8llevangsvej-13/
