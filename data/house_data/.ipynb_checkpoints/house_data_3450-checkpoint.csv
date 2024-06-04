@@ -1,0 +1,72 @@
+Address,X,Y,Price,Type,Room count,Construction year,Risk of burglary,Distance to pharmacy,Distance to daycare,Distance to grocery store,Size,Squaremeter price,Energy class,Url
+"Lilledal 1, 2. 3",55.870788,12.355275,2495000,Ejerlejlighed,3,1988,mellem,47,376,179,76,32828,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/lilledal-1/2-3/
+Damgårdshave 16,55.849563,12.331374,4995000,Villa,7,2000,høj,"2,85",1144,1.859,138,36195,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/damg%C3%A5rdshave-16/
+Millingvej 3,55.854103,12.327414,4950000,Villa,5,1972,høj,"2,61",1106,1.357,156,31730,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/millingvej-3/
+Duevej 10A,55.858446,12.334885,6745000,Villa,6,1997,høj,"1,94",614,914,209,32272,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/duevej-10a/
+Melchiorsvej 22,55.877661,12.357165,6895000,Villa,5,1962,lav,736,264,226,169,40798,D,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/melchiorsvej-22/
+Kalavej 14,55.873365,12.338828,5495000,Villa,5,1973,lav,"1,11",315,864,154,35681,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/kalavej-14/
+"Ørnevang 26, 2. th",55.882672,12.355297,2295000,Ejerlejlighed,3,1965,mellem,"1,29",167,565,88,26079,D,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/%C3%B8rnevang-26/2-th/
+Hegnetsvej 15,55.877175,12.359078,8795000,Villa,5,1946,høj,708,334,353,205,42902,D,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/hegnetsvej-15/
+Gl. Frederiksborgvej 79,55.896785,12.350297,13500000,Villa,7,,mellem,"2,88",859,2.132,642,21028,N/A,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/gl.%20frederiksborgvej-79/
+Damgårdshave 8,55.850175,12.330774,5495000,Villa,6,2001,høj,"2,82",1126,1.789,148,37128,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/damg%C3%A5rdshave-8/
+Søvangen 20,55.852342,12.329656,2395000,Rækkehus,3,1988,høj,"2,67",1047,1.546,70,34214,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/s%C3%B8vangen-20/
+Gravenstensvej 12,55.866877,12.345298,14345000,Villa,5,1938,mellem,816,392,539,254,56476,A2010,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/gravenstensvej-12/
+Lupinvej 17,55.868014,12.391036,6250000,Villa,5,1969,høj,"2,27",385,527,158,39556,D,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/lupinvej-17/
+Bakkevej 15,55.873958,12.355616,6245000,Villa,6,1937,lav,320,507,432,139,44928,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/bakkevej-15/
+Engdraget 35,55.851433,12.330339,3345000,Rækkehus,4,1989,høj,"2,72",1063,1.648,92,36358,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/engdraget-35/
+Kratbjergvej 13A,55.86659,12.351363,9495000,Villa,6,2022,mellem,573,265,309,189,50238,A,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/kratbjergvej-13a/
+Enevangen 56,55.870391,12.330886,3650000,Rækkehus,4,1974,mellem,"1,59",265,436,112,32589,D,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/enevangen-56/
+Cypresvej 1,55.875509,12.330117,4995000,Villa,5,1974,lav,"1,71",311,1.004,143,34930,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/cypresvej-1/
+Søvangen 34,55.852021,12.329844,3395000,Rækkehus,4,,høj,"2,69",1054,1.582,91,37307,N/A,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/s%C3%B8vangen-34/
+Lyøvej 11,55.855137,12.34187,5295000,Villa,5,1978,høj,"1,98",236,1.406,145,36517,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/ly%C3%B8vej-11/
+Skyttekrogen 1,55.862405,12.330239,3495000,Rækkehus,4,,høj,"1,89",595,432,129,27093,N/A,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/skyttekrogen-1/
+Mosevænget 22,55.873791,12.37785,4495000,Rækkehus,4,1993,høj,"1,44",786,723,118,38093,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/mosev%C3%A6nget-22/
+Møllemoseparken 44,55.871115,12.32047,7295000,Villa,6,,mellem,"2,25",519,785,189,38597,N/A,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/m%C3%B8llemoseparken-44/
+Vindbygårdsvej 15,55.869868,12.391536,4995000,Villa,5,1967,høj,"2,28",465,604,152,32861,D,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/vindbyg%C3%A5rdsvej-15/
+Magnolievangen 42,55.873179,12.331336,3595000,Rækkehus,5,1975,mellem,"1,58",214,738,112,32098,B,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/magnolievangen-42/
+Morelvænget 16,55.850231,12.338356,6195000,Villa,5,1987,høj,"2,57",820,1.852,175,35400,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/morelv%C3%A6nget-16/
+Rævebakkevej 14,55.873782,12.302015,2995000,Ejerlejlighed,3,2007,lav,"3,44",1686,1.937,125,23960,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/r%C3%A6vebakkevej-14/
+Enevangen 26,55.870115,12.329328,3295000,Rækkehus,4,1974,mellem,"1,69",249,426,114,28903,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/enevangen-26/
+Magnolievangen 41,55.874188,12.332368,3595000,Rækkehus,4,1975,lav,"1,53",196,848,112,32098,A2010,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/magnolievangen-41/
+"Ørnevang 20, 2. th",55.882751,12.354437,2445000,Ejerlejlighed,3,,mellem,"1,30",198,566,99,24696,D,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/%C3%B8rnevang-20/2-th/
+Cedervangen 22,55.868621,12.328748,3650000,Rækkehus,4,1973,mellem,"1,75",403,264,112,32589,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/cedervangen-22/
+Magnolievangen 35,55.874221,12.33212,3295000,Rækkehus,5,1975,lav,"1,55",208,852,112,29419,A,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/magnolievangen-35/
+Møllemoseparken 8,55.869931,12.324317,7350000,Villa,5,,mellem,"2,01",367,522,183,40163,N/A,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/m%C3%B8llemoseparken-8/
+"Ørnevang 2, 2. tv",55.883506,12.353039,1945000,Ejerlejlighed,3,,mellem,"1,39",318,648,89,21853,D,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/%C3%B8rnevang-2/2-tv/
+Kollerødvej 60,55.868759,12.341226,4995000,Villa,5,1904,mellem,964,402,620,185,27000,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/koller%C3%B8dvej-60/
+Gl Lyngevej 63,55.864128,12.346245,5695000,Villa,4,1971,mellem,983,425,702,130,43807,B,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/gl%20lyngevej-63/
+Skovvejen 25,55.871355,12.37592,7745000,Villa,6,2019,høj,"1,28",687,578,197,39314,A2015,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/skovvejen-25/
+Morbærvej 10,55.872374,12.341166,6500000,Villa,5,,mellem,944,500,808,160,40625,N/A,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/morb%C3%A6rvej-10/
+Parkvej 40,55.874441,12.392806,4500000,Rækkehus,3,2004,meget høj,"2,39",870,970,103,43689,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/parkvej-40/
+Søengen 16,55.853519,12.328785,2495000,Rækkehus,3,,høj,"2,60",1043,1.416,70,35642,N/A,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/s%C3%B8engen-16/
+Østre Teglværksvej 6B,55.862985,12.384222,2995000,Rækkehus,3,1965,høj,"2,02",560,201,79,37911,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/%C3%B8stre%20teglv%C3%A6rksvej-6b/
+Søengen 2,55.853818,12.3286,2495000,Rækkehus,3,1987,høj,"2,58",1043,1.384,70,35642,B,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/s%C3%B8engen-2/
+Bøgealle 9,55.874813,12.350994,5195000,Villa,5,1968,lav,516,364,359,155,33516,D,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/b%C3%B8gealle-9/
+Vejs Ende 2,55.874834,12.302108,3995000,Villa,3,1755,mellem,"3,45",1696,1.985,145,27551,F,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/vejs%20ende-2/
+Mosekrogen 30,55.874044,12.37669,4495000,Villa,3,,høj,"1,37",853,782,103,43640,N/A,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/mosekrogen-30/
+"Ørnevang 4, 1. th",55.883479,12.353329,2195000,Ejerlejlighed,4,1965,mellem,"1,39",304,645,106,20707,D,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/%C3%B8rnevang-4/1-th/
+Byparken 42,55.86896,12.387099,3795000,Rækkehus,6,1971,høj,"2,01",170,304,164,23140,B,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/byparken-42/
+Gl Lyngevej 69,55.863106,12.345655,7795000,Villa,4,2015,høj,"1,10",438,817,203,38399,A2015,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/gl%20lyngevej-69/
+Sydkæret 4,55.850707,12.33106,4595000,Villa,6,1906,høj,"2,76",1074,1.731,150,30633,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/sydk%C3%A6ret-4/
+Kirkeltevej 45,55.892434,12.358676,5995000,Villa,5,1933,mellem,"2,38",1253,1.670,145,41344,D,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/kirkeltevej-45/
+Kastaniealle 10,55.873047,12.354289,5995000,Villa,7,1944,lav,239,523,401,252,23789,E,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/kastaniealle-10/
+Høveltsvangsvej 84,55.8492,12.342202,2695000,Villa,2,1923,meget høj,"2,58",856,2.027,64,42109,F,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/h%C3%B8veltsvangsvej-84/
+Lillegårdsvej 10,55.860284,12.343316,6295000,Villa,5,1975,høj,"1,44",386,989,155,40612,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/lilleg%C3%A5rdsvej-10/
+Vejs Ende 4A,55.87513,12.302978,8295000,Villa,6,2015,mellem,"3,40",1647,1.953,240,34562,A2010,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/vejs%20ende-4a/
+Horsemosevej 20,55.87387,12.361853,3300000,Villa,4,1955,høj,494,740,674,90,36666,F,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/horsemosevej-20/
+Brislingvej 32,55.857085,12.335928,4925000,Villa,5,1973,høj,"2,01",522,1.076,154,31980,D,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/brislingvej-32/
+Laksevej 16,55.855093,12.330098,4495000,Villa,5,1973,høj,"2,42",913,1.242,154,29188,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/laksevej-16/
+Magnolievangen 76,55.873121,12.332033,3495000,Rækkehus,4,1975,mellem,"1,53",252,730,112,31205,B,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/magnolievangen-76/
+Nyvej 1,55.875535,12.360182,5650000,Villa,4,1930,høj,567,529,481,126,44841,E,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/nyvej-1/
+Engvej 9,55.870625,12.390303,4795000,Villa,5,1967,høj,"2,20",445,571,135,35518,D,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/engvej-9/
+Platanhaven 10,55.868886,12.332058,5695000,Villa,4,1974,mellem,"1,53",248,260,156,36506,D,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/platanhaven-10/
+Tunet 21,55.866956,12.327147,6195000,Villa,5,1977,mellem,"1,88",472,166,176,35198,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/tunet-21/
+Byagervej 9,55.86843,12.384112,6750000,Villa,7,1961,høj,"1,83",73,107,175,38571,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/byagervej-9/
+Prins Valdemars Alle 9D,55.868581,12.357587,3595000,Ejerlejlighed,3,2014,lav,299,461,267,93,38655,A,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/prins%20valdemars%20alle-9d/
+Magnolievangen 51,55.874059,12.331542,3595000,Rækkehus,3,1975,lav,"1,58",249,835,112,32098,B,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/magnolievangen-51/
+"Prins Valdemars Alle 13B, 1. ",55.868178,12.35724,1295000,Villalejlighed,2,1913,lav,335,445,267,66,19621,F,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/prins%20valdemars%20alle-13b/1-/
+Røglevej 100,55.85843,12.329022,4695000,Villa,5,1976,høj,"2,21",977,871,163,28803,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/r%C3%B8glevej-100/
+Søbredden 13,55.857425,12.332157,5495000,Villa,5,1972,høj,"2,14",764,997,167,32904,D,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/s%C3%B8bredden-13/
+Skovbrinken 14,55.874186,12.362594,7250000,Villa,5,1972,høj,553,728,691,190,38157,E,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/skovbrinken-14/
+Forelvej 28,55.855687,12.331891,4995000,Villa,5,1972,høj,"2,29",789,1.185,178,28061,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/forelvej-28/
+Toftevej 21,55.865453,12.342217,6745000,Villa,4,1976,mellem,"1,07",153,644,145,46517,C,https://www.dingeo.dk/adresse/3450-aller%C3%B8d/toftevej-21/
