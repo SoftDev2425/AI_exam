@@ -1,0 +1,242 @@
+Address,X,Y,Price,Type,Room count,Construction year,Risk of burglary,Distance to pharmacy,Distance to daycare,Distance to grocery store,Size,Squaremeter price,Energy class,Url
+Humlehaven 8,55.932963,12.308659,2695000,Ejerlejlighed,3,,lav,408,317,357,85,31705,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/humlehaven-8/
+Tjærebyvej 9,55.931413,12.216612,4495000,Villa,6,1840,meget lav,"3,95",2926,3.070,192,23411,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/tj%C3%A6rebyvej-9/
+Attemosevej 1,55.901287,12.250717,9950000,Landejendom,14,1864,meget høj,"4,50",2102,3.263,468,21260,A2010,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/attemosevej-1/
+Gulspurvevej 8,55.945967,12.257396,3295000,Villa,4,1964,lav,"1,44",380,455,102,32303,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/gulspurvevej-8/
+"Gl. Holmegårdsvej 33, st. tv",55.94276,12.312432,2445000,Ejerlejlighed,4,1970,lav,"1,49",736,1.180,89,27471,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/gl.%20holmeg%C3%A5rdsvej-33/st-tv/
+"Hostrupsvej 27, 5. th",55.928333,12.301011,2245000,Ejerlejlighed,2,,lav,242,434,209,60,37416,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/hostrupsvej-27/5-th/
+Smedievej 63,55.934494,12.349549,4495000,Villa,4,1973,lav,"1,05",367,541,143,31433,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/smedievej-63/
+Ved Skansebakken 103,55.93331,12.334709,2245000,Rækkehus,2,100 MBit,lav,276,269,265,53,42358,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/ved%20skansebakken-103/
+Jespervej 5,55.935802,12.31429,2995000,Villa,9,1906,mellem,884,447,482,181,16546,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/jespervej-5/
+Tirsdagsengen 46,55.928058,12.275372,1395000,Fritidshus,3,,lav,"1,26",1265,605,50,27900,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/tirsdagsengen-46/
+Regnbuen 61,55.939631,12.262465,4395000,Rækkehus,4,2017,lav,923,212,322,133,33045,A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/regnbuen-61/
+Slotsvænget 16,55.939105,12.309197,6495000,Villa,5,,lav,"1,04",719,968,132,49204,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/slotsv%C3%A6nget-16/
+Brødeskovparken 95,55.88849,12.281955,4650000,Villa,6,2001,mellem,"4,79",558,3.528,155,30000,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/br%C3%B8deskovparken-95/
+Brødeskovparken 14,55.88814,12.285469,4195000,Villa,5,2002,mellem,"4,78",775,3.540,160,26218,B,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/br%C3%B8deskovparken-14/
+"Solbakken 2D, 1. th",55.934176,12.316213,2550000,Ejerlejlighed,3,,mellem,870,413,283,98,26020,B,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/solbakken-2d/1-th/
+Kongens Vænge 263,55.943093,12.346371,3495000,Rækkehus,4,2006,mellem,"1,56",259,1.461,98,35663,B,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/kongens%20v%C3%A6nge-263/
+Tirsdagsvænget 21,55.92847,12.284922,1645000,Fritidshus,2,,mellem,971,737,474,68,24191,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/tirsdagsv%C3%A6nget-21/
+Gadekærvej 11,55.903314,12.240495,2995000,Villa,4,,meget lav,"4,63",2731,2.900,138,21702,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/gadek%C3%A6rvej-11/
+Enghavegårdsvej 40,55.888947,12.270847,2999000,Villa,3,1969,høj,"4,96",226,3.654,117,25632,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/enghaveg%C3%A5rdsvej-40/
+Fuglefængervej 9,55.941625,12.281011,4145000,Villa,4,1973,mellem,357,211,91,154,26915,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/fuglef%C3%A6ngervej-9/
+Damvejen 18,55.963758,12.252349,9750000,Landejendom,6,1940,høj,"3,12",1403,1.643,256,38085,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/damvejen-18/
+"Fredskovhellet 24, st. th",55.932043,12.337787,2350000,Ejerlejlighed,4,1963,lav,260,197,245,110,21363,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/fredskovhellet-24/st-th/
+Viemosevej 3,55.949362,12.261677,5995000,Villa,6,2006,lav,"1,47",321,186,154,38928,B,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/viemosevej-3/
+Brødeskovvej 25,55.894743,12.312571,5895000,Villa,4,1955,meget lav,"3,81",1545,3.131,159,37075,A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/br%C3%B8deskovvej-25/
+Jespervej 259,55.945996,12.342454,2995000,Villa,4,1940,lav,"1,76",649,1.748,105,28523,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/jespervej-259/
+Åmosevej 5,55.926018,12.299866,4345000,Villa,4,1910,mellem,486,443,352,124,35040,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/%C3%A5mosevej-5/
+Vangeledet 3,55.942254,12.276538,4595000,Villa,5,,mellem,317,146,283,161,28540,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/vangeledet-3/
+"Nordre Jernbanevej 3B, st. th",55.931523,12.307702,2995000,Ejerlejlighed,3,,lav,254,218,189,98,30561,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/nordre%20jernbanevej-3b/st-th/
+Hansensvej 19,55.926188,12.304348,5495000,Villa,6,1952,mellem,443,170,451,140,39250,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/hansensvej-19/
+Gl. Holmegårdsvej 73E,55.942409,12.314101,1145000,Ejerlejlighed,1,,lav,"1,49",637,1.102,41,27926,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/gl.%20holmeg%C3%A5rdsvej-73e/
+Fasanvej 18,55.95283,12.252241,5395000,Villa,8,1976,lav,"2,17",1034,782,188,28696,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/fasanvej-18/
+"Hostrupsvej 23, 4. th",55.928233,12.301405,1995000,Ejerlejlighed,3,1936,lav,261,409,237,74,26959,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/hostrupsvej-23/4-th/
+Bøgekrogen 2,55.96875,12.295235,4395000,Villa,6,,lav,"3,46",1147,2.848,143,30734,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/b%C3%B8gekrogen-2/
+Stutmestervej 12A,55.937196,12.292182,4795000,Villa,5,1955,lav,897,409,177,151,31754,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/stutmestervej-12a/
+"Fredskovhellet 2H, 2. 55",55.933013,12.336274,1095000,Ejerlejlighed,1,1972,lav,273,239,259,52,21057,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/fredskovhellet-2h/2-55/
+Viemosevej 6,55.950829,12.261217,7495000,Villa,6,2005,lav,"1,62",445,170,172,43575,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/viemosevej-6/
+"Brickasvej 16, kl. ",55.936306,12.284549,1895000,Ejerlejlighed,3,1943,lav,594,580,492,88,21534,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/brickasvej-16/kl-/
+Jespervej 200,55.943898,12.338386,5295000,Villa,4,1962,mellem,"1,47",494,1.461,130,40730,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/jespervej-200/
+Ålholmparken 30,55.937045,12.261398,3595000,Rækkehus,4,1973,lav,"1,03",53,593,135,26629,B,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/%C3%A5lholmparken-30/
+Solbuen 107,55.936446,12.251121,5995000,Villa,6,2009,lav,"1,68",681,905,163,36779,A2010,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/solbuen-107/
+Fuglefængervej 10,55.941448,12.280819,3795000,Villa,4,1973,mellem,335,216,96,133,28533,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/fuglef%C3%A6ngervej-10/
+Hammersholt Byvej 33,55.892765,12.328628,4495000,Villa,7,1927,mellem,"2,97",973,2.311,194,23170,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/hammersholt%20byvej-33/
+Gl. Frederiksborgvej 80,55.903166,12.342598,3595000,Villa,4,1973,mellem,"3,12",485,2.915,113,31814,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/gl.%20frederiksborgvej-80/
+"Allékredsen 1, 2. 1",55.941642,12.262098,3195000,Ejerlejlighed,3,,lav,978,268,114,84,38035,A2010,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/all%C3%A9kredsen-1/2-1/
+Baunevej 2,55.971473,12.230392,3995000,Villa,4,1959,høj,"4,63",298,3.155,128,31210,A2010,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/baunevej-2/
+"Nordre Jernbanevej 3B, st. tv",55.931523,12.307702,3395000,Ejerlejlighed,4,,lav,254,218,189,102,33284,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/nordre%20jernbanevej-3b/st-tv/
+Fangekrogen 6,55.94526,12.277436,4345000,Villa,5,1969,mellem,650,241,542,141,30815,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/fangekrogen-6/
+Fangekrogen 3,55.944616,12.277187,3495000,Villa,4,1968,mellem,578,182,495,142,24612,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/fangekrogen-3/
+"Københavnsvej 6B, st. th",55.933763,12.311499,1870000,Ejerlejlighed,2,1896,lav,599,395,535,55,34000,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/k%C3%B8benhavnsvej-6b/st-th/
+"Københavnsvej 14, st. tv",55.932446,12.314298,2995000,Ejerlejlighed,3,1890,mellem,675,349,387,103,29077,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/k%C3%B8benhavnsvej-14/st-tv/
+Vænget 1,55.925983,12.223618,3095000,Villa,4,1959,lav,"3,71",2705,2.990,100,30950,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/v%C3%A6nget-1/
+Dyrehavevej 58,55.930462,12.331254,6295000,Rækkehus,5,1947,lav,198,268,211,182,34587,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/dyrehavevej-58/
+Gribskovvej 7,55.946682,12.267311,5495000,Villa,6,1954,mellem,"1,01",101,479,167,32904,B,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/gribskovvej-7/
+Søsvinget 17,55.956382,12.17932,1895000,Fritidshus,6,,meget lav,"6,50",2784,5.422,118,16059,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/s%C3%B8svinget-17/
+"Trollesvej 2, 1. 3",55.928924,12.294451,4175000,Ejerlejlighed,3,2009,lav,378,379,75,113,36946,B,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/trollesvej-2/1-3/
+"Møllestræde 11, 2. ",55.930494,12.297309,5295000,Ejerlejlighed,5,,lav,159,235,171,184,28777,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/m%C3%B8llestr%C3%A6de-11/2-/
+Rørdamsvej 8,55.942061,12.295623,7995000,Villa,7,2004,mellem,"1,23",606,715,187,42754,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/r%C3%B8rdamsvej-8/
+"Fredskovhellet 28, 1. tv",55.931597,12.338773,2495000,Ejerlejlighed,4,1963,lav,298,229,284,109,22889,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/fredskovhellet-28/1-tv/
+"Slangerupgade 12B, st. tv",55.932049,12.296523,2445000,Ejerlejlighed,3,1927,lav,278,74,351,82,29817,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/slangerupgade-12b/st-tv/
+Mellemvangen 17,55.918732,12.313943,5195000,Villa,5,1960,lav,"1,41",692,1.366,155,33516,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/mellemvangen-17/
+Skovhegnet 3,55.943288,12.291589,5295000,Villa,6,1961,mellem,"1,03",401,635,136,38933,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/skovhegnet-3/
+Solsortvej 12,55.938764,12.273453,5790000,Villa,4,1936,mellem,234,561,176,232,24956,A2010,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/solsortvej-12/
+Hanebjergvej 3,55.880036,12.245731,14600000,Villa,11,1993,meget lav,"5,09",1687,2.750,605,24132,A2010,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/hanebjergvej-3/
+Tirsdagsengen 14,55.927485,12.274736,1295000,Fritidshus,3,,lav,"1,33",1307,680,50,25900,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/tirsdagsengen-14/
+"Ved Egedam 17, 2. 123",55.930359,12.341516,1795000,Ejerlejlighed,2,1975,lav,463,396,324,70,25642,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/ved%20egedam-17/2-123/
+Egevænget 8,55.965977,12.29643,11700000,Villa,5,2017,lav,"3,20",1045,2.696,180,65000,A2015,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/egev%C3%A6nget-8/
+Trekløvervej 10,55.936093,12.281042,3995000,Rækkehus,4,1963,høj,451,678,428,119,33571,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/trekl%C3%B8vervej-10/
+"Allékredsen 5, 1. 2",55.941495,12.263316,3995000,Ejerlejlighed,4,2017,lav,903,343,182,106,37688,A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/all%C3%A9kredsen-5/1-2/
+Enghavegårdsvej 37,55.88702,12.271136,3495000,Villa,4,1970,høj,"5,15",152,3.850,130,26884,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/enghaveg%C3%A5rdsvej-37/
+Trekløvervej 4,55.936291,12.280799,3545000,Rækkehus,4,1961,høj,424,667,451,81,43765,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/trekl%C3%B8vervej-4/
+Ullerødvej 56,55.936928,12.263646,2795000,Villa,3,1955,lav,891,100,631,79,35379,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/uller%C3%B8dvej-56/
+"Fredskovhellet 26, 2. tv",55.931743,12.337843,2595000,Ejerlejlighed,3,,lav,247,181,233,110,23590,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/fredskovhellet-26/2-tv/
+"Solbakken 2B, 1. th",55.934235,12.315916,2845000,Ejerlejlighed,4,,mellem,857,433,303,98,29030,B,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/solbakken-2b/1-th/
+Dalsvinget 8,55.954345,12.180719,1295000,Fritidshus,4,1972,meget lav,"6,35",2822,5.275,47,27553,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/dalsvinget-8/
+Rosenhøj 7,55.965229,12.287597,4350000,Villa,5,,lav,"2,95",524,2.229,120,36250,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/rosenh%C3%B8j-7/
+Skippermosen 25,55.940779,12.327838,3695000,Villa,5,1973,mellem,"1,18",349,926,133,27781,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/skippermosen-25/
+Helsevej 21,55.933297,12.323546,5595000,Villa,6,1953,mellem,737,64,135,174,32155,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/helsevej-21/
+Hillerødvej 36,55.955547,12.244161,4995000,Villa,5,,mellem,"2,75",769,1.372,169,29556,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/hiller%C3%B8dvej-36/
+"Finn Bager Jensens Vej 1, st. tv",55.941509,12.260996,2995000,Ejerlejlighed,2,2021,lav,"1,04",213,97,82,36524,A2015,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/finn%20bager%20jensens%20vej-1/st-tv/
+Søbuen 39,55.93993,12.250197,4595000,Rækkehus,4,2016,lav,"1,71",590,732,122,37663,A2015,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/s%C3%B8buen-39/
+"Slangerupgade 27F, 2. tv",55.92919,12.296152,1295000,Ejerlejlighed,1,,lav,268,352,115,36,35972,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/slangerupgade-27f/2-tv/
+Rytterstien 28,55.928478,12.333534,10600000,Villa,6,,lav,266,296,278,259,40926,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/rytterstien-28/
+"Mathilde Parken 13, 1. th",55.931787,12.31333,2650000,Ejerlejlighed,3,2007,lav,592,255,466,82,32317,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/mathilde%20parken-13/1-th/
+Kirsebæralle 6,55.943085,12.267383,4795000,Villa,7,1966,mellem,734,441,423,286,16765,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/kirseb%C3%A6ralle-6/
+Skovledet 130,55.94022,12.327533,3995000,Villa,4,1959,mellem,"1,13",335,862,140,28535,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/skovledet-130/
+Tirsdagsvænget 3,55.928267,12.28568,995000,Fritidshus,2,,mellem,930,712,496,50,19900,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/tirsdagsv%C3%A6nget-3/
+Byskellet 4,55.935711,12.365095,3350000,Villa,5,1943,meget lav,"2,04",1261,1.344,112,29910,F,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/byskellet-4/
+"Mathilde Parken 11, st. tv",55.931674,12.313304,2495000,Ejerlejlighed,3,2007,lav,587,245,471,80,31187,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/mathilde%20parken-11/st-tv/
+Præstevej 6,55.954129,12.229938,2395000,Villa,4,1962,mellem,"3,41",459,2.195,120,19958,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/pr%C3%A6stevej-6/
+Søbuen 82,55.940471,12.251957,5695000,Villa,6,2012,lav,"1,60",463,605,160,35593,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/s%C3%B8buen-82/
+Københavnsvej 32,55.930936,12.316564,9995000,Villa,11,1931,mellem,775,404,338,388,25760,F,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/k%C3%B8benhavnsvej-32/
+"Skovledet 101A, st. tv",55.936387,12.329988,2095000,Ejerlejlighed,2,1964,mellem,675,294,645,95,22052,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/skovledet-101a/st-tv/
+Bolværket 67,55.944829,12.343629,2695000,Rækkehus,3,1988,mellem,"1,66",500,1.650,89,30280,B,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/bolv%C3%A6rket-67/
+Karlebovej 78,55.919269,12.385618,11995000,Landejendom,5,1852,høj,"3,51",2004,2.756,238,50399,F,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/karlebovej-78/
+Nordre Jernbanevej 20,55.929375,12.309373,4495000,Villa,6,1913,lav,325,117,235,156,28814,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/nordre%20jernbanevej-20/
+Enghavegårdsvej 46,55.888436,12.271195,3995000,Villa,8,1968,høj,"5,00",172,3.700,188,21250,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/enghaveg%C3%A5rdsvej-46/
+Højager 107B,55.942577,12.337334,6995000,Villa,5,2011,mellem,"1,32",465,1.306,195,35871,B,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/h%C3%B8jager-107b/
+Helsingørsgade 23B,55.930914,12.305131,5995000,Helårsgrund,3,,lav,92,339,99,445,13471,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/helsing%C3%B8rsgade-23b/
+Cirkelbuen 85,55.949335,12.256157,3645000,Rækkehus,4,2021,lav,"1,72",649,505,126,28928,A2010,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/cirkelbuen-85/
+Ved Skansebakken 97,55.933194,12.334262,1950000,Rækkehus,2,,lav,262,262,252,51,38235,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/ved%20skansebakken-97/
+Gadeledsvej 4,55.964388,12.282679,2375000,Villa,2,1777,mellem,"2,80",270,1.954,60,39583,G,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/gadeledsvej-4/
+"Møllestræde 12, 1. ",55.930551,12.297042,2975000,Ejerlejlighed,4,1938,lav,176,222,182,100,29750,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/m%C3%B8llestr%C3%A6de-12/1-/
+Frederik VIIs Vej 8,55.940097,12.313294,4495000,Villa,5,1972,lav,"1,24",508,892,154,29188,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/frederik%20viis%20vej-8/
+Skovledet 56,55.933169,12.333112,2995000,Villa,4,,lav,270,288,263,105,28523,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/skovledet-56/
+Hjortholmvej 1,55.933872,12.317684,3750000,Villa,5,1937,mellem,936,315,183,97,38659,F,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/hjortholmvej-1/
+Slotsgade 24D,55.930417,12.300225,2495000,Ejerlejlighed,2,1890,lav,27,370,215,74,33716,B,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/slotsgade-24d/
+Brødeskovparken 4,55.888359,12.286318,5695000,Villa,7,2008,mellem,"4,75",831,3.511,190,29973,B,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/br%C3%B8deskovparken-4/
+Brickasvej 17,55.935889,12.284892,4495000,Villa,7,1961,lav,639,568,460,215,20906,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/brickasvej-17/
+Tirsdagsengen 67,55.928317,12.27587,1295000,Fritidshus,2,,lav,"1,23",1224,563,50,25900,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/tirsdagsengen-67/
+Sangagervej 6,55.97227,12.239514,4745000,Villa,6,2020,mellem,"4,36",298,2.870,165,28757,A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/sangagervej-6/
+"Allékredsen 5, st. th",55.941495,12.263316,3595000,Ejerlejlighed,3,,lav,899,346,185,90,39944,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/all%C3%A9kredsen-5/st-th/
+"Slotsgade 29, 2. th",55.930621,12.299332,4295000,Ejerlejlighed,3,,lav,39,311,202,127,33818,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/slotsgade-29/2-th/
+"Slotsgade 61, 2. 32",55.933086,12.297954,2895000,Ejerlejlighed,2,,lav,321,179,417,84,34464,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/slotsgade-61/2-32/
+Skovlyet 13A,55.961823,12.303708,7495000,Villa,6,1991,lav,"3,02",1413,2.661,174,43074,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/skovlyet-13a/
+Stutmestervej 18C,55.938027,12.292624,3495000,Rækkehus,3,100 MBit,mellem,962,499,257,94,37180,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/stutmestervej-18c/
+Kastaniehaven 4,55.940063,12.33177,4995000,Villa,4,1985,mellem,"1,04",111,1.000,185,27000,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/kastaniehaven-4/
+"Frederiksværksgade 30, st. ",55.936705,12.289906,4495000,Ejerlejlighed,3,1917,lav,878,398,243,90,49944,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/frederiksv%C3%A6rksgade-30/st-/
+Carlsbergvej 5,55.930576,12.315479,8995000,Villa,9,1930,mellem,703,330,416,280,32125,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/carlsbergvej-5/
+"Helsingørsgade 27D, 1. ",55.931,12.305319,7500000,Ejerlejlighed,5,100 MBit,lav,106,329,102,165,45454,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/helsing%C3%B8rsgade-27d/1-/
+Åsvinget 31,55.953446,12.176217,3095000,Fritidshus,4,1980,meget lav,"6,60",2523,5.241,96,32239,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/%C3%A5svinget-31/
+Kongens Vænge 151,55.938361,12.351628,3595000,Villa,4,1975,mellem,"1,39",394,990,155,23193,G,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/kongens%20v%C3%A6nge-151/
+Jespervej 84,55.93813,12.325606,4495000,Villa,5,1977,mellem,981,340,599,132,34053,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/jespervej-84/
+Ternevej 17,55.953182,12.249469,4295000,Villa,5,1997,mellem,"2,32",1184,961,169,25414,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/ternevej-17/
+Tamsborgvej 30,55.933811,12.319607,4350000,Villa,3,1932,mellem,992,194,86,115,37826,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/tamsborgvej-30/
+Mellemvangen 13,55.918973,12.313664,5995000,Villa,5,1967,meget lav,"1,38",662,1.335,153,39183,B,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/mellemvangen-13/
+Højdevej 19,55.956633,12.226454,5795000,Villa,8,1971,mellem,"3,74",430,2.476,240,24145,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/h%C3%B8jdevej-19/
+Folemestervej 1,55.944021,12.287471,3785000,Villa,4,,mellem,843,297,452,105,36047,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/folemestervej-1/
+Bakkesvinget 6,55.955199,12.22961,5395000,Villa,7,1897,mellem,"3,49",365,2.241,299,18043,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/bakkesvinget-6/
+Hjortespringet 6,55.940971,12.318227,4595000,Villa,4,1968,mellem,"1,48",365,876,131,35076,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/hjortespringet-6/
+Sydskrænten 9,55.956117,12.227353,2250000,Villa,4,,mellem,"3,66",402,2.405,89,25280,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/sydskr%C3%A6nten-9/
+Frejasvej 2,55.935989,12.288695,2995000,Villa,3,1904,lav,839,378,297,122,24549,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/frejasvej-2/
+Stutmestervej 18B,55.937919,12.2926,5995000,Rækkehus,5,1953,mellem,952,487,246,147,40782,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/stutmestervej-18b/
+Kildegårdsvej 7,55.963984,12.196964,17500000,Landejendom,7,1820,mellem,"5,78",2381,4.514,284,61619,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/kildeg%C3%A5rdsvej-7/
+Kulsvier Huse 4,55.967435,12.289471,2995000,Villa,3,1988,lav,"3,21",784,2.491,81,36975,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/kulsvier%20huse-4/
+Frederiksværksgade 86,55.93877,12.281352,5495000,Villa,6,1919,mellem,289,427,281,159,34559,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/frederiksv%C3%A6rksgade-86/
+Carlsbergvej 9,55.929687,12.314691,6475000,Villa,7,1957,mellem,653,285,521,148,43750,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/carlsbergvej-9/
+Løngangsgade 31B,55.932501,12.292053,4495000,Villa,6,1938,lav,546,124,370,172,26133,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/l%C3%B8ngangsgade-31b/
+Hjulmagervej 4,55.941409,12.284566,3695000,Villa,4,1969,mellem,533,102,147,125,29560,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/hjulmagervej-4/
+"Mathilde Parken 5, 1. th",55.931291,12.313174,2595000,Ejerlejlighed,3,,lav,568,214,478,79,32848,A2010,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/mathilde%20parken-5/1-th/
+"Frederiksværksgade 30, 1. ",55.936705,12.289906,3495000,Ejerlejlighed,3,1917,lav,878,398,243,72,48541,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/frederiksv%C3%A6rksgade-30/1-/
+"Jespervej 124A, 2. ",55.939008,12.330565,1995000,Ejerlejlighed,3,1943,mellem,938,103,861,90,22166,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/jespervej-124a/2-/
+"Mathilde Parken 3, 1. th",55.931178,12.313149,2495000,Ejerlejlighed,3,2006,lav,564,206,473,79,31582,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/mathilde%20parken-3/1-th/
+"Slangerupgade 18, 1. th",55.931306,12.296432,2295000,Ejerlejlighed,3,,lav,237,129,274,92,24945,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/slangerupgade-18/1-th/
+"Tamsborgvej 13, 1. ",55.932726,12.317995,3645000,Ejerlejlighed,6,,mellem,907,299,151,154,23668,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/tamsborgvej-13/1-/
+Ålholmparken 64,55.937766,12.260071,4450000,Villa,9,1970,lav,"1,09",168,514,229,19432,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/%C3%A5lholmparken-64/
+"Frederiksværksgade 56, 1. ",55.937596,12.286131,2095000,Ejerlejlighed,3,1927,mellem,618,428,473,79,26518,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/frederiksv%C3%A6rksgade-56/1-/
+Frederik VIIs Vej 10,55.940402,12.313696,4995000,Villa,5,,lav,"1,28",503,909,139,35935,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/frederik%20viis%20vej-10/
+Hyacintvej 19,55.954668,12.24225,2795000,Villa,4,1994,mellem,"2,79",701,1.450,87,32126,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/hyacintvej-19/
+"Ved Egedam 17, 2. 120",55.930359,12.341516,2695000,Ejerlejlighed,4,1975,lav,463,396,324,106,25424,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/ved%20egedam-17/2-120/
+Møllesvinget 4,55.96874,12.231278,2995000,Villa,4,1965,høj,"4,37",456,2.898,121,24752,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/m%C3%B8llesvinget-4/
+Slettebjerget 148,55.902814,12.335278,2995000,Rækkehus,4,,mellem,"3,11",353,3.025,114,26271,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/slettebjerget-148/
+Nordskrænten 12B,55.957559,12.226243,5745000,Villa,6,2005,lav,"3,81",421,2.519,180,31916,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/nordskr%C3%A6nten-12b/
+Nordvej 6,55.980522,12.238904,9750000,Landejendom,7,1870,meget høj,"5,00",948,3.691,277,35198,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/nordvej-6/
+Birgitte Gøyesvej 7,55.937803,12.281449,3895000,Villa,4,1939,mellem,337,504,385,117,33290,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/birgitte%20g%C3%B8yesvej-7/
+Humlegårdsvej 18,55.935421,12.264554,6195000,Villa,5,1975,lav,905,221,807,140,44250,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/humleg%C3%A5rdsvej-18/
+"Søndre Jernbanevej 3A, 2. tv",55.928418,12.305764,1945000,Ejerlejlighed,3,100 MBit,lav,212,132,193,67,29029,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/s%C3%B8ndre%20jernbanevej-3a/2-tv/
+"Fredskovhellet 29, st. tv",55.931491,12.339253,1795000,Ejerlejlighed,2,1963,lav,324,255,311,71,25281,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/fredskovhellet-29/st-tv/
+Hostrupsvej 1A,55.927658,12.30547,7250000,Ejerlejlighed,5,,mellem,287,164,278,133,54511,A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/hostrupsvej-1a/
+Tietgensvej 11,55.935779,12.287061,3995000,Villa,5,1948,lav,760,442,400,158,25284,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/tietgensvej-11/
+Hermann Justvej 11,55.934833,12.321594,5495000,Villa,5,2002,mellem,923,174,171,152,36151,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/hermann%20justvej-11/
+"Nordre Jernbanevej 13C, 2. th",55.930348,12.308248,1995000,Ejerlejlighed,2,1985,lav,241,133,149,52,38365,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/nordre%20jernbanevej-13c/2-th/
+Rytterstien 27B,55.92875,12.332227,3245000,Rækkehus,4,1954,lav,266,314,280,92,35271,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/rytterstien-27b/
+Tirsdagsvænget 18,55.928132,12.28472,1350000,Fritidshus,2,100 MBit,mellem,993,769,502,49,27551,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/tirsdagsv%C3%A6nget-18/
+"Nordre Jernbanevej 3C, 1. tv",55.931443,12.307972,2695000,Ejerlejlighed,3,1949,lav,263,199,193,81,33271,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/nordre%20jernbanevej-3c/1-tv/
+Egholmen 15,55.91674,12.315442,5695000,Villa,5,2008,lav,"1,65",912,1.607,148,38479,B,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/egholmen-15/
+Sommersvej 30,55.946435,12.268834,3095000,Villa,3,1960,mellem,936,202,553,79,39177,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/sommersvej-30/
+Bygaden 34A,55.887243,12.272909,2750000,Rækkehus,3,1917,høj,"5,09",41,3.792,146,18835,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/bygaden-34a/
+Granbakken 54,55.939452,12.31581,5695000,Villa,6,1968,mellem,"1,26",333,757,168,33898,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/granbakken-54/
+Rønnebærvej 21,55.9421,12.268522,5395000,Villa,5,1961,mellem,615,566,489,148,36452,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/r%C3%B8nneb%C3%A6rvej-21/
+Granbakken 30,55.938007,12.315599,4195000,Rækkehus,5,1963,mellem,"1,12",299,618,114,36798,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/granbakken-30/
+Solskrænten 1,55.934134,12.326798,4595000,Villa,5,1958,mellem,602,155,355,136,33786,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/solskr%C3%A6nten-1/
+Maltevang 34,55.929375,12.333531,3995000,Rækkehus,5,1990,lav,169,208,182,144,27743,B,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/maltevang-34/
+Frejasvej 52,55.929805,12.284198,5995000,Villa,5,1924,lav,996,686,322,183,32759,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/frejasvej-52/
+Granbakken 60,55.939313,12.316255,6695000,Villa,7,1971,mellem,"1,26",301,732,230,29108,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/granbakken-60/
+Svalevej 11,55.903746,12.326686,2400000,Villa,4,1966,høj,"3,05",238,2.928,163,14723,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/svalevej-11/
+Nordhøjvej 22,55.937823,12.243689,6800000,Landejendom,4,1900,meget lav,"2,13",1066,1.205,152,44736,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/nordh%C3%B8jvej-22/
+Helsingørsgade 51,55.932931,12.307505,19995000,Villa,9,1910,lav,361,346,324,373,53605,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/helsing%C3%B8rsgade-51/
+Gribskov Parkvej 15,55.966928,12.281442,6995000,Villa,6,1997,høj,"3,07",542,2.141,207,33792,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/gribskov%20parkvej-15/
+Godthåbsvej 45,55.923282,12.30393,6945000,Villa,6,1952,mellem,767,122,740,162,42870,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/godth%C3%A5bsvej-45/
+"Hostrupsvej 27, 3. th",55.928333,12.301011,1795000,Ejerlejlighed,2,,lav,242,434,209,59,30423,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/hostrupsvej-27/3-th/
+Skovledet 75,55.933978,12.332115,3999000,Villa,3,1935,lav,376,368,370,79,50620,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/skovledet-75/
+Skovhegnet 4,55.944702,12.288157,6495000,Villa,6,1968,mellem,925,383,536,149,43590,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/skovhegnet-4/
+"Langesvej 28, 1. ",55.932563,12.312205,3995000,Ejerlejlighed,4,,lav,559,281,481,113,35353,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/langesvej-28/1-/
+Slotsgade 50D,55.932484,12.299521,4995000,Rækkehus,3,1890,lav,232,258,401,85,58764,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/slotsgade-50d/
+Hillerødvej 28,55.957036,12.233395,1345000,Villa,3,1877,lav,"3,40",105,2.069,85,15823,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/hiller%C3%B8dvej-28/
+Nejedevej 42,55.962961,12.188651,6595000,Villa,10,1777,mellem,"6,20",2258,4.984,380,17355,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/nejedevej-42/
+Gl. Frederiksborgvej 68A,55.903039,12.341005,6195000,Villa,6,2001,mellem,"3,11",416,2.928,185,33486,A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/gl.%20frederiksborgvej-68a/
+Tietgensvej 4B,55.935974,12.288375,2195000,Rækkehus,3,,lav,821,391,318,80,27437,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/tietgensvej-4b/
+Åvang 7,55.938074,12.27817,3795000,Villa,3,1930,mellem,167,535,249,133,28533,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/%C3%A5vang-7/
+Nejedevej 26,55.951256,12.206259,5495000,Villa,8,1962,meget lav,"4,69",1846,3.615,250,21980,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/nejedevej-26/
+Holmegårdsvej 18,55.936679,12.310982,7195000,Villa,6,1933,lav,832,608,710,173,41589,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/holmeg%C3%A5rdsvej-18/
+Tirsdagsvænget 2,55.928442,12.28584,1200000,Fritidshus,2,,mellem,915,692,485,42,28571,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/tirsdagsv%C3%A6nget-2/
+"Hostrupsvej 11, st. ",55.927876,12.30349,3195000,Villalejlighed,3,1933,mellem,263,279,297,110,29045,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/hostrupsvej-11/st-/
+Blytækkervej 14,55.924169,12.294128,5495000,Villa,5,1916,mellem,780,744,492,162,33919,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/blyt%C3%A6kkervej-14/
+Jensensvej 16,55.934375,12.288515,4295000,Villa,5,1925,lav,843,288,343,129,33294,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/jensensvej-16/
+Blåmejsevej 9,55.944949,12.257521,4750000,Villa,5,1969,lav,"1,38",267,356,146,32534,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/bl%C3%A5mejsevej-9/
+Hulvejen 19,55.905743,12.330848,6795000,Villa,7,1963,mellem,"2,79",171,2.805,194,35025,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/hulvejen-19/
+Lærkevej 19A,55.938087,12.275134,3745000,Villalejlighed,4,1949,mellem,187,576,189,116,32284,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/l%C3%A6rkevej-19a/
+"Fredskovhellet 21, 2. tv",55.932209,12.337235,2575000,Ejerlejlighed,4,1963,lav,242,185,227,109,23623,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/fredskovhellet-21/2-tv/
+Ådalen 10,55.937618,12.279104,3345000,Villa,4,1963,høj,241,586,327,91,36758,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/%C3%A5dalen-10/
+Ullerødvej 40,55.937332,12.264942,3275000,Villa,4,1960,lav,799,133,618,94,34840,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/uller%C3%B8dvej-40/
+"Slangerupgade 2, 2. 25",55.932931,12.29803,2995000,Ejerlejlighed,3,1979,lav,303,176,432,82,36524,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/slangerupgade-2/2-25/
+Wedells Vænge 5,55.931925,12.318525,5995000,Villa,5,1952,mellem,916,302,173,175,34257,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/wedells%20v%C3%A6nge-5/
+Petersborgvej 17,55.924386,12.308382,6995000,Villa,5,1927,mellem,690,165,659,163,42914,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/petersborgvej-17/
+Hyacintvej 1,55.955638,12.242941,3995000,Villa,5,1986,mellem,"2,82",693,1.447,155,25774,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/hyacintvej-1/
+Hejrevej 3B,55.953893,12.253199,9995000,Villa,8,2019,lav,"2,21",1052,774,318,31430,A2020,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/hejrevej-3b/
+"Milnersvej 10, st. ",55.92597,12.30691,5195000,Ejerlejlighed,4,,mellem,493,47,468,161,32267,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/milnersvej-10/st-/
+Spættevej 18,55.903271,12.326779,4645000,Villa,5,1965,høj,"3,10",250,2.965,171,27163,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/sp%C3%A6ttevej-18/
+Sophienlund 53,55.952815,12.272299,4095000,Rækkehus,4,2006,lav,"1,52",672,598,103,39757,B,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/sophienlund-53/
+P. Mogensensvej 25,55.92674,12.295576,4395000,Villa,5,1930,mellem,487,621,245,128,34335,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/p.%20mogensensvej-25/
+Falkevej 13,55.947096,12.259906,7250000,Villa,4,1969,lav,"1,38",375,453,326,22239,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/falkevej-13/
+Tirsdagsengen 21,55.92777,12.274029,1345000,Fritidshus,2,,lav,"1,31",1255,686,50,26900,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/tirsdagsengen-21/
+Ladegårdsvangen 9,55.94455,12.279366,4695000,Villa,4,1968,mellem,591,156,411,167,28113,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/ladeg%C3%A5rdsvangen-9/
+Skovledet 131,55.939337,12.327856,5245000,Villa,4,,mellem,"1,03",280,786,161,32577,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/skovledet-131/
+"Slangerupgade 18, kl. ",55.931306,12.296432,1595000,Ejerlejlighed,2,,lav,237,129,274,63,25317,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/slangerupgade-18/kl-/
+Gadevangsvej 131B,55.963628,12.281007,4300000,Villa,4,,mellem,"2,70",179,1.823,108,39814,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/gadevangsvej-131b/
+Smedievej 86,55.939089,12.348777,5795000,Villa,6,2001,mellem,"1,30",217,1.026,190,30500,A2010,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/smedievej-86/
+Tulstrup Have 80,55.959065,12.237224,3895000,Villa,4,1978,høj,"3,34",308,1.943,152,25625,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/tulstrup%20have-80/
+Strødam Mose 13,55.958318,12.26164,2395000,Fritidshus,3,1969,meget lav,"2,32",1186,879,78,30705,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/str%C3%B8dam%20mose-13/
+"Københavnsvej 6D, st. tv",55.933816,12.311317,1895000,Ejerlejlighed,2,,lav,594,399,532,56,33839,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/k%C3%B8benhavnsvej-6d/st-tv/
+"Nordre Jernbanevej 13A, 2. tv",55.930684,12.308873,2395000,Ejerlejlighed,3,1985,lav,286,104,196,71,33732,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/nordre%20jernbanevej-13a/2-tv/
+Maltevang 13,55.9297,12.332602,2995000,Rækkehus,2,1948,lav,166,223,181,70,42785,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/maltevang-13/
+Bjørnebakken 13,55.927191,12.333039,4295000,Villa,4,1956,meget lav,412,440,424,147,29217,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/bj%C3%B8rnebakken-13/
+"Fredskovhellet 30, 2. tv",55.931306,12.339258,2295000,Ejerlejlighed,4,1963,lav,320,251,308,109,21055,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/fredskovhellet-30/2-tv/
+Triumfbuen 9,55.944387,12.247473,6285000,Villa,5,2021,lav,"1,96",714,881,159,39528,A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/triumfbuen-9/
+Amtmandsvej 36,55.91918,12.29293,3795000,Villa,5,,lav,"1,32",490,183,148,25641,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/amtmandsvej-36/
+Friborgvej 34,55.939134,12.283787,4495000,Villa,4,1952,mellem,436,298,253,122,36844,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/friborgvej-34/
+Fredensvej 16,55.927702,12.296159,3995000,Villa,4,1920,mellem,379,516,182,107,37336,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/fredensvej-16/
+Kulsvierkrogen 3,55.990798,12.238801,3150000,Fritidshus,3,1875,meget høj,"4,04",2068,3.732,70,45000,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/kulsvierkrogen-3/
+Solsortvej 1,55.938683,12.27445,6245000,Villa,5,1932,mellem,179,535,141,166,37620,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/solsortvej-1/
+"Ved Egedam 11, st. 70",55.931086,12.340699,1995000,Ejerlejlighed,2,,lav,409,339,394,68,29338,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/ved%20egedam-11/st-70/
+Allékredsen 163,55.940126,12.262639,4495000,Rækkehus,5,2017,lav,915,266,275,128,35117,A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/all%C3%A9kredsen-163/
+Batzkes Bakke 29,55.934899,12.310525,8500000,Villa,11,1900,lav,650,514,603,263,32319,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/batzkes%20bakke-29/
+Vænget 28,55.92643,12.220704,3495000,Villa,6,1972,lav,"3,86",2853,3.111,170,20558,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/v%C3%A6nget-28/
+Amorbuen 12,55.944885,12.248197,6095000,Villa,5,2022,lav,"1,93",688,853,144,42326,A2020,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/amorbuen-12/
+Sommersvej 3,55.944236,12.268288,3995000,Villa,4,,mellem,769,341,516,115,34739,N/A,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/sommersvej-3/
+Jespervej 287,55.947524,12.345352,3495000,Villa,3,1960,lav,"1,98",755,1.954,90,38833,C,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/jespervej-287/
+"Holmegårdsvej 50, 1. ",55.93976,12.310589,2195000,Ejerlejlighed,3,,lav,"1,13",651,960,89,24662,E,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/holmeg%C3%A5rdsvej-50/1-/
+"Stutmestervej 27, 2. tv",55.939119,12.291693,2075000,Ejerlejlighed,2,1941,mellem,939,437,389,65,31923,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/stutmestervej-27/2-tv/
+"Allékredsen 3, 2. 1",55.941597,12.26268,3100000,Ejerlejlighed,3,,lav,941,304,145,84,36904,A2010,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/all%C3%A9kredsen-3/2-1/
+Jespervej 107,55.938737,12.326661,5495000,Villa,4,1938,mellem,"1,00",348,690,135,40703,D,https://www.dingeo.dk/adresse/3400-hiller%C3%B8d/jespervej-107/

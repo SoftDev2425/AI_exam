@@ -1,0 +1,57 @@
+Address,X,Y,Price,Type,Room count,Construction year,Risk of burglary,Distance to pharmacy,Distance to daycare,Distance to grocery store,Size,Squaremeter price,Energy class,Url
+"Frederiksborgvej 17, 4. th",55.703041,12.532917,2998000,Ejerlejlighed,2,1970,lav,573,206,95,64,46843,C,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/frederiksborgvej-17/4-th/
+"Teglbrændervej 3, 1. th",55.706697,12.536076,2395000,Ejerlejlighed,2,1935,lav,602,137,137,50,47900,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/teglbr%C3%A6ndervej-3/1-th/
+"Lærkevej 10, 4. tv",55.702133,12.530466,3795000,Ejerlejlighed,2,1929,lav,666,179,91,65,58384,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/l%C3%A6rkevej-10/4-tv/
+"Skaffervej 13, 1. th",55.706102,12.533247,2595000,Ejerlejlighed,2,1935,lav,623,165,170,53,48962,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/skaffervej-13/1-th/
+Harespringet 11,55.712586,12.509653,8795000,Villa,5,1952,mellem,800,583,612,141,62375,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/harespringet-11/
+"Glentevej 10, 3. 8",55.697947,12.534703,1950000,Ejerlejlighed,1,,lav,430,263,237,41,47560,A2010,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/glentevej-10/3-8/
+"Banebrinken 95, 1. 39",55.722027,12.539601,2395000,Ejerlejlighed,2,1973,mellem,"1,24",134,172,67,35746,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/banebrinken-95/1-39/
+"Frimestervej 2, 1. th",55.706537,12.537076,3595000,Ejerlejlighed,3,1937,lav,645,149,72,68,52867,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/frimestervej-2/1-th/
+"Lærkevej 10, 1. tv",55.702133,12.530466,3795000,Ejerlejlighed,3,1929,lav,666,179,91,65,58384,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/l%C3%A6rkevej-10/1-tv/
+"Stenhuggervej 6, st. th",55.706943,12.536014,1795000,Ejerlejlighed,2,,lav,576,163,149,37,48513,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/stenhuggervej-6/st-th/
+"Nattergalevej 42, st. tv",55.699318,12.529685,3095000,Ejerlejlighed,2,1937,lav,672,92,384,54,57314,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/nattergalevej-42/st-tv/
+Mosesvinget 10,55.713098,12.505972,6795000,Villa,6,1948,mellem,854,620,800,174,39051,C,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/mosesvinget-10/
+"Peter Ipsens Allé 3, 1. 50",55.705956,12.524637,1450000,Ejerlejlighed,1,,lav,807,98,226,40,36250,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/peter%20ipsens%20all%C3%A9-3/1-50/
+Mosebakken 8,55.711816,12.509827,9500000,Villa,5,2014,mellem,718,524,534,144,65972,A2010,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/mosebakken-8/
+Ørevadsvej 9,55.713762,12.518685,9245000,Villa,6,1935,N/A,903,124,552,172,53750,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/%C3%B8revadsvej-9/
+"Glasvej 31, 2. tv",55.705432,12.531541,5795000,Ejerlejlighed,5,1989,lav,697,238,220,109,53165,A2010,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/glasvej-31/2-tv/
+Mågevej 1A,55.696761,12.521862,8795000,Rækkehus,5,1930,lav,729,106,528,130,67653,C,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/m%C3%A5gevej-1a/
+"Houmanns Allé 10, st. th",55.704425,12.528965,1695000,Ejerlejlighed,1,1938,lav,836,300,204,40,42375,C,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/houmanns%20all%C3%A9-10/st-th/
+"Stenhuggervej 5, 3. th",55.706842,12.535562,2495000,Ejerlejlighed,2,1935,lav,575,150,173,49,50918,C,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/stenhuggervej-5/3-th/
+"Peter Ipsens Allé 1, 2. 12",55.705689,12.524266,1495000,Ejerlejlighed,1,,lav,844,116,237,49,30510,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/peter%20ipsens%20all%C3%A9-1/2-12/
+"Banebrinken 91, 2. 11",55.721704,12.539729,2199999,Ejerlejlighed,2,1973,mellem,"1,21",137,178,67,32835,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/banebrinken-91/2-11/
+"Peter Ipsens Allé 1, 4. 18",55.705689,12.524266,1998000,Ejerlejlighed,2,1973,lav,844,116,237,62,32225,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/peter%20ipsens%20all%C3%A9-1/4-18/
+"Glentevej 10, 3. 10",55.697947,12.534703,1950000,Ejerlejlighed,2,2014,lav,430,263,237,42,46428,A2010,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/glentevej-10/3-10/
+"Banebrinken 101, 2. 90",55.722416,12.539287,3150000,Ejerlejlighed,3,,mellem,"1,27",135,187,73,43150,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/banebrinken-101/2-90/
+Mosesvinget 6,55.712834,12.505671,7195000,Villa,7,1934,mellem,828,593,793,176,40880,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/mosesvinget-6/
+Mosesvinget 12,55.713214,12.506126,5995000,Villa,2,1933,mellem,866,633,803,54,111018,E,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/mosesvinget-12/
+Støvnæs Allé 31,55.714643,12.520068,10495000,Villa,6,1965,N/A,851,118,626,162,64783,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/st%C3%B8vn%C3%A6s%20all%C3%A9-31/
+"Uglevej 23, st. mf",55.703587,12.525354,1895000,Ejerlejlighed,2,,lav,"1,01",154,349,76,24934,C,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/uglevej-23/st-mf/
+Engsvinget 55,55.717281,12.513492,8995000,Villa,7,1932,mellem,"1,36",430,1.046,137,65656,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/engsvinget-55/
+"Frederikssundsvej 74B, 2. tv",55.704975,12.526023,2189640,Andelsbolig,3,200 MBit,lav,849,159,367,87,25168,N/A,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/frederikssundsvej-74b/2-tv/
+"Oldermandsvej 49, 3. th",55.707488,12.538496,3295000,Ejerlejlighed,2,,lav,607,195,36,72,45763,C,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/oldermandsvej-49/3-th/
+"Bogtrykkervej 10, 3. th",55.707993,12.535598,1795000,Ejerlejlighed,2,1938,lav,459,96,201,58,30948,E,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/bogtrykkervej-10/3-th/
+"Frederikssundsvej 74B, 2. th",55.704975,12.526023,1675000,Andelsbolig,2,,lav,849,159,367,81,20679,B,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/frederikssundsvej-74b/2-th/
+"Birkedommervej 11, 2. tv",55.70863,12.530107,2295000,Ejerlejlighed,2,1933,lav,370,73,147,51,45000,F,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/birkedommervej-11/2-tv/
+Mosesvinget 34A,55.714332,12.508157,6495000,Villa,6,1929,mellem,985,746,827,123,52804,C,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/mosesvinget-34a/
+"Borups Allé 245, 2. th",55.700697,12.520418,2695000,Ejerlejlighed,2,1921,lav,970,224,104,64,42109,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/borups%20all%C3%A9-245/2-th/
+"Nattergalevej 84, 3. th",55.701017,12.527511,1595000,Ejerlejlighed,2,1937,lav,822,77,300,49,32551,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/nattergalevej-84/3-th/
+"Frederikssundsvej 74C, 6. tv",55.705048,12.525847,1995000,Andelsbolig,3,200 MBit,lav,848,151,353,83,24036,N/A,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/frederikssundsvej-74c/6-tv/
+Granlien 9,55.711879,12.514798,7495000,Villa,4,1951,N/A,845,313,445,85,88176,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/granlien-9/
+Thoravej 20A,55.705988,12.527635,6995000,Ejerlejlighed,4,,lav,702,163,310,120,58291,A2010,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/thoravej-20a/
+"Bogtrykkervej 12, 4. th",55.708091,12.535584,1795000,Ejerlejlighed,2,1938,lav,448,90,207,58,30948,E,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/bogtrykkervej-12/4-th/
+"Frederiksborgvej 13, 1. th",55.702716,12.533069,3795000,Ejerlejlighed,3,1970,lav,545,184,92,100,37950,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/frederiksborgvej-13/1-th/
+Mosesvinget 8,55.712945,12.505906,5795000,Villa,5,1931,mellem,838,611,791,100,57950,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/mosesvinget-8/
+Jeppes Allé 16,55.719048,12.534837,9995000,Villa,6,1938,mellem,831,252,291,160,62468,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/jeppes%20all%C3%A9-16/
+"Glentevej 10, 1. 5",55.697947,12.534703,2095000,Ejerlejlighed,1,2014,lav,430,263,237,41,51097,A2010,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/glentevej-10/1-5/
+"Birkedommervej 17, 2. th",55.708631,12.52951,2575000,Ejerlejlighed,3,1933,lav,387,97,184,59,43644,E,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/birkedommervej-17/2-th/
+"Teglbrændervej 4, st. tv",55.706683,12.536523,1695000,Ejerlejlighed,1,1935,lav,615,145,109,38,44605,C,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/teglbr%C3%A6ndervej-4/st-tv/
+"Frederiksborgvej 232, 1. tv",55.725857,12.527049,1704664,Andelsbolig,3,,mellem,"1,31",129,472,93,18329,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/frederiksborgvej-232/1-tv/
+"Frederikssundsvej 50, 1. 3",55.702881,12.531105,2995000,Ejerlejlighed,3,1972,lav,663,270,18,70,42785,C,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/frederikssundsvej-50/1-3/
+"Frederiksborgvej 15, 4. th",55.702859,12.533007,2795000,Ejerlejlighed,2,1970,lav,557,193,92,64,43671,C,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/frederiksborgvej-15/4-th/
+Nøkkerosevej 43,55.724834,12.536899,7195000,Villa,6,1940,meget høj,"1,49",249,374,118,60974,F,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/n%C3%B8kkerosevej-43/
+"Gråspurvevej 55, 5. 4",55.703493,12.52375,5795000,Ejerlejlighed,5,2007,lav,"1,05",119,272,140,41392,B,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/gr%C3%A5spurvevej-55/5-4/
+"Lærkevej 14, st. th",55.701929,12.530248,2995000,Ejerlejlighed,2,1925,lav,672,153,115,64,46796,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/l%C3%A6rkevej-14/st-th/
+"Peter Ipsens Allé 3, st. 36",55.705956,12.524637,1495000,Ejerlejlighed,2,,lav,807,98,226,40,37375,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/peter%20ipsens%20all%C3%A9-3/st-36/
+"Rentemestervej 104, 1. ",55.709434,12.518216,7495000,Villalejlighed,5,1914,N/A,804,92,216,153,48986,D,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/rentemestervej-104/1-/
+"Vibevej 45, 2. tv",55.699021,12.53041,2398000,Ejerlejlighed,2,1936,lav,626,43,404,55,43600,C,https://www.dingeo.dk/adresse/2400-k%C3%B8benhavn%20nv/vibevej-45/2-tv/

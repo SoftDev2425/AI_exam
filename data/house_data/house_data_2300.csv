@@ -1,0 +1,430 @@
+Address,X,Y,Price,Type,Room count,Construction year,Risk of burglary,Distance to pharmacy,Distance to daycare,Distance to grocery store,Size,Squaremeter price,Energy class,Url
+"Kastrupvej 67, 4. th",55.654029,12.61922,2795000,Ejerlejlighed,3,,lav,582,226,224,69,40507,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/kastrupvej-67/4-th/
+"Ejler Billes Allé 120, 7. 4",55.623564,12.568811,8745000,Ejerlejlighed,6,2019,lav,869,378,978,145,60310,A2020,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ejler%20billes%20all%C3%A9-120/7-4/
+Vejlands Allé 106,55.642778,12.597154,12335000,Villa,6,2022,N/A,"1,19",135,364,181,68149,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/vejlands%20all%C3%A9-106/
+"C.F. Møllers Allé 98, 5. tv",55.63472,12.58053,2995000,Ejerlejlighed,2,2018,lav,580,141,263,64,46796,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-98/5-tv/
+"C.F. Møllers Allé 14, 4. tv",55.634884,12.574497,4295000,Ejerlejlighed,3,,lav,555,214,362,87,49367,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-14/4-tv/
+"Øresundsvej 102, 1. tv",55.661206,12.620957,2795000,Ejerlejlighed,2,,lav,350,229,7,61,45819,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8resundsvej-102/1-tv/
+"Oldenborggade 8, 1. th",55.664835,12.611313,5395000,Ejerlejlighed,4,,lav,433,114,102,92,58641,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/oldenborggade-8/1-th/
+"Tom Kristensens Vej 26, 4. tv",55.660985,12.587524,5250000,Ejerlejlighed,3,,N/A,"1,02",204,622,88,59659,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/tom%20kristensens%20vej-26/4-tv/
+"Strandlodsvej 23C, 2. th",55.665309,12.625637,5995000,Ejerlejlighed,3,,lav,219,179,214,110,54500,A2020,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/strandlodsvej-23c/2-th/
+Hf. Formosa 72,,,2295000,Fritidshus,2,1973,mellem,"1,29",79,799,35,65571,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hf.%20formosa-72/
+"Øresundsvej 54, st. th",55.660509,12.614551,3295000,Ejerlejlighed,3,,lav,666,200,294,66,49924,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8resundsvej-54/st-th/
+Sundparken 22A,55.662446,12.621243,3795000,Ejerlejlighed,3,,lav,217,175,146,69,55000,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/sundparken-22a/
+"Richard Mortensens Vej 18B, 3. tv",55.622724,12.571347,4495000,Ejerlejlighed,4,,lav,875,271,1.015,100,44950,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/richard%20mortensens%20vej-18b/3-tv/
+"Ålandsgade 18, 4. th",55.662653,12.606344,2995000,Ejerlejlighed,2,,lav,156,99,144,58,51637,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%A5landsgade-18/4-th/
+Paduavej 24,55.655964,12.623191,12795000,Villa,5,1927,lav,840,111,394,140,91392,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/paduavej-24/
+"Hessensgade 41, st. th",55.663999,12.616744,1695000,Ejerlejlighed,1,,lav,388,44,310,36,47083,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hessensgade-41/st-th/
+"Sverrigsgade 4B, 2. th",55.663268,12.600344,4995000,Ejerlejlighed,3,2014,lav,288,351,135,89,56123,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/sverrigsgade-4b/2-th/
+"Richard Mortensens Vej 18C, 3. th",55.622764,12.570993,4295000,Ejerlejlighed,4,,lav,880,286,1.016,91,47197,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/richard%20mortensens%20vej-18c/3-th/
+"Bristol Allé 12, st. ",55.643746,12.604911,6495000,Villalejlighed,3,1930,N/A,709,183,580,116,55991,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/bristol%20all%C3%A9-12/st-/
+"C.F. Møllers Allé 8, 6. th",55.634769,12.575391,4445000,Ejerlejlighed,3,,lav,531,193,349,94,47287,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-8/6-th/
+"Kastrupvej 67, st. tv",55.654029,12.61922,3495000,Ejerlejlighed,3,,lav,582,226,224,88,39715,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/kastrupvej-67/st-tv/
+"Augustagade 7, 4. tv",55.655937,12.610724,2995000,Ejerlejlighed,2,200 MBit,lav,138,173,94,62,48306,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/augustagade-7/4-tv/
+"C.F. Møllers Allé 72, 6. tv",55.634698,12.579666,3145000,Ejerlejlighed,2,2017,lav,556,195,260,73,43082,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-72/6-tv/
+"Robert Jacobsens Vej 74, 4. 2",55.617425,12.571943,3750000,Ejerlejlighed,3,2010,lav,"1,43",76,922,94,39893,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/robert%20jacobsens%20vej-74/4-2/
+"Rumæniensgade 14, 1. tv",55.659675,12.612788,2695000,Ejerlejlighed,2,,lav,573,173,148,57,47280,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/rum%C3%A6niensgade-14/1-tv/
+Ved Slusen 32Z,55.641961,12.553307,2498000,Ejerlejlighed,2,,høj,406,633,523,85,29388,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ved%20slusen-32z/
+"Sundholmsvej 111, 1. th",55.657365,12.605217,2199000,Ejerlejlighed,3,,lav,430,179,100,71,30971,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/sundholmsvej-111/1-th/
+"Hveensvej 12, 3. th",55.656378,12.610693,2695000,Ejerlejlighed,2,1934,lav,186,153,118,61,44180,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hveensvej-12/3-th/
+"Amager Strandvej 114C, 4. tv",55.660043,12.631656,8395000,Ejerlejlighed,5,,lav,725,291,163,128,65585,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amager%20strandvej-114c/4-tv/
+"Øresundsvej 24, st. th",55.65976,12.611038,1585000,Andelsbolig,2,,lav,561,176,73,52,30480,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8resundsvej-24/st-th/
+"Ålandsgade 7, 4. th",55.664231,12.604871,2795000,Ejerlejlighed,2,,lav,55,96,192,49,57040,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%A5landsgade-7/4-th/
+"Richard Mortensens Vej 79, 1. t2",55.617011,12.570737,5495000,Ejerlejlighed,5,2010,lav,"1,49",14,1.006,130,42269,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/richard%20mortensens%20vej-79/1-t2/
+"Richard Mortensens Vej 18C, 4. mf",55.622764,12.570993,3595000,Ejerlejlighed,3,2018,lav,880,286,1.016,69,52101,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/richard%20mortensens%20vej-18c/4-mf/
+Hindustanvej 23,55.649019,12.629459,6295000,Villa,3,1936,lav,"1,14",216,493,71,88661,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hindustanvej-23/
+Bregnegangen 32,55.646505,12.595339,2995000,Villa,2,1965,N/A,"1,31",215,793,67,44701,G,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/bregnegangen-32/
+Marsalavej 27,55.653756,12.628393,12500000,Villa,3,1923,mellem,"1,17",236,562,149,83892,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/marsalavej-27/
+"Jens Otto Krags Gade 20, 6. th",55.658222,12.569364,8595000,Ejerlejlighed,4,,lav,630,457,158,130,66115,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/jens%20otto%20krags%20gade-20/6-th/
+"Jens Otto Krags Gade 8, 6. th",55.658349,12.568326,10345000,Ejerlejlighed,6,,lav,573,503,110,125,82760,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/jens%20otto%20krags%20gade-8/6-th/
+"Richard Mortensens Vej 73, 3. 1",55.617448,12.571409,2995000,Ejerlejlighed,2,2010,lav,"1,43",51,955,58,51637,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/richard%20mortensens%20vej-73/3-1/
+"C.F. Møllers Allé 18, 2. tv",55.635137,12.574252,4695000,Ejerlejlighed,4,,lav,585,246,391,105,44714,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-18/2-tv/
+Nordre Digevej 33,55.650515,12.588853,8495000,Villa,5,1957,N/A,"1,44",291,1.019,136,62463,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/nordre%20digevej-33/
+"Jansvej 1, st. 3",55.646975,12.617073,1795000,Ejerlejlighed,2,,lav,512,111,167,48,37395,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/jansvej-1/st-3/
+"Tom Kristensens Vej 40, 7. tv",55.661475,12.585471,5995000,Ejerlejlighed,4,2006,N/A,911,230,504,102,58774,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/tom%20kristensens%20vej-40/7-tv/
+"Hessensgade 45, 1. th",55.663786,12.616901,2750000,Ejerlejlighed,2,,lav,380,51,336,62,44354,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hessensgade-45/1-th/
+"Florensvej 5, st. th",55.657687,12.622183,2425000,Ejerlejlighed,2,,lav,721,116,289,52,46634,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/florensvej-5/st-th/
+"Brigadevej 8, 1. tv",55.662795,12.600978,2195000,Ejerlejlighed,2,,lav,264,321,74,40,54875,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/brigadevej-8/1-tv/
+"Brysselgade 6, 1. tv",55.662036,12.604152,2575000,Ejerlejlighed,2,,lav,194,104,58,46,55978,E,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/brysselgade-6/1-tv/
+"Snorresgade 6, 3. th",55.665605,12.576093,3695000,Ejerlejlighed,2,,lav,449,80,207,64,57734,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/snorresgade-6/3-th/
+Doris Lessings Vej 57C,55.637589,12.575189,4995000,Rækkehus,5,2016,lav,844,506,658,116,43060,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/doris%20lessings%20vej-57c/
+"Lombardigade 3, 5. th",55.653946,12.611561,3195000,Ejerlejlighed,3,,lav,124,224,214,68,46985,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/lombardigade-3/5-th/
+Lobeliavej 21,55.643889,12.608032,7300000,Villa,4,1969,lav,521,138,440,141,51773,E,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/lobeliavej-21/
+"Artillerivej 120, st. tv",55.658324,12.570388,6795000,Ejerlejlighed,4,2008,lav,673,400,223,113,60132,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/artillerivej-120/st-tv/
+Hf. Engly 69,,,2395000,Villa,1,1971,N/A,"1,13",341,216,43,55697,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hf.%20engly-69/
+"Krimsvej 1B, 20. tv",55.66171,12.629449,6345000,Ejerlejlighed,3,2013,lav,502,202,135,97,65412,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/krimsvej-1b/20-tv/
+Lotusvej 55,55.646897,12.608996,9495000,Villa,4,1931,lav,659,136,348,134,70858,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/lotusvej-55/
+"Nordre Digevej 54, st. th",55.650161,12.588155,4495000,Ejerlejlighed,4,,N/A,"1,49",337,1.076,111,40495,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/nordre%20digevej-54/st-th/
+"Ungarnsgade 6, st. tv",55.665798,12.611997,2495000,Ejerlejlighed,2,,lav,513,158,160,50,49900,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ungarnsgade-6/st-tv/
+"Islands Brygge 38C, 5. tv",55.658452,12.56649,7495000,Ejerlejlighed,3,,lav,490,547,97,101,74207,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-38c/5-tv/
+Sorrentovej 5,55.658616,12.621763,10995000,Villa,4,1965,lav,620,63,201,123,89390,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/sorrentovej-5/
+"Ørestads Boulevard 61A, 3. tv",55.633112,12.58159,3595000,Ejerlejlighed,3,,lav,471,166,128,77,46688,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8restads%20boulevard-61a/3-tv/
+Hf. Kongelund 86,55.632685,12.588308,4495000,Fritidshus,2,1952,lav,807,408,526,51,88137,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hf.%20kongelund-86/
+"Ørestads Boulevard 55A, 8. 805",55.634832,12.583188,5750000,Ejerlejlighed,2,100 MBit,lav,682,51,338,120,47916,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8restads%20boulevard-55a/8-805/
+"C.F. Møllers Allé 38, 6. tv",55.634579,12.577135,5395000,Ejerlejlighed,4,,lav,507,202,308,103,52378,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-38/6-tv/
+Landehjælpvej 12,55.633931,12.584658,9000000,Villa,5,2011,lav,675,138,340,186,48387,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/landehj%C3%A6lpvej-12/
+"Øresundsvej 148A, 1. tv",55.661804,12.629667,4295000,Ejerlejlighed,3,,lav,509,214,124,88,48806,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8resundsvej-148a/1-tv/
+Dirchsvej 44,55.640391,12.618698,5495000,Villa,3,1938,lav,291,200,84,95,57842,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/dirchsvej-44/
+"Strandlodsvej 12A, 2. 4",55.666839,12.620207,6850000,Ejerlejlighed,4,2017,lav,340,238,308,125,54800,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/strandlodsvej-12a/2-4/
+"Ørestads Boulevard 37B, 6. th",55.638426,12.583637,4195000,Ejerlejlighed,4,2007,lav,"1,04",378,357,100,41950,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8restads%20boulevard-37b/6-th/
+"Edvard Thomsens Vej 81, 6. 2",55.632571,12.5788,3498000,Ejerlejlighed,2,,lav,318,209,84,83,42144,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/edvard%20thomsens%20vej-81/6-2/
+"Rundholtsvej 56, 8. 2",55.653988,12.564807,15495000,Ejerlejlighed,4,,lav,915,93,126,149,103993,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/rundholtsvej-56/8-2/
+"Kastrupvej 167, 1. th",55.646402,12.625267,1395000,Ejerlejlighed,1,,lav,748,263,340,40,34875,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/kastrupvej-167/1-th/
+Lobeliavej 23,55.643734,12.608004,5800000,Villa,2,,lav,518,122,448,73,79452,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/lobeliavej-23/
+"Bergthorasgade 15, 3. 2",55.66501,12.578372,2495000,Ejerlejlighed,1,1970,lav,455,158,185,44,56704,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/bergthorasgade-15/3-2/
+Dublinvej 8,55.641108,12.606299,8500000,Villa,4,1929,N/A,623,190,482,130,65384,E,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/dublinvej-8/
+"Krimsvej 1B, 13. mf",55.66171,12.629449,5595000,Ejerlejlighed,3,,lav,502,202,135,100,55950,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/krimsvej-1b/13-mf/
+"Islands Brygge 38E, 9. ",55.657951,12.566433,21500000,Ejerlejlighed,6,,lav,535,495,53,185,116216,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-38e/9-/
+"C.F. Møllers Allé 60, 6. tv",55.634362,12.578507,4795000,Ejerlejlighed,3,,lav,498,244,243,99,48434,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-60/6-tv/
+"Halfdansgade 5, 4. th",55.665423,12.575941,5995000,Ejerlejlighed,3,1913,lav,471,59,227,93,64462,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/halfdansgade-5/4-th/
+"Øresund Parkvej 17, 1. th",55.66338,12.629763,4495000,Ejerlejlighed,2,2005,lav,450,255,237,76,59144,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8resund%20parkvej-17/1-th/
+"Tønnesvej 10, 2. tv",55.645539,12.618454,2050000,Ejerlejlighed,2,,lav,385,190,255,57,35964,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/t%C3%B8nnesvej-10/2-tv/
+"Greisvej 31, 3. ",55.645244,12.619266,2250000,Ejerlejlighed,2,,lav,383,239,306,45,50000,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/greisvej-31/3-/
+Ved Kastrupfortet 65,55.648823,12.637538,4500000,Fritidshus,2,2007,lav,"1,24",145,809,39,115384,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ved%20kastrupfortet-65/
+"Amagerfælledvej 118, 5. tv",55.656905,12.591413,3345000,Ejerlejlighed,2,2018,N/A,"1,14",171,405,71,47112,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amagerf%C3%A6lledvej-118/5-tv/
+"Ejler Billes Allé 120, 5. tv",55.623564,12.568811,4795000,Ejerlejlighed,4,,lav,869,378,978,103,46553,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ejler%20billes%20all%C3%A9-120/5-tv/
+"Ungarnsgade 76, 1. tv",55.662341,12.614669,2995000,Ejerlejlighed,2,50 MBit,lav,558,98,300,58,51637,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ungarnsgade-76/1-tv/
+"Amager Strandvej 156E, 3. th",55.658455,12.631614,5995000,Ejerlejlighed,4,,lav,846,176,339,110,54500,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amager%20strandvej-156e/3-th/
+"Frankrigsgade 27, 1. mf",55.662226,12.608514,1995000,Ejerlejlighed,2,,lav,291,162,98,42,47500,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/frankrigsgade-27/1-mf/
+Breidablik Allé 7,55.65128,12.606102,12500000,Villa,6,1923,lav,463,189,404,163,76687,E,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/breidablik%20all%C3%A9-7/
+"Sundholmsvej 113, 4. th",55.657299,12.605382,3495000,Ejerlejlighed,3,,lav,417,191,103,73,47876,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/sundholmsvej-113/4-th/
+"Amagerbrogade 261A, 2. th",55.64468,12.615357,2095000,Ejerlejlighed,2,,lav,252,64,92,58,36120,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amagerbrogade-261a/2-th/
+"Højdevej 4, 4. th",55.654252,12.611381,2395000,Ejerlejlighed,2,1902,lav,94,203,202,49,48877,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/h%C3%B8jdevej-4/4-th/
+"Holmbladsgade 70A, st. mf",55.665193,12.611411,3795000,Ejerlejlighed,2,,lav,452,127,104,80,47437,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/holmbladsgade-70a/st-mf/
+Cedergangen 1,55.646164,12.592181,3300000,Villa,4,1960,N/A,"1,49",169,816,123,26829,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/cedergangen-1/
+"Islands Brygge 32A, 7. 768",55.66099,12.568558,15000000,Ejerlejlighed,3,1963,lav,429,411,285,143,104895,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-32a/7-768/
+"Weidekampsgade 41, 4. tv",55.66679,12.582201,6795000,Ejerlejlighed,4,,lav,289,390,156,108,62916,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/weidekampsgade-41/4-tv/
+"Amager Strandvej 142D, 2. tv",55.658445,12.634529,9995000,Ejerlejlighed,3,200 MBit,lav,979,246,390,131,76297,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amager%20strandvej-142d/2-tv/
+"Tovelillevej 105B, 1. ",55.651723,12.634899,7975000,Villalejlighed,6,,mellem,"1,56",348,897,149,53523,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/tovelillevej-105b/1-/
+"Tønnesvej 20, 3. ",55.64504,12.618713,2850000,Ejerlejlighed,3,,lav,345,205,273,69,41304,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/t%C3%B8nnesvej-20/3-/
+"Ejler Billes Allé 28, 6. tv",55.622608,12.571765,4495000,Ejerlejlighed,4,2018,lav,877,256,1.020,102,44068,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ejler%20billes%20all%C3%A9-28/6-tv/
+"Islands Brygge 54, 3. tv",55.657357,12.5663,8695000,Ejerlejlighed,3,2019,lav,589,431,60,109,79770,A2020,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-54/3-tv/
+"Højdevej 4, 5. ",55.654252,12.611381,4995000,Ejerlejlighed,3,,lav,94,203,202,91,54890,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/h%C3%B8jdevej-4/5-/
+"Sorrentovej 15, st. mf",55.658246,12.623257,1395000,Ejerlejlighed,1,,lav,658,39,304,26,53653,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/sorrentovej-15/st-mf/
+Hf. Formosa 66,,,2995000,Fritidshus,2,2007,mellem,"1,38",168,869,34,88088,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hf.%20formosa-66/
+"Axel Heides Gade 8C, 6. th",55.660116,12.569741,6695000,Ejerlejlighed,3,,lav,533,343,194,109,61422,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/axel%20heides%20gade-8c/6-th/
+"Amagerfælledvej 124, 5. th",55.65688,12.590835,5295000,Ejerlejlighed,4,2018,N/A,"1,17",195,437,115,46043,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amagerf%C3%A6lledvej-124/5-th/
+"Islands Brygge 34A, 3. mf",55.659574,12.567928,7995000,Ejerlejlighed,3,,lav,464,470,220,98,81581,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-34a/3-mf/
+"Islands Brygge 63B, 2. th",55.662578,12.57141,6995000,Ejerlejlighed,3,,lav,596,305,285,107,65373,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-63b/2-th/
+Richard Mortensens Vej 12F,55.623272,12.571779,6250000,Rækkehus,5,2017,lav,808,219,950,123,50813,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/richard%20mortensens%20vej-12f/
+"Islands Brygge 60, 2. th",55.656871,12.565858,8500000,Ejerlejlighed,4,2018,lav,626,370,117,136,62500,A2020,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-60/2-th/
+Oxford Have 75,55.641577,12.608794,4495000,Rækkehus,4,2006,lav,456,165,460,92,48858,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/oxford%20have-75/
+Floridavej 1,55.636585,12.588857,9300000,Villa,8,1942,lav,"1,01",55,271,199,46733,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/floridavej-1/
+"Boltonvej 27, 1. ",55.64223,12.602814,3795000,Villalejlighed,4,1964,N/A,827,284,365,82,46280,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/boltonvej-27/1-/
+"Edvard Thomsens Vej 91, 5. th",55.632447,12.579983,3495000,Ejerlejlighed,3,,lav,348,259,10,80,43687,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/edvard%20thomsens%20vej-91/5-th/
+Armeniensvej 24,55.649885,12.623549,5695000,Rækkehus,2,1940,lav,964,372,175,74,76959,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/armeniensvej-24/
+"Drechselsgade 18, 1. 5",55.656665,12.567975,5995000,Ejerlejlighed,2,,lav,708,428,123,90,66611,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/drechselsgade-18/1-5/
+Grækenlandsvej 147,55.641398,12.623025,8995000,Villa,5,1998,lav,474,443,372,190,47342,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/gr%C3%A6kenlandsvej-147/
+"Bremensgade 45, 1. th",55.665916,12.616547,3295000,Ejerlejlighed,3,,lav,445,154,113,65,50692,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/bremensgade-45/1-th/
+Tyge Krabbes Vej 12B,55.654437,12.604349,11800000,Villa,9,1920,lav,372,263,255,199,59296,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/tyge%20krabbes%20vej-12b/
+"Amager Strandvej 156E, 1. mf",55.658455,12.631614,4995000,Ejerlejlighed,3,,lav,846,176,339,100,49950,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amager%20strandvej-156e/1-mf/
+"Lombardigade 19, st. th",55.654329,12.613486,2145000,Ejerlejlighed,2,100 MBit,lav,216,147,263,53,40471,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/lombardigade-19/st-th/
+"C.F. Møllers Allé 28, 1. th",55.63492,12.576139,4145000,Ejerlejlighed,4,,lav,544,214,372,88,47102,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-28/1-th/
+"Richard Mortensens Vej 65, 3. 3",55.618128,12.571316,4198000,Ejerlejlighed,3,,lav,"1,36",118,953,97,43278,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/richard%20mortensens%20vej-65/3-3/
+"Englandsvej 47, 3. 2",55.653413,12.602779,895000,Ejerlejlighed,1,1935,lav,493,261,378,25,35800,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/englandsvej-47/3-2/
+"Ørestads Boulevard 59A, 9. 902",55.63399,12.581914,1495000,Andelsbolig,2,,lav,558,73,215,91,16428,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8restads%20boulevard-59a/9-902/
+"Viggo Kampmanns Plads 7, 1. mf",55.654925,12.565633,7695000,Ejerlejlighed,5,,lav,825,187,148,135,57000,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/viggo%20kampmanns%20plads-7/1-mf/
+"Richard Mortensens Vej 77, 8. p8",55.61718,12.571009,8395000,Ejerlejlighed,5,,lav,"1,47",12,985,181,46381,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/richard%20mortensens%20vej-77/8-p8/
+"Mellemforts Allé 4, 2. th",55.660153,12.620338,2595000,Ejerlejlighed,2,1932,lav,474,135,99,59,43983,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/mellemforts%20all%C3%A9-4/2-th/
+"Caprivej 7, 1. tv",55.660931,12.621796,2495000,Ejerlejlighed,2,,lav,366,195,59,56,44553,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/caprivej-7/1-tv/
+"Frankrigshusene 11, st. th",55.662509,12.60733,3995000,Ejerlejlighed,4,,lav,212,127,180,82,48719,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/frankrigshusene-11/st-th/
+"Strandlodsvej 85, st. ",55.661378,12.625004,5295000,Ejerlejlighed,4,,lav,340,79,260,111,47702,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/strandlodsvej-85/st-/
+"C.F. Møllers Allé 68, 8. tv",55.63457,12.577761,4495000,Ejerlejlighed,4,,lav,510,225,285,98,45867,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-68/8-tv/
+"Jansvej 3, 2. 4",55.646816,12.617125,1795000,Ejerlejlighed,2,,lav,495,120,171,44,40795,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/jansvej-3/2-4/
+"Rialtovej 1, st. ",55.658583,12.615976,5995000,Villalejlighed,4,1901,lav,565,242,230,88,68125,E,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/rialtovej-1/st-/
+Pallesvej 43,55.653477,12.636876,11995000,Villa,4,1963,mellem,"1,49",337,954,122,98319,E,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/pallesvej-43/
+"Uplandsgade 20, 1. tv",55.66713,12.601571,11995000,Ejerlejlighed,5,,lav,428,79,193,208,57668,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/uplandsgade-20/1-tv/
+Ved Kastrupfortet 21,55.649494,12.636965,3499000,Fritidshus,2,,mellem,"1,31",146,861,30,116633,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ved%20kastrupfortet-21/
+"Svinget 21, 2. th",55.664328,12.59506,5995000,Ejerlejlighed,4,,lav,623,60,228,110,54500,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/svinget-21/2-th/
+"C.F. Møllers Allé 10, 7. th",55.634796,12.57509,4545000,Ejerlejlighed,3,2007,lav,537,197,351,98,46377,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-10/7-th/
+"Edvard Thomsens Vej 19, st. tv",55.633202,12.573964,3795000,Ejerlejlighed,3,,lav,388,97,185,98,38724,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/edvard%20thomsens%20vej-19/st-tv/
+"Hessensgade 15, 1. 106",55.665633,12.615467,2895000,Ejerlejlighed,2,1970,lav,496,198,117,59,49067,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hessensgade-15/1-106/
+"Strandlodsvej 18V, 1. 1",55.666225,12.620666,6495000,Ejerlejlighed,3,1963,lav,266,217,298,126,51547,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/strandlodsvej-18v/1-1/
+"Woltersgade 2, st. tv",55.66506,12.607367,2595000,Ejerlejlighed,2,,lav,220,61,154,52,49903,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/woltersgade-2/st-tv/
+"Robert Jacobsens Vej 84, 7. p1",55.616567,12.571642,5995000,Ejerlejlighed,3,,lav,"1,53",76,960,121,49545,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/robert%20jacobsens%20vej-84/7-p1/
+"Ulrik Birchs Allé 56, st. tv",55.653328,12.603076,2095000,Ejerlejlighed,2,,lav,478,280,383,51,41078,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ulrik%20birchs%20all%C3%A9-56/st-tv/
+Milanovej 13,55.660122,12.624484,9495000,Villa,4,1924,lav,462,192,252,128,74179,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/milanovej-13/
+"Ørestads Boulevard 59A, 9. 903",55.63399,12.581914,3895000,Ejerlejlighed,1,2005,lav,558,73,215,103,37815,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8restads%20boulevard-59a/9-903/
+"Richard Mortensens Vej 18B, 4. mf",55.622724,12.571347,3595000,Ejerlejlighed,3,,lav,875,271,1.015,69,52101,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/richard%20mortensens%20vej-18b/4-mf/
+"Islands Brygge 32B, 2. 219",55.660885,12.568469,12995000,Ejerlejlighed,3,,lav,427,417,287,143,90874,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-32b/2-219/
+"Oxford Allé 95A, 1. ",55.638984,12.600164,2995000,Ejerlejlighed,4,,N/A,947,309,103,95,31526,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/oxford%20all%C3%A9-95a/1-/
+Hf. Engly 77,,,3995000,Villa,4,1969,N/A,"1,07",432,301,93,42956,F,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hf.%20engly-77/
+"Amager Strandvej 158D, 4. th",55.658456,12.631116,5795000,Ejerlejlighed,4,2014,lav,825,147,340,106,54669,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amager%20strandvej-158d/4-th/
+"Holmbladsgade 72, 4. th",55.666011,12.611674,3295000,Ejerlejlighed,3,,lav,506,188,156,65,50692,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/holmbladsgade-72/4-th/
+Richard Mortensens Vej 10B,55.623993,12.571484,5395000,Rækkehus,5,2016,lav,743,223,877,129,41821,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/richard%20mortensens%20vej-10b/
+"Kastrupvej 88, 1. th",55.653113,12.619337,2295000,Ejerlejlighed,2,1936,lav,611,289,240,41,55975,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/kastrupvej-88/1-th/
+Birmavej 50A,55.64614,12.631886,9750000,Villa,8,,lav,959,199,422,131,74427,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/birmavej-50a/
+"Richard Mortensens Vej 10A, 1. th",55.624122,12.571574,3625000,Ejerlejlighed,3,,lav,727,218,861,82,44207,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/richard%20mortensens%20vej-10a/1-th/
+"Snorresgade 6, 5. th",55.665605,12.576093,3295000,Ejerlejlighed,2,1913,lav,449,80,207,57,57807,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/snorresgade-6/5-th/
+Vejlands Allé 124,55.642783,12.594035,7895000,Villa,9,2011,N/A,"1,39",281,472,216,36550,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/vejlands%20all%C3%A9-124/
+"Birketinget 2C, 5. 352",55.656222,12.600302,3095000,Ejerlejlighed,2,,lav,650,64,249,61,50737,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/birketinget-2c/5-352/
+"C.F. Møllers Allé 16, 3. tv",55.634946,12.5742,4395000,Ejerlejlighed,3,2007,lav,566,227,371,102,43088,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-16/3-tv/
+"Hyacintgården 9, 1. 1",55.648623,12.612206,2995000,Ejerlejlighed,3,1968,lav,690,177,235,72,41597,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hyacintg%C3%A5rden-9/1-1/
+"Højdevej 7, 4. tv",55.65455,12.61168,2495000,Ejerlejlighed,2,,lav,98,165,193,56,44553,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/h%C3%B8jdevej-7/4-tv/
+"Ungarnsgade 35, st. tv",55.662807,12.614748,3795000,Ejerlejlighed,2,,lav,537,122,315,65,58384,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ungarnsgade-35/st-tv/
+"Klaksvigsgade 9, 4. tv",55.666959,12.58062,6700000,Ejerlejlighed,3,,lav,234,365,122,110,60909,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/klaksvigsgade-9/4-tv/
+Pallesvej 35,55.654012,12.636116,9995000,Villa,7,1959,mellem,"1,41",276,882,141,70886,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/pallesvej-35/
+Hilmar Baunsgaards Boulevard 21,55.655914,12.567086,9000000,Rækkehus,5,2014,lav,755,329,193,152,59210,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hilmar%20baunsgaards%20boulevard-21/
+"Strandlodsvej 18V, 1. 7",55.666225,12.620666,6895000,Ejerlejlighed,4,,lav,266,217,298,128,53867,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/strandlodsvej-18v/1-7/
+"Amager Strandvej 58G, 4. tv",55.665555,12.628152,5995000,Ejerlejlighed,3,0,lav,372,337,360,91,65879,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amager%20strandvej-58g/4-tv/
+Oldenborggade 14,55.664715,12.611718,7495000,Ejerlejlighed,6,2020,lav,455,85,131,132,56780,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/oldenborggade-14/
+Italiensvej 67,55.656972,12.632485,13995000,Villa,4,1940,mellem,"1,01",244,507,164,85335,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/italiensvej-67/
+"Hveensvej 8, 4. th",55.656297,12.6103,2795000,Ejerlejlighed,2,,lav,174,131,95,61,45819,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hveensvej-8/4-th/
+"Islands Brygge 100, 3. tv",55.655619,12.564869,9395000,Ejerlejlighed,4,2018,lav,739,218,239,119,78949,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-100/3-tv/
+Oxford Have 145,55.642582,12.60871,4550000,Rækkehus,4,2006,lav,452,99,470,94,48404,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/oxford%20have-145/
+Gyldenrisvej 21,55.640597,12.610947,4995000,Villa,5,1984,lav,370,218,325,113,44203,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/gyldenrisvej-21/
+"Reberbanegade 25, 2. th",55.662553,12.606043,2495000,Ejerlejlighed,2,,lav,154,113,124,50,49900,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/reberbanegade-25/2-th/
+Tønnesvej 48,55.64246,12.62029,11995000,Villa,5,1932,lav,286,313,275,179,67011,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/t%C3%B8nnesvej-48/
+"Hessensgade 15, 1. 104",55.665633,12.615467,3195000,Ejerlejlighed,3,,lav,496,198,117,59,54152,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hessensgade-15/1-104/
+"Snorresgade 2, st. th",55.665845,12.576076,5995000,Ejerlejlighed,5,,lav,427,107,194,104,57644,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/snorresgade-2/st-th/
+"Amager Strandvej 158A, 1. th",55.658046,12.631238,5695000,Ejerlejlighed,4,2014,lav,866,142,385,117,48675,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amager%20strandvej-158a/1-th/
+Cedergangen 11,55.646244,12.5932,4595000,Villa,2,,N/A,"1,43",162,819,69,66594,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/cedergangen-11/
+Hf. Kongelund 42,55.632649,12.5905009,3395000,Villa,3,1937,lav,829,396,544,35,97000,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hf.%20kongelund-42/
+"Lombardigade 19, 5. th",55.654329,12.613486,2095000,Ejerlejlighed,2,1904,lav,216,147,263,48,43645,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/lombardigade-19/5-th/
+Prøvestens Allé 16,55.659754,12.617079,15995000,Villa,7,1910,lav,612,296,131,230,69543,F,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/pr%C3%B8vestens%20all%C3%A9-16/
+"Marengovej 2, st. th",55.658493,12.619973,3595000,Ejerlejlighed,3,,lav,656,129,135,79,45506,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/marengovej-2/st-th/
+Kentiavej 15,55.647157,12.611531,9195000,Villa,6,1922,lav,592,233,188,177,51949,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/kentiavej-15/
+"Augustagade 7, 5. th",55.655937,12.610724,2595000,Ejerlejlighed,2,,lav,138,173,94,60,43250,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/augustagade-7/5-th/
+"Robert Jacobsens Vej 5B, 9. tv",55.623401,12.575454,5695000,Ejerlejlighed,4,2017,mellem,739,70,864,126,45198,A2020,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/robert%20jacobsens%20vej-5b/9-tv/
+"Bergthorasgade 15, 2. 4",55.66501,12.578372,2700000,Ejerlejlighed,1,1970,lav,455,158,185,44,61363,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/bergthorasgade-15/2-4/
+Ejler Billes Allé 102,55.623197,12.568672,5795000,Rækkehus,5,2020,lav,908,341,1.019,120,48291,A2020,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ejler%20billes%20all%C3%A9-102/
+Volosvej 9,55.648068,12.619713,8495000,Villa,5,1927,lav,674,96,147,110,77227,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/volosvej-9/
+Boltonvej 23,55.642984,12.602651,6995000,Villa,5,1986,N/A,840,220,428,136,51433,F,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/boltonvej-23/
+Strandlodsvej 117,55.658353,12.627366,9495000,Villa,4,1926,lav,708,117,440,132,71931,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/strandlodsvej-117/
+Safirgangen 102,55.645327,12.59006,4695000,Villa,4,1950,N/A,"1,65",307,702,105,44714,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/safirgangen-102/
+"Uplandsgade 22, 1. th",55.667231,12.601851,5300000,Ejerlejlighed,4,1924,lav,430,78,214,102,51960,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/uplandsgade-22/1-th/
+"Torben Oxes Allé 2, 1. th",55.656783,12.605675,3995000,Ejerlejlighed,3,,lav,366,172,100,83,48132,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/torben%20oxes%20all%C3%A9-2/1-th/
+"Krimsvej 1B, 16. mf",55.66171,12.629449,5695000,Ejerlejlighed,3,,lav,502,202,135,100,56950,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/krimsvej-1b/16-mf/
+"C.F. Møllers Allé 40, 1. tv",55.634762,12.577208,3795000,Ejerlejlighed,3,2007,lav,527,222,322,90,42166,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-40/1-tv/
+"Augustagade 7, 2. tv",55.655937,12.610724,2795000,Ejerlejlighed,2,,lav,138,173,94,62,45080,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/augustagade-7/2-tv/
+"Ørestads Boulevard 63B, 2. tv",55.632835,12.581703,3495000,Ejerlejlighed,3,2007,lav,454,192,117,79,44240,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8restads%20boulevard-63b/2-tv/
+Lemnosvej 5,55.652961,12.620621,10995000,Villa,6,1909,lav,694,248,203,128,85898,E,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/lemnosvej-5/
+"C.F. Møllers Allé 10, st. th",55.634796,12.57509,3895000,Ejerlejlighed,3,,lav,537,197,351,98,39744,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-10/st-th/
+"Florensvej 1, 1. th",55.657811,12.622775,2495000,Ejerlejlighed,2,,lav,706,89,306,52,47980,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/florensvej-1/1-th/
+"Gunløgsgade 22, 4. 4",55.665018,12.57916,4995000,Ejerlejlighed,4,,lav,447,208,160,103,48495,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/gunl%C3%B8gsgade-22/4-4/
+"Amagerbrogade 244, 4. tv",55.645256,12.614534,2750000,Ejerlejlighed,2,1975,lav,325,62,9,76,36184,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amagerbrogade-244/4-tv/
+"Weidekampsgade 59, st. th",55.667315,12.581824,4645000,Ejerlejlighed,2,2006,lav,227,329,207,80,58062,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/weidekampsgade-59/st-th/
+"Tom Kristensens Vej 40, 5. tv",55.661475,12.585471,5495000,Ejerlejlighed,3,,N/A,911,230,504,102,53872,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/tom%20kristensens%20vej-40/5-tv/
+"Klaksvigsgade 12, 2. mf",55.667298,12.580413,4595000,Ejerlejlighed,2,,lav,195,329,126,77,59675,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/klaksvigsgade-12/2-mf/
+"Edvard Thomsens Vej 87, 4. th",55.632494,12.579463,3995000,Ejerlejlighed,3,,lav,332,235,41,89,44887,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/edvard%20thomsens%20vej-87/4-th/
+"C.F. Møllers Allé 82, 2. tv",55.634236,12.57963,3995000,Ejerlejlighed,3,2019,lav,507,197,209,86,46453,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-82/2-tv/
+Hegningen 11,55.653268,12.591597,5195000,Villa,3,1930,N/A,"1,19",145,667,83,62590,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hegningen-11/
+"Højdevej 5, 2. tv",55.654519,12.611511,2595000,Ejerlejlighed,2,,lav,88,175,187,60,43250,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/h%C3%B8jdevej-5/2-tv/
+"Richard Mortensens Vej 79, 5. 3",55.617011,12.570737,6495000,Ejerlejlighed,4,2010,lav,"1,49",14,1.006,167,38892,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/richard%20mortensens%20vej-79/5-3/
+Persillevej 40,55.649543,12.604863,5995000,Rækkehus,5,2015,mellem,668,341,550,118,50805,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/persillevej-40/
+"Jens Otto Krags Gade 9, 4. 2",55.659127,12.569017,4600000,Ejerlejlighed,2,2006,lav,549,422,205,81,56790,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/jens%20otto%20krags%20gade-9/4-2/
+"Augustagade 7, st. th",55.655937,12.610724,3895000,Ejerlejlighed,2,,lav,138,173,94,64,60859,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/augustagade-7/st-th/
+"Tom Kristensens Vej 20, 5. th",55.660566,12.58722,6495000,Ejerlejlighed,4,2006,N/A,"1,05",154,649,115,56478,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/tom%20kristensens%20vej-20/5-th/
+"Messinavej 1, 1. tv",55.661163,12.620796,4695000,Ejerlejlighed,4,,lav,358,226,10,110,42681,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/messinavej-1/1-tv/
+"Bremensgade 39, 2. mf",55.665655,12.616803,2965000,Ejerlejlighed,2,,lav,418,169,146,67,44253,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/bremensgade-39/2-mf/
+"Islands Brygge 36A, st. 1",55.658934,12.567416,3595000,Ejerlejlighed,2,2012,lav,486,524,144,69,52101,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-36a/st-1/
+Formosavej 26,55.650243,12.632092,11495000,Villa,6,1926,mellem,"1,35",274,681,139,82697,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/formosavej-26/
+"Ungarnsgade 12, 5. ",55.665491,12.612227,4895000,Ejerlejlighed,3,,lav,512,121,161,87,56264,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ungarnsgade-12/5-/
+"Amagerbrogade 202, 2. ",55.649951,12.612453,3995000,Ejerlejlighed,3,1904,lav,550,96,235,94,42500,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amagerbrogade-202/2-/
+"Rued Langgaards Vej 25, 1. mf",55.659719,12.588639,3950000,Ejerlejlighed,3,,N/A,"1,12",180,566,76,51973,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/rued%20langgaards%20vej-25/1-mf/
+"Amagerfælledvej 118, st. mf",55.656905,12.591413,2995000,Ejerlejlighed,2,,N/A,"1,14",171,405,68,44044,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amagerf%C3%A6lledvej-118/st-mf/
+"Oldenborggade 24, 3. tv",55.664743,12.611045,5095000,Ejerlejlighed,3,,lav,414,122,90,91,55989,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/oldenborggade-24/3-tv/
+"Amagerfælledvej 120, 6. ",55.656912,12.591066,7995000,Ejerlejlighed,5,,N/A,"1,16",182,422,165,48454,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amagerf%C3%A6lledvej-120/6-/
+"Øresundsvej 58, st. th",55.660585,12.614918,2695000,Ejerlejlighed,3,1914,lav,642,207,289,62,43467,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8resundsvej-58/st-th/
+"Islands Brygge 32B, 6. 664",55.660885,12.568469,5995000,Ejerlejlighed,2,1963,lav,427,417,287,109,55000,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-32b/6-664/
+Nordre Digevej 44,55.651061,12.588367,6195000,Rækkehus,4,2005,N/A,"1,45",237,985,124,49959,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/nordre%20digevej-44/
+"Lombardigade 5, 1. th",55.653993,12.611814,4595000,Ejerlejlighed,4,,lav,133,211,216,89,51629,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/lombardigade-5/1-th/
+Lobeliavej 17,55.644174,12.607949,10995000,Villa,6,2007,lav,537,166,434,186,59112,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/lobeliavej-17/
+"Robert Jacobsens Vej 91, st. th",55.616682,12.573122,4745000,Ejerlejlighed,3,,lav,"1,50",149,865,91,52142,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/robert%20jacobsens%20vej-91/st-th/
+"Brigadevej 20, st. th",55.662595,12.600126,3250000,Ejerlejlighed,2,,lav,323,285,124,82,39634,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/brigadevej-20/st-th/
+Oxford Have 253,55.64261,12.609584,5740000,Rækkehus,5,2006,lav,396,153,416,131,43816,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/oxford%20have-253/
+"Robert Jacobsens Vej 70, 6. 4",55.617745,12.572078,4195000,Ejerlejlighed,3,2010,lav,"1,39",104,909,97,43247,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/robert%20jacobsens%20vej-70/6-4/
+"Richard Mortensens Vej 18C, 2. th",55.622764,12.570993,4295000,Ejerlejlighed,4,,lav,880,286,1.016,91,47197,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/richard%20mortensens%20vej-18c/2-th/
+"Islands Brygge 30B, 12. 3",55.661835,12.56943,6495000,Ejerlejlighed,3,1961,lav,468,375,285,80,81187,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-30b/12-3/
+"Rued Langgaards Vej 23, 3. mf",55.660056,12.588585,3995000,Ejerlejlighed,2,2005,N/A,"1,11",187,581,76,52565,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/rued%20langgaards%20vej-23/3-mf/
+"Richard Mortensens Vej 69, 5. 4",55.617698,12.571184,4295000,Ejerlejlighed,3,,lav,"1,41",69,966,93,46182,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/richard%20mortensens%20vej-69/5-4/
+"Birketinget 2D, 2. 421",55.656311,12.600374,1895000,Ejerlejlighed,1,,lav,648,64,242,42,45119,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/birketinget-2d/2-421/
+"Peder Lykkes Vej 54, 1. 4",55.654171,12.602516,2695000,Ejerlejlighed,2,,lav,492,184,302,61,44180,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/peder%20lykkes%20vej-54/1-4/
+"Islands Brygge 32B, 3. 332",55.660885,12.568469,10995000,Ejerlejlighed,3,,lav,427,417,287,185,59432,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-32b/3-332/
+"Ørestads Boulevard 59B, 7. 713",55.634067,12.582623,3095000,Ejerlejlighed,2,,lav,593,44,249,105,29476,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8restads%20boulevard-59b/7-713/
+"Robert Jacobsens Vej 82, 7. 2",55.616705,12.571966,4595000,Ejerlejlighed,3,2010,lav,"1,51",81,936,97,47371,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/robert%20jacobsens%20vej-82/7-2/
+"Backersvej 150B, 1. th",55.646953,12.627804,3995000,Ejerlejlighed,3,,lav,915,92,432,78,51217,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/backersvej-150b/1-th/
+Hedegaardsvej 5B,55.64462,12.629511,6995000,Villa,5,1967,lav,848,274,289,128,54648,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hedegaardsvej-5b/
+Gyldenlakvej 39,55.643789,12.613252,8995000,Villa,8,1934,lav,222,166,187,219,41073,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/gyldenlakvej-39/
+"Lyongade 19, 1. tv",55.660873,12.60928,4350000,Ejerlejlighed,3,,lav,428,162,133,87,50000,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/lyongade-19/1-tv/
+"Gerbrandsvej 8, 1. 2",55.646843,12.615517,1899999,Ejerlejlighed,2,,lav,491,114,69,48,39583,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/gerbrandsvej-8/1-2/
+Kongelundsvej 90K,55.636282,12.586176,3300000,Villa,3,1966,lav,927,204,358,62,53225,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/kongelundsvej-90k/
+Hf. Engly 89,,,5845000,Villa,4,2021,N/A,"1,02",477,103,84,69583,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hf.%20engly-89/
+Amager Strandvej 150E,55.658305,12.634078,9295000,Rækkehus,4,2014,lav,968,248,391,122,76188,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amager%20strandvej-150e/
+"Milosvej 4, 1. ",55.646999,12.619778,6195000,Ejerlejlighed,3,1929,lav,568,104,226,83,74638,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/milosvej-4/1-/
+"Frankrigsgade 29, 2. th",55.662556,12.609047,2695000,Ejerlejlighed,2,,lav,302,112,87,53,50849,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/frankrigsgade-29/2-th/
+"Amager Strandvej 162C, 9. th",55.658507,12.633977,8795000,Ejerlejlighed,3,,lav,948,270,368,121,72685,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amager%20strandvej-162c/9-th/
+Grækenlandsvej 96,55.646827,12.618902,9995000,Villa,6,2013,lav,527,86,275,181,55220,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/gr%C3%A6kenlandsvej-96/
+Nordre Digevej 29,55.650793,12.589033,7295000,Villa,5,1980,N/A,"1,42",259,986,133,54849,E,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/nordre%20digevej-29/
+"Lyongade 24, 1. tv",55.660339,12.609329,3995000,Ejerlejlighed,3,1941,lav,476,201,106,70,57071,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/lyongade-24/1-tv/
+"Islands Brygge 38E, 6. th",55.657951,12.566433,9600000,Ejerlejlighed,4,2017,lav,535,495,53,118,81355,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-38e/6-th/
+"C.F. Møllers Allé 2A, st. tv",55.635482,12.574841,4095000,Ejerlejlighed,3,2012,lav,615,275,427,106,38632,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-2a/st-tv/
+Nordre Digevej 1,55.654813,12.590558,8495000,Villa,6,1956,N/A,"1,25",72,577,172,49389,E,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/nordre%20digevej-1/
+"Amager Strandvej 158D, 10. th",55.658456,12.631116,5695000,Ejerlejlighed,4,,lav,825,147,340,106,53726,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amager%20strandvej-158d/10-th/
+Strandlodsvej 123,55.657961,12.627626,9495000,Villa,5,1924,mellem,754,89,466,140,67821,F,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/strandlodsvej-123/
+"Amager Strandvej 158A, 1. tv",55.658046,12.631238,4795000,Ejerlejlighed,3,2014,lav,866,142,385,101,47475,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amager%20strandvej-158a/1-tv/
+"Kastrupvej 75, st. tv",55.653443,12.619597,2295000,Ejerlejlighed,3,,lav,617,251,268,65,35307,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/kastrupvej-75/st-tv/
+Pindosvej 18,55.641233,12.625233,10995000,Villa,6,1947,lav,615,461,431,183,60081,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/pindosvej-18/
+"Islands Brygge 54, 2. th",55.657357,12.5663,6995000,Ejerlejlighed,4,,lav,589,431,60,104,67259,A2020,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-54/2-th/
+"C.F. Møllers Allé 98, 6. tv",55.63472,12.58053,2995000,Ejerlejlighed,2,2018,lav,580,141,263,64,46796,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-98/6-tv/
+"Øresundsvej 47A, 2. tv",55.660451,12.613105,4895000,Ejerlejlighed,4,,lav,644,172,223,107,45747,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8resundsvej-47a/2-tv/
+Italiensvej 64A,55.656075,12.629963,9995000,Villa,5,1968,mellem,"1,01",212,612,140,71392,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/italiensvej-64a/
+"Serbiensgade 2, 1. th",55.6644,12.613669,2795000,Ejerlejlighed,2,,lav,570,44,260,57,49035,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/serbiensgade-2/1-th/
+"Ungarnsgade 17, 1. tv",55.664226,12.613651,2795000,Ejerlejlighed,2,,lav,567,51,265,53,52735,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ungarnsgade-17/1-tv/
+"Amsterdamvej 38, st. tv",55.648928,12.61724,2545000,Ejerlejlighed,2,,lav,728,25,283,72,35347,E,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amsterdamvej-38/st-tv/
+"Under Elmene 12, 4. th",55.664931,12.597789,3200000,Ejerlejlighed,2,1915,lav,465,238,71,61,52459,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/under%20elmene-12/4-th/
+Pindosvej 5,55.641174,12.623681,8795000,Villa,6,1946,lav,521,429,408,155,56741,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/pindosvej-5/
+"Robert Jacobsens Vej 78, 6. 2",55.617128,12.572058,4195000,Ejerlejlighed,3,2010,lav,"1,46",74,921,97,43247,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/robert%20jacobsens%20vej-78/6-2/
+Richard Mortensens Vej 10G,55.623817,12.571358,5750000,Rækkehus,6,2016,lav,764,232,897,117,49145,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/richard%20mortensens%20vej-10g/
+"Oldenborggade 24, 3. th",55.664743,12.611045,4195000,Ejerlejlighed,3,,lav,414,122,90,70,59928,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/oldenborggade-24/3-th/
+Hedegaardsvej 7B,55.644859,12.629828,7995000,Villa,4,1989,lav,864,250,304,113,70752,E,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hedegaardsvej-7b/
+"C.F. Møllers Allé 40, 9. tv",55.634762,12.577208,4595000,Ejerlejlighed,3,,lav,527,222,322,93,49408,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-40/9-tv/
+"Krimsvej 1B, 19. mf",55.66171,12.629449,5995000,Ejerlejlighed,3,,lav,502,202,135,100,59950,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/krimsvej-1b/19-mf/
+"Rodosvej 7E, 2. th",55.650712,12.614027,2295000,Ejerlejlighed,2,,lav,509,76,186,54,42500,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/rodosvej-7e/2-th/
+"Islands Brygge 30B, 11. 3",55.661835,12.56943,5995000,Ejerlejlighed,2,,lav,468,375,285,80,74937,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-30b/11-3/
+"Frankrigshusene 10, st. tv",55.662648,12.608229,2995000,Ejerlejlighed,2,,lav,251,147,134,56,53482,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/frankrigshusene-10/st-tv/
+"Jens Otto Krags Gade 13, 4. 2",55.659054,12.569517,5095000,Ejerlejlighed,2,2006,lav,580,398,219,82,62134,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/jens%20otto%20krags%20gade-13/4-2/
+"Amager Strandvej 162C, 6. tv",55.658507,12.633977,11595000,Ejerlejlighed,5,,lav,948,270,368,155,74806,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amager%20strandvej-162c/6-tv/
+"Øresundsvej 156, 4. tv",55.661961,12.630768,8695000,Ejerlejlighed,4,,lav,562,281,70,119,73067,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8resundsvej-156/4-tv/
+"Rundholtsvej 56, 2. 4",55.653988,12.564807,8195000,Ejerlejlighed,3,,lav,915,93,126,115,71260,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/rundholtsvej-56/2-4/
+"Kvintus Allé 14, st. 3",55.659923,12.61904,5495000,Ejerlejlighed,4,2006,lav,530,183,36,107,51355,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/kvintus%20all%C3%A9-14/st-3/
+Signelilvej 23,55.654927,12.635641,13995000,Villa,6,1986,mellem,"1,31",180,776,201,69626,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/signelilvej-23/
+"Robert Jacobsens Vej 10Y, 5. tv",55.623925,12.573686,4495000,Ejerlejlighed,4,2017,lav,701,83,860,91,49395,A2020,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/robert%20jacobsens%20vej-10y/5-tv/
+"Grækenlandsvej 63, 2. 3",55.649816,12.617768,1695000,Ejerlejlighed,1,1933,lav,729,102,245,37,45810,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/gr%C3%A6kenlandsvej-63/2-3/
+"C.F. Møllers Allé 16, 7. mf",55.634946,12.5742,4795000,Ejerlejlighed,3,2007,lav,566,227,371,92,52119,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-16/7-mf/
+Hf. Engly 93,,,3995000,Villa,2,1968,N/A,"1,02",416,42,80,49937,F,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hf.%20engly-93/
+"Amager Strandvej 158C, 2. tv",55.658314,12.63123,6495000,Ejerlejlighed,6,,lav,842,148,355,126,51547,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amager%20strandvej-158c/2-tv/
+Robert Jacobsens Vej 10D,55.623481,12.574375,5195000,Rækkehus,5,2016,mellem,739,68,889,114,45570,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/robert%20jacobsens%20vej-10d/
+Volosvej 10,55.647792,12.619882,8995000,Villa,4,1927,lav,650,93,155,126,71388,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/volosvej-10/
+"Ejler Billes Allé 130, 1. th",55.623568,12.569339,5995000,Ejerlejlighed,4,2020,lav,851,363,964,126,47579,A2020,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ejler%20billes%20all%C3%A9-130/1-th/
+Ved Slusen 32,55.642274,12.553643,3795000,Ejerlejlighed,5,,høj,398,610,507,140,27107,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ved%20slusen-32/
+"Biens Allé 20, 1. ",55.650808,12.619714,5495000,Villalejlighed,4,1908,lav,748,250,81,110,49954,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/biens%20all%C3%A9-20/1-/
+"C.F. Møllers Allé 84, 6. th",55.634216,12.579796,4145000,Ejerlejlighed,3,,lav,510,187,206,86,48197,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-84/6-th/
+"Gerbrandsvej 8, st. 4",55.646843,12.615517,1835000,Ejerlejlighed,2,1934,lav,491,114,69,44,41704,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/gerbrandsvej-8/st-4/
+"Øresundsvej 148A, 5. tv",55.661804,12.629667,5495000,Ejerlejlighed,4,,lav,509,214,124,103,53349,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8resundsvej-148a/5-tv/
+Breidablik Allé 13,55.650911,12.605616,11250000,Villa,4,1930,lav,514,227,445,144,78125,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/breidablik%20all%C3%A9-13/
+"C.F. Møllers Allé 16, 7. th",55.634946,12.5742,4325000,Ejerlejlighed,3,,lav,566,227,371,99,43686,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-16/7-th/
+"Kretavej 17, 5. tv",55.652923,12.619003,2395000,Ejerlejlighed,2,,lav,597,319,231,44,54431,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/kretavej-17/5-tv/
+"Bergthorasgade 17, 2. 5",55.664749,12.578979,3095000,Ejerlejlighed,1,,lav,478,196,182,60,51583,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/bergthorasgade-17/2-5/
+Backersvej 51,55.657438,12.620827,2750000,Ejerlejlighed,2,,lav,742,193,264,54,50925,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/backersvej-51/
+"Amagerbrogade 32, 5. th",55.664466,12.600132,11995000,Ejerlejlighed,7,,lav,307,309,96,180,66638,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amagerbrogade-32/5-th/
+"C.F. Møllers Allé 22, 3. th",55.635526,12.57443,4345000,Ejerlejlighed,3,,lav,625,284,433,103,42184,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-22/3-th/
+"Robert Jacobsens Vej 70, 7. p4",55.617745,12.572078,5895000,Ejerlejlighed,5,2010,lav,"1,39",104,909,154,38279,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/robert%20jacobsens%20vej-70/7-p4/
+"Prags Boulevard 44, 3. tv",55.666885,12.611281,2995000,Ejerlejlighed,2,,lav,541,252,219,61,49098,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/prags%20boulevard-44/3-tv/
+"Greisvej 37, st. th",55.645551,12.619116,2295000,Ejerlejlighed,3,1935,lav,407,227,298,62,37016,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/greisvej-37/st-th/
+"Robert Jacobsens Vej 74, 7. p6",55.617425,12.571943,4795000,Ejerlejlighed,3,,lav,"1,43",76,922,120,39958,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/robert%20jacobsens%20vej-74/7-p6/
+Hilmar Baunsgaards Boulevard 31,55.655812,12.567492,9495000,Rækkehus,5,2014,lav,776,341,206,152,62467,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hilmar%20baunsgaards%20boulevard-31/
+"Edvard Thomsens Vej 17, st. tv",55.633238,12.573677,6350000,Ejerlejlighed,3,2007,lav,400,115,196,151,42052,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/edvard%20thomsens%20vej-17/st-tv/
+Irlandsvej 110,55.640169,12.607492,4895000,Villa,4,1979,N/A,585,202,534,106,46179,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/irlandsvej-110/
+Windsorvej 31,55.641223,12.602166,8995000,Villa,4,1929,N/A,879,303,256,126,71388,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/windsorvej-31/
+"Under Elmene 16, 1. tv",55.665189,12.598732,2845000,Ejerlejlighed,2,,lav,418,303,74,51,55784,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/under%20elmene-16/1-tv/
+"Lyongade 24, st. tv",55.660339,12.609329,3595000,Ejerlejlighed,2,1941,lav,476,201,106,70,51357,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/lyongade-24/st-tv/
+"Ørestads Boulevard 62, 7. th",55.634112,12.580693,5495000,Ejerlejlighed,5,2018,lav,526,134,198,132,41628,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8restads%20boulevard-62/7-th/
+"Ålandsgade 43, st. tv",55.662477,12.607151,3595000,Ejerlejlighed,2,,lav,206,126,189,76,47302,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%A5landsgade-43/st-tv/
+"Rodosvej 6, 1. ",55.650415,12.613518,4495000,Ejerlejlighed,3,100 MBit,lav,524,122,199,85,52882,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/rodosvej-6/1-/
+"Veronavej 10, 1. ",55.657058,12.622778,5995000,Villalejlighed,5,,lav,790,171,366,74,81013,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/veronavej-10/1-/
+"Holmbladsgade 111B, 4. 1",55.667925,12.61659,6195000,Ejerlejlighed,4,1922,lav,576,69,158,105,59000,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/holmbladsgade-111b/4-1/
+"Greisvej 43, 1. tv",55.645815,12.618977,2295000,Ejerlejlighed,2,20 MBit,lav,428,197,293,49,46836,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/greisvej-43/1-tv/
+"Islands Brygge 104, st. tv",55.655734,12.564406,5695000,Ejerlejlighed,3,,lav,720,218,266,82,69451,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-104/st-tv/
+"Ejler Billes Allé 28, 4. th",55.622608,12.571765,4295000,Ejerlejlighed,4,2018,lav,877,256,1.020,97,44278,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ejler%20billes%20all%C3%A9-28/4-th/
+"Amagerfælledvej 166, 6. 4",55.656748,12.589816,5450000,Ejerlejlighed,3,100 MBit,N/A,"1,23",253,502,109,50000,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amagerf%C3%A6lledvej-166/6-4/
+"Frankrigsgade 19, 3. th",55.661968,12.608018,2695000,Ejerlejlighed,2,,lav,285,140,126,54,49907,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/frankrigsgade-19/3-th/
+Robert Jacobsens Vej 6B,55.623899,12.574505,4995000,Rækkehus,4,,lav,692,32,843,106,47122,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/robert%20jacobsens%20vej-6b/
+"Højdevej 20, 3. tv",55.654661,12.613453,1238536,Andelsbolig,2,,lav,209,110,251,53,23368,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/h%C3%B8jdevej-20/3-tv/
+"Amager Strandvej 110B, 10. tv",55.660525,12.632106,10795000,Ejerlejlighed,4,,lav,716,351,115,122,88483,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amager%20strandvej-110b/10-tv/
+"Serbiensgade 2, 4. th",55.6644,12.613669,2595000,Ejerlejlighed,2,,lav,570,44,260,54,48055,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/serbiensgade-2/4-th/
+"Rumæniensgade 4, 5. th",55.659917,12.613858,2695000,Ejerlejlighed,2,1930,lav,622,221,220,64,42109,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/rum%C3%A6niensgade-4/5-th/
+"Klaksvigsgade 8, st. tv",55.667581,12.580786,8400000,Ejerlejlighed,4,2006,lav,171,295,164,132,63636,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/klaksvigsgade-8/st-tv/
+"Lyongade 17A, 2. 4",55.660615,12.609012,4995000,Ejerlejlighed,3,,lav,439,177,142,109,45825,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/lyongade-17a/2-4/
+Oldenborggade 12,55.664775,12.611675,6995000,Ejerlejlighed,6,2020,lav,453,90,126,120,58291,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/oldenborggade-12/
+"Backersvej 80, st. tv",55.653873,12.623445,2395000,Ejerlejlighed,2,,lav,851,45,346,56,42767,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/backersvej-80/st-tv/
+"Amagerfælledvej 166, 6. 6",55.656748,12.589816,6750000,Ejerlejlighed,4,,N/A,"1,23",253,502,128,52734,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amagerf%C3%A6lledvej-166/6-6/
+"Strandlodsvej 14, 2. tv",55.666639,12.620406,2795000,Ejerlejlighed,2,1934,lav,314,256,320,56,49910,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/strandlodsvej-14/2-tv/
+Oxford Allé 59,55.642991,12.604874,8900000,Villa,6,2017,N/A,699,150,516,205,43414,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/oxford%20all%C3%A9-59/
+"C.F. Møllers Allé 86, 4. th",55.634189,12.579993,3045000,Ejerlejlighed,2,,lav,512,175,202,68,44779,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-86/4-th/
+"Bremensgade 27, 2. tv",55.665959,12.617643,2995000,Ejerlejlighed,2,,lav,386,165,165,59,50762,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/bremensgade-27/2-tv/
+Røde Mellemvej 99,55.64515,12.591942,6495000,Villa,6,1937,N/A,"1,55",282,703,172,37761,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/r%C3%B8de%20mellemvej-99/
+"Ejler Billes Allé 130, 1. tv",55.623568,12.569339,5395000,Ejerlejlighed,4,,lav,851,363,964,124,43508,A2020,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ejler%20billes%20all%C3%A9-130/1-tv/
+"Islands Brygge 32B, 5. 553",55.660885,12.568469,5795000,Ejerlejlighed,2,,lav,427,417,287,109,53165,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-32b/5-553/
+"C.F. Møllers Allé 16, 6. mf",55.634946,12.5742,4745000,Ejerlejlighed,3,2007,lav,566,227,371,92,51576,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-16/6-mf/
+"Islands Brygge 34A, st. th",55.659574,12.567928,6580000,Ejerlejlighed,3,,lav,464,470,220,119,55294,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-34a/st-th/
+"Richard Mortensens Vej 65, 4. 2",55.618128,12.571316,4250000,Ejerlejlighed,3,2010,lav,"1,36",118,953,97,43814,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/richard%20mortensens%20vej-65/4-2/
+"Wibrandtsvej 55, 1. ",55.647465,12.626363,4495000,Villalejlighed,4,1935,lav,875,188,325,100,44950,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/wibrandtsvej-55/1-/
+Hannemanns Allé 10X,55.625297,12.569925,5195000,Rækkehus,4,,lav,672,354,773,126,41230,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hannemanns%20all%C3%A9-10x/
+"Ungarnsgade 19, 3. th",55.664146,12.613717,2695000,Ejerlejlighed,2,,lav,571,60,273,56,48125,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ungarnsgade-19/3-th/
+"Meklenborggade 11, 1. tv",55.665111,12.610851,4795000,Ejerlejlighed,3,2019,lav,415,127,68,86,55755,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/meklenborggade-11/1-tv/
+"Ørestads Boulevard 59A, 4. 404",55.63399,12.581914,3695000,Ejerlejlighed,4,100 MBit,lav,558,73,215,109,33899,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8restads%20boulevard-59a/4-404/
+"Islands Brygge 62, 3. tv",55.656801,12.565569,13995000,Ejerlejlighed,5,,lav,626,355,135,156,89711,A2020,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-62/3-tv/
+"Amagerbrogade 246B, 3. tv",55.64494,12.614691,3395000,Ejerlejlighed,3,,lav,288,63,45,104,32644,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amagerbrogade-246b/3-tv/
+Athensvej 20,55.64508,12.624407,7395000,Villa,5,,lav,623,379,436,112,66026,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/athensvej-20/
+"Tycho Brahes Allé 25, 2. th",55.655691,12.612428,2295000,Ejerlejlighed,2,,lav,179,64,197,48,47812,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/tycho%20brahes%20all%C3%A9-25/2-th/
+"Kirkegårdsvej 8, 3. 29",55.658707,12.611066,2495000,Ejerlejlighed,2,,lav,445,95,22,47,53085,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/kirkeg%C3%A5rdsvej-8/3-29/
+"Keplersgade 24, st. th",55.6538,12.612397,3595000,Ejerlejlighed,3,,lav,175,216,193,86,41802,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/keplersgade-24/st-th/
+Æginavej 4,55.642853,12.622913,6595000,Villa,4,1927,lav,456,478,438,120,54958,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%A6ginavej-4/
+"Kvintus Allé 3, st. 4",55.660817,12.619615,1995000,Ejerlejlighed,1,,lav,425,222,92,45,44333,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/kvintus%20all%C3%A9-3/st-4/
+"Lyneborggade 1, 1. th",55.665493,12.609581,3395000,Ejerlejlighed,3,,lav,362,115,44,62,54758,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/lyneborggade-1/1-th/
+"C.F. Møllers Allé 70, st. tv",55.634817,12.579702,2695000,Ejerlejlighed,2,,lav,569,195,273,64,42109,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-70/st-tv/
+"Kirkegårdsvej 11, st. th",55.659081,12.611294,4995000,Ejerlejlighed,3,,lav,488,120,33,93,53709,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/kirkeg%C3%A5rdsvej-11/st-th/
+Paduavej 22,55.656088,12.623085,12495000,Villa,5,1927,lav,836,119,389,116,107715,E,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/paduavej-22/
+"Islands Brygge 102, 2. th",55.655672,12.564654,6795000,Ejerlejlighed,3,,lav,730,217,252,110,61772,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-102/2-th/
+"Krimsvej 1B, 19. th",55.66171,12.629449,6295000,Ejerlejlighed,4,,lav,502,202,135,101,62326,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/krimsvej-1b/19-th/
+"Ørestads Boulevard 37B, 2. tv",55.638426,12.583637,4095000,Ejerlejlighed,4,2007,lav,"1,04",378,357,93,44032,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8restads%20boulevard-37b/2-tv/
+"Meklenborggade 11, 1. th",55.665111,12.610851,5095000,Ejerlejlighed,4,,lav,415,127,68,90,56611,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/meklenborggade-11/1-th/
+"Luganovej 4, 1. ",55.658109,12.616379,6995000,Villalejlighed,6,1905,lav,545,263,241,151,46324,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/luganovej-4/1-/
+"Ved Amagerport 12, st. tv",55.667172,12.596003,3995000,Ejerlejlighed,2,1915,lav,610,192,169,68,58750,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ved%20amagerport-12/st-tv/
+"Robert Jacobsens Vej 10Y, 6. th",55.623925,12.573686,5195000,Ejerlejlighed,4,,lav,701,83,860,111,46801,A2020,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/robert%20jacobsens%20vej-10y/6-th/
+"Woltersgade 10, 2. tv",55.664619,12.607641,3399000,Ejerlejlighed,3,1901,lav,206,53,147,59,57610,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/woltersgade-10/2-tv/
+"Hessensgade 25, 3. th",55.664802,12.61612,2800000,Ejerlejlighed,2,1965,lav,433,106,214,56,50000,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hessensgade-25/3-th/
+Tom Kristensens Vej 21,55.660385,12.585232,6495000,Rækkehus,5,2014,N/A,"1,02",115,607,115,56478,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/tom%20kristensens%20vej-21/
+"Øresundsvej 49, 5. ",55.660532,12.613472,2660000,Ejerlejlighed,2,1937,lav,658,168,245,51,52156,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8resundsvej-49/5-/
+"Krimsvej 1B, 14. th",55.66171,12.629449,5995000,Ejerlejlighed,4,2013,lav,502,202,135,101,59356,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/krimsvej-1b/14-th/
+Hf. Kongelund 84,55.632609,12.588719,5995000,Villa,3,2020,lav,795,435,552,94,63776,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hf.%20kongelund-84/
+Ahrenkildes Allé 10,55.649411,12.619352,9995000,Villa,6,1911,lav,808,124,171,139,71906,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ahrenkildes%20all%C3%A9-10/
+"Birketinget 16, st. 1",55.656765,12.597024,2595000,Ejerlejlighed,1,,lav,867,135,176,69,37608,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/birketinget-16/st-1/
+Wibrandtsvej 33,55.646588,12.621649,10495000,Villa,6,1929,lav,594,229,234,192,54661,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/wibrandtsvej-33/
+"Ungarnsgade 5, 3. tv",55.665768,12.612448,3195000,Ejerlejlighed,3,,lav,537,145,185,65,49153,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ungarnsgade-5/3-tv/
+"Hannemanns Allé 12U, 5. mf",55.626063,12.569927,4395000,Ejerlejlighed,3,,lav,608,397,696,108,40694,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hannemanns%20all%C3%A9-12u/5-mf/
+"Weidekampsgade 57, 2. 1",55.667242,12.582007,5595000,Ejerlejlighed,3,,lav,240,339,203,97,57680,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/weidekampsgade-57/2-1/
+Hovmålvej 85,55.631819,12.58538,6195000,Villa,7,1944,lav,598,340,344,162,38240,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hovm%C3%A5lvej-85/
+"Amager Strandvej 114C, 4. mf",55.660043,12.631656,4995000,Ejerlejlighed,2,2016,lav,725,291,163,85,58764,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amager%20strandvej-114c/4-mf/
+Hf. Elmebo 34,,,4595000,Villa,3,1965,mellem,985,151,215,83,55361,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hf.%20elmebo-34/
+"Bergthorasgade 17, 5. 5",55.664749,12.578979,3075000,Ejerlejlighed,1,1970,lav,478,196,182,60,51250,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/bergthorasgade-17/5-5/
+Slusevej 39,55.629627,12.585954,7495000,Villa,6,1998,lav,602,575,438,145,51689,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/slusevej-39/
+"C.F. Møllers Allé 84, st. th",55.634216,12.579796,2595000,Ejerlejlighed,2,2019,lav,510,187,206,57,45526,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-84/st-th/
+"Edvard Thomsens Vej 59, st. ",55.632805,12.577114,4495000,Ejerlejlighed,4,,lav,311,109,189,122,36844,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/edvard%20thomsens%20vej-59/st-/
+"Robert Jacobsens Vej 87, 6. th",55.616834,12.572842,7495000,Ejerlejlighed,5,2009,lav,"1,48",128,879,152,49309,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/robert%20jacobsens%20vej-87/6-th/
+"Amager Strandvej 162C, 8. tv",55.658507,12.633977,12395000,Ejerlejlighed,4,,lav,948,270,368,155,79967,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amager%20strandvej-162c/8-tv/
+"Edvard Thomsens Vej 25, 5. tv",55.63304,12.574774,6295000,Ejerlejlighed,4,,lav,353,43,157,147,42823,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/edvard%20thomsens%20vej-25/5-tv/
+Knud Kristensens Gade 1,55.656053,12.56789,10595000,Rækkehus,5,2014,lav,764,378,185,155,68354,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/knud%20kristensens%20gade-1/
+"Amager Strandvej 158C, 1. tv",55.658314,12.63123,6495000,Ejerlejlighed,5,,lav,842,148,355,126,51547,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amager%20strandvej-158c/1-tv/
+"C.F. Møllers Allé 58, 5. th",55.63433,12.578769,4695000,Ejerlejlighed,3,,lav,499,251,233,99,47424,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-58/5-th/
+"Strandlodsvej 23E, 2. tv",55.665337,12.624985,5995000,Ejerlejlighed,4,,lav,188,146,189,109,55000,A2020,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/strandlodsvej-23e/2-tv/
+"Polensgade 20, 3. th",55.665029,12.614459,2495000,Ejerlejlighed,2,,lav,542,110,193,49,50918,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/polensgade-20/3-th/
+"C.F. Møllers Allé 2D, 1. th",55.635394,12.575463,3995000,Ejerlejlighed,3,2012,lav,600,262,419,98,40765,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-2d/1-th/
+"Rundholtsvej 56, 1. 3",55.653988,12.564807,10250000,Ejerlejlighed,4,2014,lav,915,93,126,149,68791,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/rundholtsvej-56/1-3/
+Richard Mortensens Vej 134,55.617062,12.569011,4895000,Rækkehus,4,,lav,"1,52",120,1.113,109,44908,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/richard%20mortensens%20vej-134/
+Hf. Formosa 16,,,1795000,Fritidshus,2,,mellem,"1,39",204,790,25,71800,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hf.%20formosa-16/
+"Amager Strandvej 156E, 3. tv",55.658455,12.631614,6195000,Ejerlejlighed,5,,lav,846,176,339,121,51198,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/amager%20strandvej-156e/3-tv/
+"Boltonvej 34, st. ",55.642022,12.6024,5175000,Villalejlighed,4,1932,N/A,855,315,331,94,55053,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/boltonvej-34/st-/
+"C.F. Møllers Allé 2A, 2. th",55.635482,12.574841,4195000,Ejerlejlighed,4,,lav,615,275,427,98,42806,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/c.f.%20m%C3%B8llers%20all%C3%A9-2a/2-th/
+"Hveensvej 4, 2. ",55.656227,12.60985,5495000,Ejerlejlighed,5,,lav,167,109,72,119,46176,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hveensvej-4/2-/
+"Viggo Kampmanns Plads 3, 4. ",55.655036,12.565028,10695000,Ejerlejlighed,3,,lav,804,168,180,152,70361,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/viggo%20kampmanns%20plads-3/4-/
+"Meklenborggade 11, 5. mf",55.665111,12.610851,9495000,Ejerlejlighed,6,,lav,415,127,68,164,57896,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/meklenborggade-11/5-mf/
+Hedegaardsvej 123,55.646637,12.638083,2995000,Fritidshus,4,1950,lav,"1,01",281,626,37,80945,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/hedegaardsvej-123/
+Ved Slusen 21,55.641871,12.554432,2750000,Ejerlejlighed,3,1994,høj,465,672,573,92,29891,N/A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ved%20slusen-21/
+"Caprivej 1, 1. th",55.660907,12.621083,2795000,Ejerlejlighed,2,,lav,379,195,27,56,49910,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/caprivej-1/1-th/
+"Ørestads Boulevard 57A, 1. 101",55.634438,12.582247,3398000,Ejerlejlighed,3,,lav,610,29,269,118,28796,A2010,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8restads%20boulevard-57a/1-101/
+Ejler Billes Allé 80,55.623386,12.569129,5495000,Rækkehus,5,2020,lav,875,355,988,133,41315,A,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ejler%20billes%20all%C3%A9-80/
+"Sofienhøjvej 1, 3. 318",55.645383,12.613644,1700000,Ejerlejlighed,1,,lav,356,120,52,44,38636,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/sofienh%C3%B8jvej-1/3-318/
+"Tyrolsgade 14, st. ",55.659527,12.609302,2795000,Ejerlejlighed,2,,lav,535,130,46,62,45080,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/tyrolsgade-14/st-/
+"Weidekampsgade 35, 5. tv",55.666966,12.582656,8595000,Ejerlejlighed,5,,lav,290,378,184,131,65610,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/weidekampsgade-35/5-tv/
+"Ungarnsgade 72, 2. tv",55.662543,12.614516,2795000,Ejerlejlighed,2,,lav,560,95,294,60,46583,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/ungarnsgade-72/2-tv/
+"Ørestads Boulevard 63A, 7. mf",55.632856,12.581533,5795000,Ejerlejlighed,3,,lav,448,193,108,123,47113,B,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/%C3%B8restads%20boulevard-63a/7-mf/
+"Islands Brygge 108, 3. th",55.655375,12.564008,13995000,Ejerlejlighed,4,,lav,754,173,251,138,101413,A2015,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-108/3-th/
+Azaleagangen 6,55.646843,12.592694,4795000,Villa,4,1995,N/A,"1,42",91,893,110,43590,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/azaleagangen-6/
+"Palermovej 11, st. 3",55.660438,12.622392,2495000,Ejerlejlighed,2,1937,lav,415,148,121,56,44553,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/palermovej-11/st-3/
+"Holmbladsgade 70A, 3. tv",55.665193,12.611411,4795000,Ejerlejlighed,4,,lav,452,127,104,98,48928,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/holmbladsgade-70a/3-tv/
+"Islands Brygge 32A, 8. 875",55.66099,12.568558,12500000,Ejerlejlighed,4,1963,lav,429,411,285,185,67567,C,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/islands%20brygge-32a/8-875/
+Svend Vonveds Vej 5,55.651189,12.637877,11495000,Villa,6,1956,mellem,"1,51",331,1.057,182,63159,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/svend%20vonveds%20vej-5/
+"Geislersgade 15, 2. tv",55.664149,12.606255,3095000,Ejerlejlighed,2,,lav,104,69,224,57,54298,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/geislersgade-15/2-tv/
+Strandlodsvej 110,55.658562,12.626446,6495000,Helårsgrund,5,,lav,664,180,452,489,13282,D,https://www.dingeo.dk/adresse/2300-k%C3%B8benhavn%20s/strandlodsvej-110/

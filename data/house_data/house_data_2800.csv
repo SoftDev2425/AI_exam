@@ -1,0 +1,195 @@
+Address,X,Y,Price,Type,Room count,Construction year,Risk of burglary,Distance to pharmacy,Distance to daycare,Distance to grocery store,Size,Squaremeter price,Energy class,Url
+Finlandsvej 4,55.792666,12.516887,8495000,Villa,8,1921,lav,"2,49",537,566,201,42263,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/finlandsvej-4/
+Vinagervej 23,55.762456,12.515852,6500000,Villa,7,1955,lav,"1,03",536,667,190,34210,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/vinagervej-23/
+Lyngen 14B,55.758737,12.497521,6245000,Rækkehus,5,1960,lav,"1,14",749,875,112,55758,F,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/lyngen-14b/
+Fort Alle 6,55.759995,12.493637,9995000,Villa,6,1959,lav,"1,12",600,611,179,55837,A2010,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/fort%20alle-6/
+"Mølleåparken 13, 2. tv",55.795073,12.504196,1995000,Ejerlejlighed,1,,lav,"1,99",163,155,54,36944,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/m%C3%B8lle%C3%A5parken-13/2-tv/
+"Emil Pipers Vej 41, 1. th",55.767161,12.499208,3495000,Ejerlejlighed,3,,lav,301,158,273,84,41607,N/A,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/emil%20pipers%20vej-41/1-th/
+"Mølleåparken 83, 1. ",55.794959,12.502651,2495000,Ejerlejlighed,2,1973,lav,"1,89",140,183,61,40901,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/m%C3%B8lle%C3%A5parken-83/1-/
+Sverigesvej 20A,55.795037,12.514304,9295000,Villa,7,1938,lav,"2,43",347,278,197,47182,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/sverigesvej-20a/
+Lundtoftevej 272,55.797672,12.539248,6995000,Villa,5,1950,mellem,"1,92",345,318,102,68578,F,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/lundtoftevej-272/
+Hjortekærsvej 171B,55.796438,12.54136,11995000,Villa,6,,mellem,"2,09",378,433,180,66638,N/A,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/hjortek%C3%A6rsvej-171b/
+Bygtoften 2A,55.793665,12.506155,6350000,Rækkehus,4,2023,lav,"2,12",114,108,123,51626,A,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/bygtoften-2a/
+Kongshvilebakken 14,55.771543,12.483148,13995000,Villa,5,1933,lav,"1,34",641,747,158,88575,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/kongshvilebakken-14/
+"Lyngby Hovedgade 106, st. mf",55.763923,12.510847,570000,Andelsbolig,2,,lav,690,411,582,57,10000,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/lyngby%20hovedgade-106/st-mf/
+Lyngen 10,55.758869,12.49688,6195000,Villa,4,1959,lav,"1,14",741,833,113,54823,F,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/lyngen-10/
+Høstvej 11,55.775656,12.505538,6600000,Villa,4,1897,mellem,489,158,349,113,58407,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/h%C3%B8stvej-11/
+Lyngen 6A,55.758535,12.496214,5300000,Villa,4,1968,lav,"1,19",773,799,115,46086,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/lyngen-6a/
+Sophus Schandorphs Vej 16B,55.767668,12.488403,19995000,Villa,4,2010,mellem,958,169,216,177,112966,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/sophus%20schandorphs%20vej-16b/
+Triumfvej 32,55.758107,12.474943,7995000,Villa,5,1939,mellem,"1,47",218,244,127,62952,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/triumfvej-32/
+Nymøllevej 49,55.80098,12.517068,7795000,Villa,6,1907,mellem,"1,77",51,419,134,58171,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/nym%C3%B8llevej-49/
+Vintappervej 4,55.763282,12.512995,6995000,Villa,6,1899,lav,837,436,728,157,44554,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/vintappervej-4/
+"Johan Wilmanns Vej 4, 2. mf",55.764987,12.502089,2000000,Ejerlejlighed,1,1936,lav,391,190,364,39,51282,B,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/johan%20wilmanns%20vej-4/2-mf/
+"Hjortekærsvej 12, 1. ",55.776167,12.536648,7800000,Villalejlighed,4,1930,høj,"2,07",229,973,125,62400,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/hjortek%C3%A6rsvej-12/1-/
+Gammelmosevej 133,55.75649,12.490149,9649000,Villa,8,,mellem,"1,57",575,428,196,49229,N/A,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/gammelmosevej-133/
+Granparken 79,55.791299,12.508679,6500000,Rækkehus,4,,lav,"2,24",225,377,127,51181,N/A,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/granparken-79/
+"Engelsborgvej 20F, 2. th",55.768038,12.499725,3495000,Ejerlejlighed,3,1946,lav,238,260,193,77,45389,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/engelsborgvej-20f/2-th/
+Sverigesvej 24,55.795146,12.513523,7495000,Villa,5,1973,lav,"2,44",372,271,146,51335,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/sverigesvej-24/
+Bagsværdvej 83A,55.764947,12.483734,6395000,Villa,4,1935,mellem,"1,31",271,362,120,53291,B,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/bagsv%C3%A6rdvej-83a/
+Tjørnevænget 47,55.75954,12.488888,5250000,Rækkehus,4,1957,mellem,"1,35",539,320,91,57692,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/tj%C3%B8rnev%C3%A6nget-47/
+Tjørnevej 2B,55.766012,12.510887,6600000,Villa,5,,lav,548,235,438,148,44594,N/A,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/tj%C3%B8rnevej-2b/
+"Eremitageparken 99, 1. b",55.791657,12.533445,2995000,Ejerlejlighed,4,1972,mellem,"2,53",444,560,108,27731,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/eremitageparken-99/1-b/
+"Mølleåparken 13, st. th",55.795073,12.504196,2795000,Ejerlejlighed,3,1969,lav,"1,99",163,155,82,34085,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/m%C3%B8lle%C3%A5parken-13/st-th/
+Granparken 175,55.7924,12.508589,5795000,Rækkehus,4,1957,lav,"2,29",165,299,119,48697,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/granparken-175/
+Langs Hegnet 70,55.79093,12.543736,14495000,Villa,6,1955,høj,"2,72",339,863,292,49640,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/langs%20hegnet-70/
+Trongårdsvej 5A,55.776164,12.542265,10695000,Villa,7,1965,høj,"2,42",504,1.330,144,74270,F,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/trong%C3%A5rdsvej-5a/
+"Eremitageparken 215, 2. b",55.794273,12.535026,2195000,Ejerlejlighed,3,1972,mellem,"2,25",176,266,62,35403,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/eremitageparken-215/2-b/
+"Mølleåparken 51, st. ",55.794572,12.503439,2495000,Ejerlejlighed,2,1973,lav,"1,94",95,118,61,40901,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/m%C3%B8lle%C3%A5parken-51/st-/
+"Nørgaardsvej 18A, 1. tv",55.77031,12.509162,2250000,Ejerlejlighed,2,1938,mellem,270,464,288,60,37500,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/n%C3%B8rgaardsvej-18a/1-tv/
+Nybrovej 232,55.768116,12.484014,13000000,Villa,5,1970,mellem,"1,24",350,421,183,71038,B,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/nybrovej-232/
+Møllekrogen 14,55.758652,12.493693,5075000,Rækkehus,4,1946,lav,"1,25",727,641,89,57022,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/m%C3%B8llekrogen-14/
+"Johan Wilmanns Vej 4, 1. mf",55.764987,12.502089,1950000,Ejerlejlighed,1,,lav,391,190,364,39,50000,N/A,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/johan%20wilmanns%20vej-4/1-mf/
+"Daugaardsvej 6, 1. th",55.794707,12.509053,2495000,Ejerlejlighed,3,1939,lav,"2,30",299,314,60,41583,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/daugaardsvej-6/1-th/
+"Skelhøjvej 25A, st. tv",55.763706,12.48385,1895000,Ejerlejlighed,2,,mellem,"1,35",282,377,48,39479,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/skelh%C3%B8jvej-25a/st-tv/
+"Engelsborgvej 27, 1. th",55.767403,12.49886,4275000,Ejerlejlighed,4,1935,lav,310,183,275,103,41504,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/engelsborgvej-27/1-th/
+Bjælkevangen 11A,55.789073,12.534477,9995000,Villa,6,2011,mellem,"2,72",248,842,188,53164,B,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/bj%C3%A6lkevangen-11a/
+"Mølleåparken 6, 3. f",55.795091,12.504654,1495000,Ejerlejlighed,1,1969,lav,"2,02",179,157,52,28750,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/m%C3%B8lle%C3%A5parken-6/3-f/
+"Bredebovej 29, 1. th",55.795517,12.505105,3995000,Ejerlejlighed,3,,lav,"2,05",234,208,82,48719,N/A,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/bredebovej-29/1-th/
+"Lundtofte Skolestr. 3B, 1. ",,,4145000,Ejerlejlighed,3,1876,mellem,"1,88",181,260,80,51812,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/lundtofte%20skolestr.-3b/1-/
+Caroline Amalie Vej 109,55.790994,12.50422,9495000,Villa,5,1968,lav,"2,05",216,299,165,57545,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/caroline%20amalie%20vej-109/
+"Kollegiebakken 15A, 1. 75",55.780818,12.523435,530276,Andelsbolig,2,,lav,"1,57",29,236,50,10605,A2010,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/kollegiebakken-15a/1-75/
+"Rævehøjparken 2, 1. tv",55.789965,12.533295,1825000,Ejerlejlighed,2,1981,mellem,"2,72",269,747,62,29435,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/r%C3%A6veh%C3%B8jparken-2/1-tv/
+Møllestien 13,55.75914,12.494157,5495000,Rækkehus,3,1943,lav,"1,19",696,657,103,53349,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/m%C3%B8llestien-13/
+Ingvar Nørgaards Vej 20,55.777752,12.528698,8250000,Rækkehus,4,2021,høj,"1,66",91,522,139,59352,A2015,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/ingvar%20n%C3%B8rgaards%20vej-20/
+"Lyngby Hovedgade 57A, 2. th",55.768654,12.50631,4245000,Ejerlejlighed,4,,lav,188,512,45,104,40817,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/lyngby%20hovedgade-57a/2-th/
+Nøjsomhedsvej 36A,55.79775,12.516105,7400000,Villa,5,1917,mellem,"2,11",106,116,144,51388,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/n%C3%B8jsomhedsvej-36a/
+Bjælkevangen 19,55.789954,12.534987,7265000,Villa,4,1954,mellem,"2,72",335,744,116,62629,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/bj%C3%A6lkevangen-19/
+"Eremitageparken 361, 1. c",55.796641,12.535207,2145000,Ejerlejlighed,3,1972,mellem,"1,99",90,40,59,36355,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/eremitageparken-361/1-c/
+"Nørgaardsvej 22A, 1. tv",55.770452,12.509818,2295000,Ejerlejlighed,2,,mellem,304,450,331,55,41727,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/n%C3%B8rgaardsvej-22a/1-tv/
+Dyrehavegårdsvej 19,55.779158,12.543404,9500000,Villa,5,1966,høj,"2,58",756,1.308,155,61290,F,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/dyrehaveg%C3%A5rdsvej-19/
+Kongshvilebakken 38,55.772167,12.480491,34500000,Villa,7,2021,lav,"1,52",536,901,276,125000,A2015,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/kongshvilebakken-38/
+"Caroline Amalie Vej 72, st. ",55.784674,12.502863,6695000,Villalejlighed,3,1900,høj,"1,50",639,1.005,107,62570,F,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/caroline%20amalie%20vej-72/st-/
+"Boulevarden 14, st. 68",55.771957,12.498917,4995000,Ejerlejlighed,4,1965,mellem,411,102,187,115,43434,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/boulevarden-14/st-68/
+"Eremitageparken 323, st. a",55.796098,12.536055,3195000,Ejerlejlighed,3,1972,mellem,"2,05",81,113,101,31633,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/eremitageparken-323/st-a/
+Fuglevadsvej 48,55.783867,12.498839,16500000,Villa,7,1950,høj,"1,46",588,1.027,232,71120,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/fuglevadsvej-48/
+Kærparken 11,55.790866,12.539709,8995000,Villa,6,1954,mellem,"2,66",251,721,178,50533,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/k%C3%A6rparken-11/
+Christian X's Alle 160,55.76607,12.494872,8995000,Rækkehus,6,1930,lav,603,69,361,136,66139,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/christian%20x's%20alle-160/
+Jægersborgvej 28,55.765774,12.513729,8500000,Villa,6,1931,lav,722,155,612,151,56291,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/j%C3%A6gersborgvej-28/
+Birkholmsvej 38A,55.768895,12.513312,8800000,Villa,4,1977,lav,576,196,491,139,63309,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/birkholmsvej-38a/
+"Lystoftevej 18A, st. tv",55.794648,12.510155,2195000,Ejerlejlighed,2,1949,lav,"2,37",344,378,55,39909,F,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/lystoftevej-18a/st-tv/
+Hvidegårdsparken 2,55.774424,12.528906,9695000,Villa,5,1963,høj,"1,55",389,495,165,58757,A2010,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/hvideg%C3%A5rdsparken-2/
+Hjortekærbakken 22,55.799198,12.540404,7650000,Villa,6,1954,mellem,"1,78",512,466,149,51342,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/hjortek%C3%A6rbakken-22/
+"Nørregade 7E, 1. tv",55.778071,12.504111,3895000,Ejerlejlighed,3,1900,mellem,760,184,627,78,49935,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/n%C3%B8rregade-7e/1-tv/
+Nybrovej 245,55.768228,12.481663,9195000,Villa,4,1935,mellem,"1,38",270,553,126,72976,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/nybrovej-245/
+"Bredebovej 23, 2. th",55.794977,12.505261,3995000,Ejerlejlighed,4,1969,lav,"2,06",193,152,94,42500,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/bredebovej-23/2-th/
+"Eremitageparken 365, st. d",55.796969,12.535204,2395000,Ejerlejlighed,2,1972,mellem,"1,95",126,53,62,38629,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/eremitageparken-365/st-d/
+Kongshvilebakken 70,55.772496,12.47722,11750000,Villa,5,1957,lav,"1,73",327,996,133,88345,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/kongshvilebakken-70/
+"Blomstervænget 29, 1. 1",55.763588,12.501687,3495000,Ejerlejlighed,3,1935,lav,548,257,515,68,51397,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/blomsterv%C3%A6nget-29/1-1/
+Toftebæksvej 66A,55.778473,12.508302,6250000,Villa,4,1928,mellem,825,254,678,138,45289,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/tofteb%C3%A6ksvej-66a/
+Nybrovej 381,55.7749,12.46273,42000000,Villa,11,1884,lav,"1,63",635,1.389,456,92105,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/nybrovej-381/
+Buddingevej 64B,55.763078,12.495707,7995000,Villa,7,1934,lav,770,268,510,184,43451,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/buddingevej-64b/
+"Bagsværdvej 103, st. ",55.764553,12.480328,3645000,Ejerlejlighed,4,,mellem,"1,53",165,527,109,33440,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/bagsv%C3%A6rdvej-103/st-/
+Louisevej 3,55.781202,12.504301,7495000,Villa,4,1943,høj,"1,11",382,970,94,79734,F,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/louisevej-3/
+Hjortekærsvej 125B,55.79057,12.541041,8695000,Villa,5,1986,mellem,"2,71",290,791,162,53672,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/hjortek%C3%A6rsvej-125b/
+Gammelmosevej 76,55.757031,12.497208,7495000,Villa,5,1952,lav,"1,33",652,881,141,53156,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/gammelmosevej-76/
+"Nørgaardsvej 22E, st. tv",55.770077,12.509839,2995000,Ejerlejlighed,2,1938,mellem,320,417,310,56,53482,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/n%C3%B8rgaardsvej-22e/st-tv/
+Nøjsomhedsvej 17,55.796939,12.520072,5995000,Villa,4,,mellem,"2,08",162,372,150,39966,N/A,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/n%C3%B8jsomhedsvej-17/
+Rævehøjvej 26A,55.787794,12.535914,10495000,Villa,7,1972,mellem,"2,68",300,934,182,57664,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/r%C3%A6veh%C3%B8jvej-26a/
+Skeltoftevej 84,55.760897,12.480001,5250000,Rækkehus,4,1943,mellem,"1,71",189,266,119,44117,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/skeltoftevej-84/
+Fortunvænget 9,55.779984,12.54037,7500000,Villa,5,1962,høj,"2,44",714,1.095,167,44910,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/fortunv%C3%A6nget-9/
+Elletoften 15,55.758998,12.488179,5495000,Rækkehus,4,1960,mellem,"1,43",596,301,100,54950,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/elletoften-15/
+Egegårdsvej 8,55.797788,12.512655,5995000,Villa,5,1882,mellem,"2,22",324,110,138,43442,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/egeg%C3%A5rdsvej-8/
+Granparken 172,55.792774,12.508563,6100000,Rækkehus,5,1957,lav,"2,29",162,280,119,51260,B,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/granparken-172/
+"Mølleåparken 6, 2. g",55.795091,12.504654,1745000,Ejerlejlighed,1,1969,lav,"2,02",179,157,52,33557,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/m%C3%B8lle%C3%A5parken-6/2-g/
+Gammelmosevej 72B,55.757129,12.497903,8800000,Villa,5,2022,lav,"1,30",680,927,152,57894,A,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/gammelmosevej-72b/
+Sverigesvej 7B,55.793738,12.516123,7750000,Villa,6,1956,lav,"2,51",428,438,158,49050,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/sverigesvej-7b/
+Fuglevadsvej 38,55.783019,12.499378,10995000,Villa,5,2010,høj,"1,36",622,1.047,177,62118,A2010,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/fuglevadsvej-38/
+"Eremitageparken 15, 1. a",55.790747,12.533161,2795000,Ejerlejlighed,4,1972,mellem,"2,63",343,662,108,25879,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/eremitageparken-15/1-a/
+Hjortekærsvej 152,55.793495,12.542037,8495000,Villa,5,1934,høj,"2,41",135,591,145,58586,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/hjortek%C3%A6rsvej-152/
+"Eremitageparken 365, 1. b",55.796969,12.535204,1990000,Ejerlejlighed,2,1972,mellem,"1,95",126,53,59,33728,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/eremitageparken-365/1-b/
+Dyrehavegårdsvej 2A,55.775938,12.543456,13495000,Villa,5,2016,høj,"2,49",566,1.405,198,68156,A2010,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/dyrehaveg%C3%A5rdsvej-2a/
+Ved Fortunen 13,55.775033,12.538704,14250000,Villa,5,1930,høj,"2,17",247,1.103,211,67535,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/ved%20fortunen-13/
+"Gyldendalsvej 26, 1. ",55.769418,12.508501,7995000,Villalejlighed,6,1925,lav,290,429,201,105,76142,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/gyldendalsvej-26/1-/
+Karen Schacks Vej 14,55.776991,12.527615,6295000,Rækkehus,4,2020,høj,"1,56",194,424,133,47330,A,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/karen%20schacks%20vej-14/
+Lundtoftevej 205,55.797439,12.525345,7495000,Villa,6,1960,mellem,"1,93",150,224,165,45424,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/lundtoftevej-205/
+"Engelsborgvej 28E, st. tv",55.768163,12.499113,2090000,Ejerlejlighed,3,1946,lav,274,268,225,64,32656,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/engelsborgvej-28e/st-tv/
+Møllevænget 31,55.755081,12.489666,5495000,Villa,4,1928,mellem,"1,55",447,395,105,52333,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/m%C3%B8llev%C3%A6nget-31/
+Rustenborgvej 4A,55.773021,12.497988,8950000,Rækkehus,5,1929,mellem,503,234,277,135,66296,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/rustenborgvej-4a/
+"Eremitageparken 365, 1. c",55.796969,12.535204,2095000,Ejerlejlighed,3,1972,mellem,"1,95",126,53,59,35508,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/eremitageparken-365/1-c/
+Johan Wilmanns Vej 36,55.764673,12.504776,7775000,Villa,5,1934,lav,426,364,354,123,63211,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/johan%20wilmanns%20vej-36/
+Trongårdsparken 91,55.776102,12.532703,10995000,Villa,6,1963,høj,"1,83",246,721,166,66234,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/trong%C3%A5rdsparken-91/
+Nybrovej 131,55.76093,12.498036,7495000,Villa,7,1937,lav,900,504,778,156,48044,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/nybrovej-131/
+Stengårdsvænge 108,55.758739,12.48093,4995000,Rækkehus,5,1955,mellem,"1,79",306,265,87,57413,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/steng%C3%A5rdsv%C3%A6nge-108/
+"Eremitageparken 213, st. c",55.794108,12.535021,3395000,Ejerlejlighed,4,1972,mellem,"2,26",194,284,115,29521,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/eremitageparken-213/st-c/
+"Mølleåparken 31, 1. g",55.79504,12.503292,2195000,Ejerlejlighed,2,1973,lav,"1,93",146,168,61,35983,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/m%C3%B8lle%C3%A5parken-31/1-g/
+Eremitageparken 131,55.792743,12.53318,4250000,Rækkehus,4,1972,mellem,"2,41",362,443,126,33730,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/eremitageparken-131/
+"Jægersborgvej 9, st. th",55.766739,12.510286,5195000,Ejerlejlighed,3,1900,lav,478,240,370,91,57087,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/j%C3%A6gersborgvej-9/st-th/
+Skovbovej 15B,55.788426,12.536538,8995000,Villa,6,1973,mellem,"2,76",346,922,169,53224,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/skovbovej-15b/
+Trongårdsparken 71,55.776171,12.531435,14750000,Villa,9,1967,høj,"1,76",306,642,243,60699,B,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/trong%C3%A5rdsparken-71/
+Ved Fortunen 19,55.775273,12.539812,13800000,Villa,5,1932,høj,"2,25",323,1.173,186,74193,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/ved%20fortunen-19/
+Lyngholmsvej 16,55.767192,12.518783,7495000,Villa,5,1938,lav,973,306,781,191,39240,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/lyngholmsvej-16/
+Sandtoften 31,55.757055,12.499944,4150000,Rækkehus,3,1953,lav,"1,28",740,1.054,97,42783,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/sandtoften-31/
+Peter Rørdams Vej 27A,55.76763,12.514743,9990000,Villa,8,1925,lav,726,71,594,157,63630,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/peter%20r%C3%B8rdams%20vej-27a/
+"Rævehøjparken 8, 2. tv",55.789658,12.533287,1845000,Ejerlejlighed,2,1981,mellem,"2,71",239,777,62,29758,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/r%C3%A6veh%C3%B8jparken-8/2-tv/
+"Eremitageparken 13, 2. d",55.790581,12.533155,1775000,Ejerlejlighed,2,1972,mellem,"2,65",326,680,41,43292,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/eremitageparken-13/2-d/
+Hvidegårdsparken 107,55.77227,12.530047,10500000,Villa,8,1965,høj,"1,58",391,663,288,36458,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/hvideg%C3%A5rdsparken-107/
+Caroline Amalie Vej 135,55.792991,12.504508,6745000,Villa,5,1976,lav,"2,03",105,77,138,48876,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/caroline%20amalie%20vej-135/
+"Nørgaardsvej 29D, 4. tv",55.771141,12.508798,6250000,Ejerlejlighed,3,1987,mellem,226,384,238,86,72674,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/n%C3%B8rgaardsvej-29d/4-tv/
+Jægersborgvej 8,55.766484,12.509694,5495000,Villa,3,1929,lav,456,283,346,78,70448,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/j%C3%A6gersborgvej-8/
+Svends Alle 66A,55.752589,12.481317,3245000,Villa,3,1940,mellem,"1,57",202,376,65,49923,F,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/svends%20alle-66a/
+"Triumfvej 58, st. ",55.759066,12.474868,5295000,Villalejlighed,6,1910,mellem,"1,45",205,351,141,37553,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/triumfvej-58/st-/
+Birkedal 13,55.761516,12.482529,8995000,Villa,4,1969,mellem,"1,54",358,165,148,60777,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/birkedal-13/
+Fuglevadsvej 52B,55.784479,12.499421,9795000,Villa,7,1900,høj,"1,52",634,1.071,184,53233,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/fuglevadsvej-52b/
+"Eremitageparken 15, 2. d",55.790747,12.533161,1799000,Ejerlejlighed,3,1972,mellem,"2,63",343,662,42,42833,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/eremitageparken-15/2-d/
+"Johan Wilmanns Vej 27, st. tv",55.764922,12.505013,3195000,Ejerlejlighed,2,1934,lav,403,374,327,57,56052,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/johan%20wilmanns%20vej-27/st-tv/
+"Caroline Amalie Vej 90, 1. ",55.786096,12.502937,6650000,Villalejlighed,3,1900,høj,"1,65",642,848,105,63333,F,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/caroline%20amalie%20vej-90/1-/
+Gammel Lundtoftevej 14,55.774769,12.501511,9500000,Villa,5,1910,mellem,458,223,322,141,67375,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/gammel%20lundtoftevej-14/
+Gammelmosevej 146,55.757,12.488193,5995000,Rækkehus,4,,mellem,"1,60",678,327,129,46472,N/A,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/gammelmosevej-146/
+Rævehøjparken 61,55.788249,12.53127,3700000,Ejerlejlighed,4,,mellem,"2,51",43,752,88,42045,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/r%C3%A6veh%C3%B8jparken-61/
+Bagsværdvej 95,55.764541,12.481324,2475000,Ejerlejlighed,2,1944,mellem,"1,47",187,501,60,41250,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/bagsv%C3%A6rdvej-95/
+"Gammel Bagsværdvej 22, st. th",55.768914,12.494418,4695000,Ejerlejlighed,3,,lav,574,134,479,90,52166,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/gammel%20bagsv%C3%A6rdvej-22/st-th/
+Hjortekærsvej 149A,55.793429,12.540944,8495000,Villa,5,1996,mellem,"2,40",68,541,143,59405,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/hjortek%C3%A6rsvej-149a/
+Langs Hegnet 76,55.791434,12.543657,13500000,Villa,5,,høj,"2,66",297,819,218,61926,N/A,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/langs%20hegnet-76/
+Solvænget 25,55.76253,12.493418,10800000,Villa,7,1933,lav,912,346,449,174,62068,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/solv%C3%A6nget-25/
+Ved Hjortekæret 17,55.800398,12.543669,10995000,Villa,7,1976,mellem,"1,73",755,713,195,56384,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/ved%20hjortek%C3%A6ret-17/
+Grønlandsvej 8,55.79867,12.516041,5870000,Villa,3,1959,mellem,"2,02",169,166,103,56990,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/gr%C3%B8nlandsvej-8/
+Egevænget 11,55.760119,12.499037,6295000,Rækkehus,5,1944,lav,963,588,886,116,54267,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/egev%C3%A6nget-11/
+Viggo Stuckenbergs Vej 29,55.771152,12.490979,22000000,Villa,5,1920,lav,846,218,606,125,176000,G,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/viggo%20stuckenbergs%20vej-29/
+Frem 3,55.767693,12.509131,5500000,Rækkehus,4,1899,lav,375,314,251,112,49107,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/frem-3/
+Nybrovej 162,55.763678,12.493037,5995000,Villa,4,1935,lav,845,242,337,98,61173,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/nybrovej-162/
+Hjortekrogen 3,55.797548,12.537692,8500000,Villa,6,1972,mellem,"1,91",261,222,161,52795,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/hjortekrogen-3/
+Eremitageparken 249,55.79419,12.533751,3890000,Ejerlejlighed,4,1972,mellem,"2,25",198,279,108,36018,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/eremitageparken-249/
+"Bredebovej 23, st. mf",55.794977,12.505261,2695000,Ejerlejlighed,2,,lav,"2,06",193,152,64,42109,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/bredebovej-23/st-mf/
+Caroline Amalie Vej 106,55.787557,12.503098,8995000,Villa,4,1982,høj,"1,82",595,685,145,62034,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/caroline%20amalie%20vej-106/
+"Møllevej 10B, st. ",55.785099,12.49565,3345000,Ejerlejlighed,3,,høj,"1,65",426,871,57,58684,N/A,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/m%C3%B8llevej-10b/st-/
+Peter Rørdams Vej 14,55.766734,12.517719,8600000,Villa,4,1928,lav,932,244,787,151,56953,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/peter%20r%C3%B8rdams%20vej-14/
+"Lyngby Hovedgade 86D, 3. th",55.767424,12.506681,1995000,Ejerlejlighed,2,1930,lav,238,465,128,56,35625,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/lyngby%20hovedgade-86d/3-th/
+Peter Lunds Vej 13,55.776293,12.50425,5295000,Rækkehus,3,1952,mellem,563,59,433,106,49952,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/peter%20lunds%20vej-13/
+"Eremitageparken 373, 2. b",55.796851,12.535833,1250000,Ejerlejlighed,1,1972,mellem,"1,97",127,83,33,37878,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/eremitageparken-373/2-b/
+Nøjsomhedsvej 4B,55.797221,12.523123,6695000,Villa,6,1990,mellem,"1,99",257,306,141,47482,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/n%C3%B8jsomhedsvej-4b/
+Christoffers Alle 154,55.754805,12.477582,6995000,Villa,4,1981,mellem,"1,76",222,210,181,38646,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/christoffers%20alle-154/
+"Skelhøjvej 3, 1. tv",55.763979,12.481835,2650000,Ejerlejlighed,3,1948,mellem,"1,46",257,431,64,41406,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/skelh%C3%B8jvej-3/1-tv/
+"Rævehøjparken 8, 1. tv",55.789658,12.533287,1825000,Ejerlejlighed,2,1981,mellem,"2,71",239,777,62,29435,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/r%C3%A6veh%C3%B8jparken-8/1-tv/
+"Eremitageparken 313, 2. b",55.795026,12.535316,2250000,Ejerlejlighed,2,1972,mellem,"2,17",97,187,62,36290,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/eremitageparken-313/2-b/
+Karen Schacks Vej 10,55.7769,12.527678,5995000,Rækkehus,4,2020,høj,"1,56",202,424,132,45416,A,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/karen%20schacks%20vej-10/
+Borgevej 45B,55.785257,12.501097,12195000,Villa,7,1951,høj,"1,58",750,959,170,71735,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/borgevej-45b/
+"Nørgaardsvej 18D, 1. tv",55.769988,12.509151,2395000,Ejerlejlighed,2,1938,mellem,285,439,267,56,42767,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/n%C3%B8rgaardsvej-18d/1-tv/
+Glaciset 5A,55.76016,12.488537,9995000,Villa,4,2009,mellem,"1,32",468,286,175,57114,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/glaciset-5a/
+"Bredebovej 27, 5. th",55.795344,12.50519,4695000,Ejerlejlighed,4,1969,lav,"2,05",222,190,90,52166,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/bredebovej-27/5-th/
+"Jernbanepladsen 1, 2. d",55.768013,12.505771,2995000,Ejerlejlighed,2,,lav,159,508,62,63,47539,N/A,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/jernbanepladsen-1/2-d/
+"Mortonsvej 34, 2. th",55.772349,12.493193,6295000,Ejerlejlighed,3,,mellem,778,281,554,89,70730,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/mortonsvej-34/2-th/
+"Engelsborgvej 28C, 1. tv",55.76801,12.498838,2795000,Ejerlejlighed,3,1946,lav,294,250,247,64,43671,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/engelsborgvej-28c/1-tv/
+Caroline Amalie Vej 26,55.780909,12.502995,13500000,Villa,7,1900,høj,"1,08",460,950,158,85443,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/caroline%20amalie%20vej-26/
+"Nørgaardsvej 29G, 1. th",55.770839,12.507958,4995000,Ejerlejlighed,2,1987,mellem,178,399,226,84,59464,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/n%C3%B8rgaardsvej-29g/1-th/
+Pilevænget 18,55.759643,12.499433,5995000,Rækkehus,5,1947,lav,"1,01",641,942,110,54500,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/pilev%C3%A6nget-18/
+"Eremitageparken 103, st. d",55.792196,12.534024,1775000,Ejerlejlighed,2,1972,mellem,"2,47",396,496,62,28629,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/eremitageparken-103/st-d/
+Christian X's Alle 51,55.763838,12.503799,6995000,Villa,4,1935,lav,511,341,452,105,66619,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/christian%20x's%20alle-51/
+"Nybrovej 149, 1. tv",55.762301,12.495034,2150000,Ejerlejlighed,3,1937,lav,864,353,535,71,30281,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/nybrovej-149/1-tv/
+Hollandsvej 47,55.762069,12.505156,5995000,Rækkehus,5,1943,lav,715,531,644,98,61173,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/hollandsvej-47/
+"Vadholm 7, st. 3",55.75509,12.486373,1600000,Ejerlejlighed,2,1943,mellem,"1,63",565,192,45,35555,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/vadholm-7/st-3/
+"Stengårds Alle 6, 1. 12",55.764271,12.483515,1650000,Ejerlejlighed,1,1958,mellem,"1,35",293,401,39,42307,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/steng%C3%A5rds%20alle-6/1-12/
+"Ulrikkenborg Alle 37, 3. ",55.763963,12.501394,7000000,Ejerlejlighed,5,,lav,512,213,485,131,53435,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/ulrikkenborg%20alle-37/3-/
+"Boulevarden 12, 1. 54",55.771837,12.4989,5495000,Ejerlejlighed,4,1965,mellem,410,91,188,93,59086,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/boulevarden-12/1-54/
+"Bredebovej 25, 5. tv",55.795174,12.505172,3995000,Ejerlejlighed,3,1969,lav,"2,05",206,172,92,43423,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/bredebovej-25/5-tv/
+Prebens Vænge 5,55.799421,12.529996,8950000,Villa,4,1960,mellem,"1,67",386,424,155,57741,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/prebens%20v%C3%A6nge-5/
+Lyngby Rosenvænge 1,55.761997,12.496659,8495000,Villa,5,1932,lav,833,398,633,216,39328,B,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/lyngby%20rosenv%C3%A6nge-1/
+Borremosen 13,55.757828,12.486733,6995000,Villa,6,1963,mellem,"1,59",599,309,147,47585,E,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/borremosen-13/
+"Engelsborgvej 28C, 1. th",55.76801,12.498838,2795000,Ejerlejlighed,3,1946,lav,294,250,247,64,43671,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/engelsborgvej-28c/1-th/
+"Nørregade 7D, 1. tv",55.777921,12.503946,4950000,Ejerlejlighed,3,,mellem,745,165,613,105,47142,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/n%C3%B8rregade-7d/1-tv/
+Prinsessevej 11,55.765443,12.49075,7995000,Villa,7,,mellem,871,121,104,158,50601,N/A,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/prinsessevej-11/
+Fuglevadsvej 71,55.786478,12.500453,16800000,Villa,8,1950,høj,"1,72",768,840,242,69421,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/fuglevadsvej-71/
+Rævehøjparken 99,55.789369,12.531507,3795000,Rækkehus,4,1981,mellem,"2,62",168,756,88,43125,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/r%C3%A6veh%C3%B8jparken-99/
+"Mølleåparken 57, 1. ",55.794425,12.503555,1900000,Ejerlejlighed,2,,lav,"1,95",81,101,61,31147,C,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/m%C3%B8lle%C3%A5parken-57/1-/
+Jægersborgvej 56B,55.764583,12.518054,7395000,Villa,6,1959,lav,"1,03",387,617,148,49966,D,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/j%C3%A6gersborgvej-56b/
+Tjørnevej 32,55.764168,12.515398,9995000,Villa,6,1925,lav,899,345,746,185,54027,F,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/tj%C3%B8rnevej-32/
+Humlevænget 15,55.76157,12.500464,9295000,Villa,6,1957,lav,784,435,752,143,65000,A2010,https://www.dingeo.dk/adresse/2800-kongens%20lyngby/humlev%C3%A6nget-15/

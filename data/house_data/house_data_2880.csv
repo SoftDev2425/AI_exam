@@ -1,0 +1,70 @@
+Address,X,Y,Price,Type,Room count,Construction year,Risk of burglary,Distance to pharmacy,Distance to daycare,Distance to grocery store,Size,Squaremeter price,Energy class,Url
+Gammelmosevej 283,55.755669,12.471915,5750000,Villa,4,1960,lav,"1,39",250,192,112,51339,F,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/gammelmosevej-283/
+Ved Dammen 6,55.770916,12.443861,12250000,Villa,8,1961,mellem,"1,19",442,1.320,286,42832,E,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/ved%20dammen-6/
+"Bagsværd Hovedgade 188, 2. c",55.761794,12.447682,2945000,Ejerlejlighed,3,1960,lav,313,105,334,100,29450,E,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bagsv%C3%A6rd%20hovedgade-188/2-c/
+"Bagsværd Hovedgade 196, 1. th",55.761895,12.446846,2695000,Ejerlejlighed,3,1954,lav,368,68,381,83,32469,E,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bagsv%C3%A6rd%20hovedgade-196/1-th/
+"Bagsværd Hovedgade 99, 12. b",55.760212,12.455265,1275000,Ejerlejlighed,2,1966,lav,221,325,48,48,26562,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bagsv%C3%A6rd%20hovedgade-99/12-b/
+Skovsøen 48,55.756937,12.417048,13995000,Villa,11,1930,høj,"2,32",946,1.429,430,32546,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/skovs%C3%B8en-48/
+"Bondehavevej 5, st. tv",55.76165,12.461134,2775000,Ejerlejlighed,2,1940,lav,546,343,362,59,47033,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bondehavevej-5/st-tv/
+"Bagsværd Hovedgade 113, 1. th",55.760657,12.453948,1695000,Ejerlejlighed,2,1946,lav,126,359,140,50,33900,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bagsv%C3%A6rd%20hovedgade-113/1-th/
+Skovdiget 67,55.762615,12.429697,8995000,Villa,6,2020,lav,"1,46",290,772,250,35980,F,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/skovdiget-67/
+Elmevænget 18,55.768104,12.455584,10995000,Villa,6,1953,mellem,761,402,875,175,62828,E,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/elmev%C3%A6nget-18/
+Slotsparken 5,55.766437,12.450766,7895000,Villa,8,1956,mellem,563,242,720,149,52986,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/slotsparken-5/
+Marsk Stigs Alle 3B,55.754798,12.471883,6995000,Villa,7,1972,lav,"1,44",289,229,202,34628,C,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/marsk%20stigs%20alle-3b/
+Espegårdsvej 26B,55.749964,12.466572,3995000,Rækkehus,4,1955,mellem,"1,56",305,619,94,42500,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/espeg%C3%A5rdsvej-26b/
+"Bagsværd Hovedgade 116A, 4. e",55.761021,12.455725,2545000,Ejerlejlighed,3,1969,lav,207,420,90,91,27967,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bagsv%C3%A6rd%20hovedgade-116a/4-e/
+"Bagsværd Hovedgade 99, 6. c",55.760212,12.455265,1095000,Ejerlejlighed,1,1966,lav,221,325,48,48,22812,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bagsv%C3%A6rd%20hovedgade-99/6-c/
+Jægergangen 110,55.747845,12.458802,7695000,Villa,7,1960,mellem,"1,56",771,960,189,40714,C,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/j%C3%A6gergangen-110/
+Krogshøjvej 132,55.752456,12.456099,6695000,Villa,5,2002,høj,"1,03",525,702,145,46172,A2010,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/krogsh%C3%B8jvej-132/
+Råvænget 24,55.748423,12.467522,3725000,Villa,4,,mellem,"1,73",470,796,104,35817,N/A,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/r%C3%A5v%C3%A6nget-24/
+Rugtoften 18,55.751803,12.47404,8495000,Villa,6,1945,mellem,"1,74",426,459,144,58993,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/rugtoften-18/
+"Bagsværd Hovedgade 81A, 1. tv",55.759352,12.457053,2495000,Ejerlejlighed,3,1960,lav,370,303,117,82,30426,C,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bagsv%C3%A6rd%20hovedgade-81a/1-tv/
+"Møllemarken 8, st. th",55.751506,12.472468,2695000,Ejerlejlighed,3,1947,mellem,"1,68",340,513,69,39057,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/m%C3%B8llemarken-8/st-th/
+Hjortevænget 24,55.75147,12.45755,4995000,Villa,5,1973,høj,"1,16",599,688,124,40282,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/hjortev%C3%A6nget-24/
+Skovbrynet 24,55.768218,12.438257,6495000,Villa,4,1949,høj,"1,18",539,1.092,112,57991,G,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/skovbrynet-24/
+Vandkarsevej 38,55.756894,12.423699,5995000,Villa,4,1964,høj,"1,91",941,1.010,143,41923,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/vandkarsevej-38/
+Haspegårdsvej 91,55.747127,12.461135,5350000,Villa,4,1954,mellem,"1,68",703,977,91,58791,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/haspeg%C3%A5rdsvej-91/
+Skovdiget 4B,55.764195,12.433208,4350000,Villa,8,,høj,"1,27",27,752,269,16171,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/skovdiget-4b/
+Gammelmosevej 305,55.755835,12.469096,5995000,Rækkehus,5,1954,lav,"1,23",77,217,116,51681,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/gammelmosevej-305/
+Skovalleen 29,55.769113,12.442954,29500000,Villa,8,1917,høj,"1,05",411,1.167,401,73566,E,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/skovalleen-29/
+Rylevænget 7A,55.752805,12.463802,4995000,Rækkehus,4,1967,lav,"1,20",237,326,113,44203,E,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/rylev%C3%A6nget-7a/
+Bæverstien 32,55.750352,12.462632,6295000,Villa,6,1953,mellem,"1,39",403,607,167,37694,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/b%C3%A6verstien-32/
+Gladsaxe Møllevej 169,55.749672,12.471841,6995000,Villa,6,1935,mellem,"1,80",431,626,201,34800,C,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/gladsaxe%20m%C3%B8llevej-169/
+Pinievej 2E,55.76098,12.4491,5995000,Rækkehus,5,2016,lav,228,194,206,138,43442,A,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/pinievej-2e/
+"Bagsværd Hovedgade 79, 3. e",55.759032,12.457645,1695000,Ejerlejlighed,1,,lav,422,285,168,52,32596,C,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bagsv%C3%A6rd%20hovedgade-79/3-e/
+Oldmarken 21,55.753501,12.475174,4800000,Villa,4,1954,mellem,"1,69",396,268,96,50000,F,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/oldmarken-21/
+"Bagsværd Hovedgade 99, 5. a",55.760212,12.455265,1275000,Ejerlejlighed,2,1966,lav,221,325,48,50,25500,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bagsv%C3%A6rd%20hovedgade-99/5-a/
+Harestien 20,55.747169,12.457924,4850000,Villa,4,1957,mellem,"1,62",863,1.052,102,47549,E,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/harestien-20/
+"Østerhegn 9, 1. ",55.762605,12.451029,5500000,Villalejlighed,5,1925,mellem,160,337,297,133,41353,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/%C3%B8sterhegn-9/1-/
+"Bagsværd Hovedgade 161, st. 4",55.761402,12.448418,3995000,Ejerlejlighed,3,2017,lav,265,144,270,85,47000,A,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bagsv%C3%A6rd%20hovedgade-161/st-4/
+Helmsvej 6A,55.766167,12.444422,9350000,Villa,6,1942,mellem,736,401,841,193,48445,F,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/helmsvej-6a/
+Kurvej 15,55.764855,12.448078,8745000,Villa,7,1922,mellem,472,399,596,142,61584,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/kurvej-15/
+"Bagsværd Hovedgade 99, 8. h",55.760212,12.455265,1125000,Ejerlejlighed,1,1966,lav,221,325,48,50,22500,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bagsv%C3%A6rd%20hovedgade-99/8-h/
+"Bagsværd Hovedgade 132, 1. 6",55.760544,12.455279,2995000,Ejerlejlighed,2,2000,lav,201,361,59,84,35654,B,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bagsv%C3%A6rd%20hovedgade-132/1-6/
+Møllemarken 5,55.751551,12.471696,7995000,Villa,5,2017,mellem,"1,64",293,525,176,45426,A2015,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/m%C3%B8llemarken-5/
+Rødpilevænget 10,55.754617,12.427657,6495000,Villa,6,1978,lav,"1,76",852,854,237,27405,C,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/r%C3%B8dpilev%C3%A6nget-10/
+Jægergangen 42,55.748657,12.465729,3295000,Rækkehus,3,1960,mellem,"1,65",459,762,68,48455,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/j%C3%A6gergangen-42/
+Skjulet 20,55.755538,12.422503,6495000,Villa,6,1972,høj,"2,03",1070,1.118,190,34184,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/skjulet-20/
+Nydamsvej 40,55.76875,12.440984,11995000,Villa,4,1955,høj,"1,09",531,1.153,138,86920,C,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/nydamsvej-40/
+Værebrovej 184,55.75566,12.427107,4795000,Villa,5,1965,lav,"1,75",808,836,134,35783,F,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/v%C3%A6rebrovej-184/
+"Bondehavevej 9, 1. tv",55.761656,12.46171,2495000,Ejerlejlighed,3,1940,lav,582,336,396,72,34652,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bondehavevej-9/1-tv/
+Værebrovej 129,55.753422,12.416453,8750000,Villa,7,1960,mellem,"2,47",793,1.292,198,44191,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/v%C3%A6rebrovej-129/
+"Bagsværddal 10, st. th",55.759699,12.454004,3195000,Ejerlejlighed,3,,lav,217,253,128,86,37151,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bagsv%C3%A6rddal-10/st-th/
+Gunnarsvej 11,55.75744,12.458624,5995000,Villa,4,1967,lav,591,102,351,118,50805,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/gunnarsvej-11/
+Kildemosen 13,55.755654,12.425955,8745000,Villa,5,1983,høj,"1,81",870,905,235,37212,C,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/kildemosen-13/
+Nydamsvej 26,55.767216,12.440061,11995000,Villa,6,1978,høj,"1,02",547,979,352,34076,A2010,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/nydamsvej-26/
+Skjulet 16,55.755018,12.422594,6745000,Villa,8,1969,høj,"2,04",1091,1.131,212,31816,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/skjulet-16/
+Harestien 15,55.746683,12.458684,6495000,Villa,8,1949,mellem,"1,69",826,1.079,220,29522,E,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/harestien-15/
+"Møllemarken 24, st. ",55.753018,12.472063,3495000,Ejerlejlighed,4,1946,lav,"1,56",292,368,118,29618,E,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/m%C3%B8llemarken-24/st-/
+Krogmosevej 39,55.759237,12.428116,5850000,Villa,7,1981,lav,"1,58",608,720,152,38486,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/krogmosevej-39/
+Vandkarsevej 39,55.756587,12.423163,6995000,Villa,6,1850,høj,"1,95",985,1.050,187,37406,C,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/vandkarsevej-39/
+Helmsvej 22A,55.766556,12.440836,4995000,Rækkehus,4,1961,høj,937,553,910,96,52031,E,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/helmsvej-22a/
+"Bondehavevej 5, st. a",55.76165,12.461134,1500000,Ejerlejlighed,2,1940,lav,546,343,362,95,15789,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bondehavevej-5/st-a/
+"Bindeledet 16, 3. th",55.762429,12.454243,2850000,Ejerlejlighed,3,,mellem,150,527,269,82,34756,N/A,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bindeledet-16/3-th/
+"Bagsværd Hovedgade 116A, 14. e",55.761021,12.455725,2795000,Ejerlejlighed,3,1969,lav,207,420,90,91,30714,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bagsv%C3%A6rd%20hovedgade-116a/14-e/
+Birkevænget 24,55.762759,12.452611,8795000,Villa,6,1949,mellem,143,437,309,158,55664,C,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/birkev%C3%A6nget-24/
+Haremosen 11,55.761774,12.430387,9995000,Villa,6,2019,lav,"1,41",337,682,218,45848,A2020,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/haremosen-11/
+Bagsværdvej 199B,55.764344,12.458537,5650000,Villa,3,1960,mellem,496,680,485,80,70625,E,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bagsv%C3%A6rdvej-199b/
+"Bagsværd Hovedgade 58, st. e",55.758171,12.459982,1695000,Ejerlejlighed,2,1961,lav,598,161,341,51,33235,E,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bagsv%C3%A6rd%20hovedgade-58/st-e/
+"Bagsværd Hovedgade 99, 12. c",55.760212,12.455265,1245000,Ejerlejlighed,1,1966,lav,221,325,48,48,25937,D,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/bagsv%C3%A6rd%20hovedgade-99/12-c/
+Skovkæret 17,55.758279,12.419481,9250000,Villa,4,1971,høj,"2,14",1079,1.265,141,65602,C,https://www.dingeo.dk/adresse/2880-bagsv%C3%A6rd/skovk%C3%A6ret-17/

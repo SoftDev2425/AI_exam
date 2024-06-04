@@ -1,0 +1,45 @@
+Address,X,Y,Price,Type,Room count,Construction year,Risk of burglary,Distance to pharmacy,Distance to daycare,Distance to grocery store,Size,Squaremeter price,Energy class,Url
+Odinshøjparken 10,56.083809,12.517323,3995000,Rækkehus,4,1987,lav,"1,70",556,3.782,114,35043,D,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/odinsh%C3%B8jparken-10/
+Moseskrænten 9,56.071728,12.530846,4995000,Villa,4,1950,mellem,658,351,4.219,146,34212,D,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/moseskr%C3%A6nten-9/
+Stentoften 3,56.072126,12.527186,4585000,Villa,4,1932,mellem,840,362,4.388,137,33467,B,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/stentoften-3/
+Nordre Strandvej 235,56.080412,12.535118,7500000,Villa,7,1917,mellem,639,410,4.929,249,30120,E,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/nordre%20strandvej-235/
+Freysvej 14,56.077507,12.536959,5495000,Villa,5,2011,lav,298,410,4.587,168,32708,B,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/freysvej-14/
+Erik Gudmands Vej 9,56.072803,12.545818,3995000,Villa,6,1964,høj,494,360,3.885,162,24660,C,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/erik%20gudmands%20vej-9/
+Møllevej 22,56.077867,12.521499,6995000,Villa,6,1997,mellem,"1,17",528,4.179,224,31227,A2010,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/m%C3%B8llevej-22/
+Nordre Strandvej 205,56.077429,12.543241,4495000,Villa,6,1970,lav,357,299,4.424,175,25685,D,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/nordre%20strandvej-205/
+Rømøvej 18,56.078171,12.534168,4589000,Villa,6,1915,mellem,465,284,4.731,170,26994,D,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/r%C3%B8m%C3%B8vej-18/
+Ålsgårde Stationsvej 7,56.07562,12.535544,4795000,Villa,5,1965,lav,242,347,4.439,187,25641,E,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/%C3%A5lsg%C3%A5rde%20stationsvej-7/
+Skåningevej 1,56.075091,12.54581,5695000,Villa,5,2004,lav,418,273,4.124,160,35593,B,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/sk%C3%A5ningevej-1/
+Nordre Strandvej 162B,56.077617,12.543679,5995000,Rækkehus,4,1827,lav,391,329,4.434,132,45416,G,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/nordre%20strandvej-162b/
+Værmlandsvej 7,56.075467,12.531444,3300000,Villa,5,1970,mellem,499,101,4.551,136,24264,C,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/v%C3%A6rmlandsvej-7/
+Teglværksvej 2,56.074566,12.544544,4245000,Villa,5,1959,lav,343,195,4.097,160,26531,C,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/teglv%C3%A6rksvej-2/
+Krogebakke 4B,56.075546,12.545338,6750000,Villa,4,2019,lav,390,252,4.182,163,41411,A,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/krogebakke-4b/
+Møllestenen 32,56.08204,12.519306,4295000,Villa,3,2000,lav,"1,48",778,3.937,132,32537,B,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/m%C3%B8llestenen-32/
+Nordskov Møllevej 5,56.080119,12.529668,5995000,Villa,4,2015,mellem,822,191,4.625,160,37468,A2010,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/nordskov%20m%C3%B8llevej-5/
+Krogebakke 6A,56.075871,12.545256,8500000,Villa,5,1919,lav,390,259,4.217,181,46961,D,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/krogebakke-6a/
+Krondrevet 30,56.080544,12.521552,2495000,Rækkehus,3,1982,mellem,"1,28",573,4.110,106,23537,C,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/krondrevet-30/
+Birkehegnet 1,56.071049,12.525484,2600000,Villa,4,1954,mellem,989,522,4.358,85,30588,E,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/birkehegnet-1/
+Teglværksvej 16A,56.073429,12.545013,5995000,Villa,5,,høj,414,276,3.969,173,34653,N/A,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/teglv%C3%A6rksvej-16a/
+Ellekildehavevej 26,56.078456,12.534937,6195000,Villa,9,2016,mellem,457,332,4.738,229,27052,A2010,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/ellekildehavevej-26/
+Møllevej 26,56.077421,12.521328,3095000,Villa,4,1827,mellem,"1,17",546,4.182,93,33279,F,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/m%C3%B8llevej-26/
+Krondrevet 13,56.080578,12.519363,2395000,Rækkehus,3,1982,lav,"1,40",704,3.972,106,22594,B,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/krondrevet-13/
+Nordre Strandvej 172A,56.078926,12.541051,16985000,Villa,6,1996,lav,432,446,4.629,232,73211,C,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/nordre%20strandvej-172a/
+Nordre Strandvej 144B,56.075525,12.547618,19995000,Fritidshus,10,1907,lav,534,393,4.132,247,80951,N/A,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/nordre%20strandvej-144b/
+Erik Gudmands Vej 14A,56.073205,12.544906,5500000,Rækkehus,5,,høj,421,286,3.948,170,32352,N/A,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/erik%20gudmands%20vej-14a/
+Carsten Hauchs Vej 25,56.072861,12.542954,3775000,Villa,4,1967,høj,348,245,3.960,122,30942,C,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/carsten%20hauchs%20vej-25/
+Nordre Strandvej 249B,56.081818,12.529935,8149000,Villa,3,2015,mellem,947,380,4.609,157,51904,A2010,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/nordre%20strandvej-249b/
+Nordre Strandvej 273B,56.086019,12.516309,13000000,Villa,6,2003,lav,"1,89",371,3.693,248,52419,C,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/nordre%20strandvej-273b/
+Vinkelvænget 3B,56.072433,12.533785,4995000,Villa,5,2013,mellem,462,352,4.185,158,31613,A2015,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/vinkelv%C3%A6nget-3b/
+Skellebækbakken 12B,56.076739,12.520199,5699000,Villa,7,1998,mellem,"1,23",635,4.137,241,23647,A2010,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/skelleb%C3%A6kbakken-12b/
+Krondrevet 50,56.080846,12.521828,2295000,Villa,3,1982,mellem,"1,28",572,4.120,106,21650,C,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/krondrevet-50/
+Nordre Strandvej 222,56.081939,12.530711,7595000,Villa,7,,mellem,928,398,4.655,170,44676,N/A,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/nordre%20strandvej-222/
+Nordre Strandvej 258B,56.08549,12.519385,11800000,Villa,7,2001,lav,"1,71",575,3.892,260,45384,B,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/nordre%20strandvej-258b/
+Vinkelvænget 4,56.072737,12.532795,3995000,Villa,5,1953,mellem,492,287,4.246,117,34145,E,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/vinkelv%C3%A6nget-4/
+Krondrevet 22,56.08048,12.520899,2385000,Rækkehus,3,1982,mellem,"1,31",608,4.070,106,22500,B,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/krondrevet-22/
+Apperupvej 37C,56.073084,12.533766,5150000,Villa,6,1905,mellem,419,299,4.248,131,39312,C,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/apperupvej-37c/
+Snippen 4,56.071497,12.527523,4195000,Villa,5,1949,mellem,851,413,4.319,149,28154,D,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/snippen-4/
+Odinshøjvej 128A,56.083777,12.519364,6500000,Villa,5,1993,lav,"1,59",660,3.911,174,37356,B,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/odinsh%C3%B8jvej-128a/
+Nordre Strandvej 230B,56.082521,12.528893,15995000,Villa,4,1990,mellem,"1,05",461,4.531,140,114250,N/A,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/nordre%20strandvej-230b/
+Krondrevet 103,56.081803,12.520887,2645000,Rækkehus,3,1982,mellem,"1,38",679,4.041,106,24952,C,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/krondrevet-103/
+Moseskrænten 10,56.071581,12.530068,3595000,Villa,6,1973,mellem,708,365,4.233,174,20660,D,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/moseskr%C3%A6nten-10/
+Vinkelvænget 1,56.072647,12.533223,5295000,Villa,5,1958,mellem,476,311,4.224,160,33093,D,https://www.dingeo.dk/adresse/3140-%C3%A5lsg%C3%A5rde/vinkelv%C3%A6nget-1/
