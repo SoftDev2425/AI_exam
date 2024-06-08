@@ -142,8 +142,9 @@ app.frame_right.grid_rowconfigure(2, weight=1)
 label = customtkinter.CTkLabel(master=app.frame_right, text='Map', font=('Roboto', 24))
 label.pack(pady=12, padx=10)
 
-app.map_widget = TkinterMapView(master=app.frame_right, corner_radius=0)
-app.map_widget.pack(fill='both', expand=True)
+map_widget = TkinterMapView(master=app.frame_right, corner_radius=0)
+map_widget.set_address("colosseo, rome, italy")
+map_widget.pack(fill='both', expand=True)
 
 # Text box and button grid
 app.text_box_frame = customtkinter.CTkFrame(master=app.frame_right, corner_radius=0)
@@ -191,8 +192,8 @@ def get_coordinates(address, postnr, callback):
     threading.Thread(target=geocode).start()
 
 def search_event(address, zip_code, x, y):
-    app.map_widget.set_address(f'{address}, {zip_code}')
-    app.marker_list.append(app.map_widget.set_marker(x, y))
+    map_widget.set_address(f'{address}, {zip_code}')
+    app.marker_list.append(map_widget.set_marker(x, y))
 
 def process_data(x, y, address, zip_code):
     if x is None or y is None:
@@ -234,12 +235,12 @@ def calculate():
     get_coordinates(address, zip_code, lambda x, y: app.after(100, process_data, x, y, address, zip_code))
 
 def change_map(new_map):
-    if new_map == "OpenStreetMap":
-        app.map_widget.set_tile_server("https://a.tile.openstreetmap.org/{z}/{x}/{y}.png")
-    elif new_map == "Google normal":
-        app.map_widget.set_tile_server("https://mt0.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&s=Ga", max_zoom=22)
+    #if new_map == "OpenStreetMap":
+     #   map_widget.set_tile_server("https://a.tile.openstreetmap.org/{z}/{x}/{y}.png")
+    if new_map == "Google normal":
+        map_widget.set_tile_server("https://mt0.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&s=Ga", max_zoom=22)
     elif new_map == "Google satellite":
-        app.map_widget.set_tile_server("https://mt0.google.com/vt/lyrs=s&hl=en&x={x}&y={y}&z={z}&s=Ga", max_zoom=22)
+        map_widget.set_tile_server("https://mt0.google.com/vt/lyrs=s&hl=en&x={x}&y={y}&z={z}&s=Ga", max_zoom=22)
 
 def change_appearance_mode(new_appearance_mode):
     customtkinter.set_appearance_mode(new_appearance_mode)
@@ -254,8 +255,7 @@ app.appearance_mode_optionmenu = customtkinter.CTkOptionMenu(app.frame_left, val
                                                                        command=change_appearance_mode)
 app.appearance_mode_optionmenu.pack(pady=12, padx=10)
 
-app.map_widget.set_address('Denmark')
-app.map_widget.set_zoom(7)
+map_widget.set_zoom(7)
 app.appearance_mode_optionmenu.set('Dark')
 
 app.mainloop()
