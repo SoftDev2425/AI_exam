@@ -99,6 +99,9 @@ entry_pharmacy_distance.pack(pady=input_pady, padx=input_padx)
 entry_daycare_distance = customtkinter.CTkEntry(master=app.frame_left, placeholder_text='Daycare distance', width=input_width)
 entry_daycare_distance.pack(pady=input_pady, padx=input_padx)
 
+entry_grocery_distance = customtkinter.CTkEntry(master=app.frame_left, placeholder_text='Daycare grocery', width=input_width)
+entry_grocery_distance.pack(pady=input_pady, padx=input_padx)
+
 calculate_button = customtkinter.CTkButton(master=app.frame_left, text="Calculate", fg_color="blue", width=input_width, command=lambda: calculate())
 calculate_button.pack(pady=12, padx=10)
 
