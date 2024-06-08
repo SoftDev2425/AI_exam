@@ -2,6 +2,10 @@
 
 [insert images of product here]
 
+
+the Readme document includes problem statement, motivation, theoretical foundation, argumentation of
+choices, design, code, artefacts, outcomes, and implementation instructions, as appropriate. the URL of the cloud location, where the application runs (if any)
+
 ## Table of content
 
 - [Table of content](#table-of-content)
