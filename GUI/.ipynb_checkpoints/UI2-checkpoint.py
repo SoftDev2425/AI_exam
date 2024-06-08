@@ -83,7 +83,7 @@ entry_zip_code.pack(pady=input_pady, padx=input_padx)
 entry_size = customtkinter.CTkEntry(master=app.frame_left, placeholder_text='Size m^2', width=input_width)
 entry_size.pack(pady=input_pady, padx=input_padx)
 
-entry_type = customtkinter.CTkOptionMenu(app.frame_left, values=['Choose Type', 'Villa', 'Ejerlejlighed','Fritidshus', 'Rækkehus', 'Villalejlighed','Landejendom','Andelsbolig','Helårsgrund'], width=input_width)
+entry_type = customtkinter.CTkOptionMenu(app.frame_left, values=['Choose Type', 'Villa', 'Ejerlejlighed','Fritidshus', 'Rækkehus', 'Villalejlighed'], width=input_width)
 entry_type.pack(pady=input_pady, padx=input_padx)
 
 entry_energy_class = customtkinter.CTkOptionMenu(app.frame_left, values=['Choose Energy class', 'A2020', 'A2015', 'A2010', 'B', 'C', 'D', 'E', 'F', 'G'], width=input_width)
@@ -193,7 +193,7 @@ def update_text_box(text, error=False):
 
 def load_model():
     global model
-    model = joblib.load('./models/RFG_Model')
+    model = joblib.load('../models/RFG_Model')
     
 def get_coordinates(address, postnr):
      try:
@@ -288,7 +288,7 @@ def calculate():
     
     if model:
         try:
-            data = pd.read_csv('./data/all_houses.csv')
+            data = pd.read_csv('../data/all_houses.csv')
         except Exception as e:
             update_text_box(f"Error loading data: {e}", error=True)
             return
