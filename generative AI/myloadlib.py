@@ -1,23 +1,12 @@
 import os
 from typing import List
 
-# LangChain Document loaders v.2
 from langchain_community.document_loaders  import PyPDFLoader
 from langchain_community.document_loaders import TextLoader
 from langchain_community.document_loaders  import Docx2txtLoader
 from langchain_community.document_loaders  import DirectoryLoader
 from langchain_community.document_loaders  import WikipediaLoader
 from langchain_community.document_loaders  import YoutubeLoader
-
-'''
-# LangChain Document loaders v.1
-from langchain.document_loaders import PyPDFLoader
-from langchain.document_loaders import TextLoader
-from langchain.document_loaders import Docx2txtLoader
-from langchain.document_loaders import DirectoryLoader
-from langchain.document_loaders import WikipediaLoader
-from langchain.document_loaders import YoutubeLoader
-'''
 
 # Load Entire Dir
 def loadDir(path, filetype='*')->List:    
@@ -36,7 +25,7 @@ def loadFile(file) -> List:
         loader = TextLoader(file)
     docs = loader.load()
     return docs
-
+    
 
 # Load Wiki
 def loadWiki(query, lang, n) -> List:
