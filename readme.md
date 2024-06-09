@@ -93,7 +93,7 @@ To find the best model, we train multiple models such as Linear Regression and R
 A vector database is used to store chuncks of data, used for training a generative AI. We use the large language model Ollama as the generative AI.
 
 ### Outcomes
-The best trained model became Gradient Boosting based on the R^2-score of 73. 
+The best trained model became Gradient Boosting based on the R^2-score of 80. 
 When predicting house prices, the result is not 100% accurate if compared to the origin source from the webscraped site, but it is fairly close.
 The generative AI can take the input and predicted price result from our GUI and generate a text, which gets saved as a PDF file.
 
