@@ -52,6 +52,7 @@ We want to develop an AI model to predict house prices and a generative AI to as
 We hope to answer these research questions:
 1. Can AI models predict house prices accurately using features such as zip code, the house type, size, number of rooms, and proximity to amenities?
 2. Can a generative AI trained on real estate data create useful documents for real estate agents?
+
 Our hypotheses is AI models can achieve high accuracy in predicting house prices based on relevant features. A generative AI can effectively produce structured documents for real estate agents using data from house sales websites.
 
 ### Motivation
