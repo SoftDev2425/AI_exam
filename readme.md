@@ -1,6 +1,7 @@
-# AI Exam project: [insert title here (e.g. PyHousr)]
+# AI Exam project: PyHousr
 
-[insert images of product here]
+![image](https://github.com/SoftDev2425/AI_exam/assets/90389865/d5ca55f3-eb15-42bf-a809-8ce1382bbb6b)
+
 
 
 the Readme document includes problem statement, motivation, theoretical foundation, argumentation of
