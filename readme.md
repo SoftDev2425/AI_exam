@@ -7,10 +7,6 @@ House Price Predictor with Custom Generative AI for Real Estate Agents.
 This project aims to provide a comprehensive tool for real estate agents, combining a house price predictor with custom generative AI capabilities for generating professional reports.
 
 
-
-the Readme document includes problem statement, motivation, theoretical foundation, argumentation of
-choices, design, code, artefacts, outcomes, and implementation instructions, as appropriate.
-
 ## Table of content
 
 - [Table of content](#table-of-content)
@@ -80,8 +76,10 @@ Our hypotheses is AI models can achieve high accuracy in predicting house prices
 The real estate market is complex and influenced by numerous factors. If AI can predict the price for a house from these factors, it would be ideal, to implement it to this business area. Reducing workload for real estate agents.
 
 ### Theoretical Foundation
+---
 
 ### Argumentation of Choices
+---
 
 ### Design
 The project is divided up in directories.
@@ -93,8 +91,10 @@ GenAI directory trains the generative AI. We load data from websites revolving r
 GUI directory has one file, the GUI which uses the best model and generative AI. This is also the file to start project.
 
 ### Code
+---
 
 ### Artefacts
+---
 
 ### Outcomes
 The best trained model became Gradient Boosting based on the R-score of 73. 
@@ -102,7 +102,7 @@ When predicting house prices, the result is not 100% accurate if compared to the
 The generative AI can take the input and predicted price result from our GUI and generate a text, which gets saved as a PDF file.
 
 ## Extend Project
-
+---
 
 ## Setup project instructions
 1. Clone repository.
