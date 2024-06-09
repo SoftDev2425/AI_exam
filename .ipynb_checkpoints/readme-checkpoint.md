@@ -1,6 +1,11 @@
-# AI Exam project: [insert title here (e.g. PyHousr)]
+# AI Exam project: PyHousr
 
-[insert images of product here]
+![image](https://github.com/SoftDev2425/AI_exam/assets/90389865/d5ca55f3-eb15-42bf-a809-8ce1382bbb6b)
+
+
+House Price Predictor with Custom Generative AI for Real Estate Agents.
+This project aims to provide a comprehensive tool for real estate agents, combining a house price predictor with custom generative AI capabilities for generating professional reports.
+
 
 
 the Readme document includes problem statement, motivation, theoretical foundation, argumentation of
@@ -24,6 +29,20 @@ choices, design, code, artefacts, outcomes, and implementation instructions, as 
 
 
 ## About
+Data Collection:
+Housing prices for the Hovedstadsområdet area will be scrapped from dingeo.dk. A curated list of zip codes will be selected to ensure a representative dataset.
+features include:
+
+Supervised Machine Learning:
+Utilizing the scraped data, supervised machine learning techniques will be employed to train a predictive model. The model will analyze various house features to accurately predict prices.
+User Interface:
+A user-friendly Python GUI (using Custom-Tkinter) will be developed to facilitate interaction with the model. Real estate agents can input house data for different features via the GUI, and the trained model will provide predicted prices.
+Custom Generative AI:
+Upon receiving the predicted price, users can opt to generate a professional report. This process will involve a custom generative AI solution trained on relevant real estate documents and websites.
+PDF Report Generation:
+The generated report will be formatted into a PDF document. Users can download the report locally to their machines for further review or presentation to clients.
+
+
 
 ### Data Wrangling / Preparation
 - Scraping House Data and ensuring the data includes relevant features.
@@ -47,8 +66,16 @@ choices, design, code, artefacts, outcomes, and implementation instructions, as 
 - Providing a button to download the generated PDF report.
 
 ### Problem Statement
+Accurate house price predictions are essential for the real estate market.
+We want to develop an AI model to predict house prices and a generative AI to assist real estate agents in document creation for the houses.
+We hope to answer these research questions:
+1. Can AI models predict house prices accurately using features such as zip code, the house type, size, number of rooms, and proximity to amenities?
+2. Can a generative AI trained on real estate data create useful documents for real estate agents?
+
+Our hypotheses is AI models can achieve high accuracy in predicting house prices based on relevant features. A generative AI can effectively produce structured documents for real estate agents using data from house sales websites.
 
 ### Motivation
+The real estate market is complex and influenced by numerous factors. If AI can predict price for a house from these factors, it would be ideal, to implement it to this business area. Reducing workload for real estate agents.
 
 ### Theoretical Foundation
 
