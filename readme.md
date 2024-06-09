@@ -26,7 +26,7 @@ This project aims to provide a comprehensive tool for real estate agents, combin
 
 ## About
 This is group ARO's exam project for the AI course 2024.
-The project was developed by Andreas, Owais and Rasmus from CPH-business academy.
+The project was developed by Andreas, Owais and Rasmus from Cphbusiness Academy.
 
 Data Collection:
 Housing prices for the Hovedstadsområdet area will be scrapped from dingeo.dk. A curated list of zip codes will be selected to ensure a representative dataset.
@@ -100,8 +100,11 @@ The generative AI can take the input and predicted price result from our GUI and
 
 ## Setup project instructions
 1. Clone repository.
-2. Have Ollama running. Type ollama serve in a terminal if it is not already running.
-3. Run UI.py file in the terminal to start GUI. Path to the file is AI_Exam/GUI/UI.py
+2. Launch Ollama (LLM): Download ollama from https://ollama.com/download
+to start ollama, type in a root terminal 'ollama serve'
+in new root terminal type 'ollama run '
+3. Have Ollama running. Type ollama serve in a terminal if it is not already running.
+4. Run UI.py file in the terminal to start GUI. Path to the file is AI_Exam/GUI/UI.py
 
 ## Status
 After starting the GUI, users can input information about a house. Based on this information, a price is predicted using a selected model trained specifically for this task. If Ollama is running, the AI will generate a descriptive document about the house, detailing its features. This text is then saved as a PDF file, which real estate agents can use.
