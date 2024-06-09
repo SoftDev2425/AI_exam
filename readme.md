@@ -57,6 +57,7 @@ We hope to answer these research questions:
 Our hypotheses is AI models can achieve high accuracy in predicting house prices based on relevant features. A generative AI can effectively produce structured documents for real estate agents using data from house sales websites.
 
 ### Motivation
+The real estate market is complex and influenced by numerous factors. If AI can predict price for a house from these factors, it would be ideal, to implement it to this business area. Reducing workload for real estate agents.
 
 ### Theoretical Foundation
 
