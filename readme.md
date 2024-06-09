@@ -7,10 +7,6 @@ House Price Predictor with Custom Generative AI for Real Estate Agents.
 This project aims to provide a comprehensive tool for real estate agents, combining a house price predictor with custom generative AI capabilities for generating professional reports.
 
 
-
-the Readme document includes problem statement, motivation, theoretical foundation, argumentation of
-choices, design, code, artefacts, outcomes, and implementation instructions, as appropriate.
-
 ## Table of content
 
 - [Table of content](#table-of-content)
@@ -79,29 +75,27 @@ Our hypotheses is AI models can achieve high accuracy in predicting house prices
 ### Motivation
 The real estate market is complex and influenced by numerous factors. If AI can predict the price for a house from these factors, it would be ideal, to implement it to this business area. Reducing workload for real estate agents.
 
-### Theoretical Foundation
-
-### Argumentation of Choices
-
 ### Design
 The project is divided up in directories.
 Scraping directory has files with methods which can gather data from dingeo.dk, a website with houses for sale.
 Data directory stores the data webscraped from dingeo.dk, and also holds the vector database.
 Notebooks directory is where we do our data wrangling, with the data stored in data directory, to train various models and pick the best one.
-Models directory stores the best performing model based on its R-score.
+Models directory stores the best performing model based on its R^2-score.
 GenAI directory trains the generative AI. We load data from websites revolving real estate, split it into chunks and save them in the vector database in data directory.
 GUI directory has one file, the GUI which uses the best model and generative AI. This is also the file to start project.
 
 ### Code
+Our code is written in Python.
 
 ### Artefacts
+Data scaped from dingeo.dk is saved in csv files based on zip codes. For the model training we collect the data into datasets with columns based on the features gathered from the webscraping. 
+To find the best model, we train multiple models such as Linear Regression and Random Forest Regression.
+A vector database is used to store chuncks of data, used for training a generative AI. We use the large language model Ollama as the generative AI.
 
 ### Outcomes
-The best trained model became Gradient Boosting based on the R-score of 73. 
+The best trained model became Gradient Boosting based on the R^2-score of 0.83. 
 When predicting house prices, the result is not 100% accurate if compared to the origin source from the webscraped site, but it is fairly close.
 The generative AI can take the input and predicted price result from our GUI and generate a text, which gets saved as a PDF file.
-
-## Extend Project
 
 
 ## Setup project instructions
@@ -110,8 +104,8 @@ The generative AI can take the input and predicted price result from our GUI and
 3. Run UI.py file in the terminal to start GUI. Path to the file is AI_Exam/GUI/UI.py
 
 ## Status
-After starting the GUI, a user can input information about a house. From the information a price is predicted thanks to chosen model trained for this task. 
-If Ollama is running, the AI will generate a text in the format of a document describing the house with its features. The text then gets saved as a PDF file, which the real estate agents can use.
+After starting the GUI, users can input information about a house. Based on this information, a price is predicted using a selected model trained specifically for this task. If Ollama is running, the AI will generate a descriptive document about the house, detailing its features. This text is then saved as a PDF file, which real estate agents can use.
 
-For future improvements we could try to train one of our models to achieve a better score than that of the best one we currently have. A challenge has been to determine, how many features are needed to predict a house price. The current chosen features are all taken from the same website, which uses the features to describe each house. However, we think a house value are also determined by its distance to the ocean, which the website did not show. 
-In the end the house price predict does predict a price, but it is not 100% accurate to the origin source.
+For future improvements, we could focus on training a new model to achieve a better performance score than our current best model. One challenge we faced was determining the optimal number of features needed to accurately predict house prices. The current features were all sourced from the same website, which describes each house using these features. However, we believe that additional factors also significantly impact its value, but were not included in the website's data, for example the distance to nearest ocean or the current state of the economics in the society.
+
+In summary, while the house price predictor does generate a price estimate, it is not 100% accurate compared to the original source.
