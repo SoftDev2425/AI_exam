@@ -290,7 +290,7 @@ def update_text_box(text, error=False):
 def load_model():
     global model
     try:
-        model = joblib.load('./models/RFG_Model')
+        model = joblib.load('../models/RFG_Model')
     except Exception as e:
         update_text_box(f"Error loading model: {e}", error=True)
         model = None
@@ -389,7 +389,7 @@ def calculate():
     
     if model:
         try:
-            data = pd.read_csv('./data/all_houses.csv')
+            data = pd.read_csv('../data/all_houses.csv')
         except Exception as e:
             update_text_box(f"Error loading data: {e}", error=True)
             return
