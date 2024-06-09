@@ -1,9 +1,0 @@
-Idea:
-...
-
-...
-
-GUI web vs program?
-
-
-How do we enable reproduction of the project functionality and reported results? Make a refetch button ("This action might take a while"..)
