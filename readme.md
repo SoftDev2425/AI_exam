@@ -91,10 +91,12 @@ GenAI directory trains the generative AI. We load data from websites revolving r
 GUI directory has one file, the GUI which uses the best model and generative AI. This is also the file to start project.
 
 ### Code
----
+Our code is written in Python.
 
 ### Artefacts
----
+Data scaped from dingeo.dk is saved in csv files based on zip codes. For the model training we collect the data into datasets with columns based on the features gathered from the webscraping. 
+To find the best model, we train multiple models such as Linear Regression and Random Forest Regression.
+A vector database is used to store chuncks of data, used for training a generative AI. We use the large language model Ollama as the generative AI.
 
 ### Outcomes
 The best trained model became Gradient Boosting based on the R-score of 73. 
