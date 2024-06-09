@@ -2,6 +2,10 @@
 
 [insert images of product here]
 
+House Price Predictor with Custom Generative AI for Real Estate Agents.
+This project aims to provide a comprehensive tool for real estate agents, combining a house price predictor with custom generative AI capabilities for generating professional reports.
+
+
 
 the Readme document includes problem statement, motivation, theoretical foundation, argumentation of
 choices, design, code, artefacts, outcomes, and implementation instructions, as appropriate. the URL of the cloud location, where the application runs (if any)
@@ -24,6 +28,20 @@ choices, design, code, artefacts, outcomes, and implementation instructions, as 
 
 
 ## About
+Data Collection:
+Housing prices for the Hovedstadsområdet area will be scrapped from dingeo.dk. A curated list of zip codes will be selected to ensure a representative dataset.
+features include:
+
+Supervised Machine Learning:
+Utilizing the scraped data, supervised machine learning techniques will be employed to train a predictive model. The model will analyze various house features to accurately predict prices.
+User Interface:
+A user-friendly Python GUI (using Custom-Tkinter) will be developed to facilitate interaction with the model. Real estate agents can input house data for different features via the GUI, and the trained model will provide predicted prices.
+Custom Generative AI:
+Upon receiving the predicted price, users can opt to generate a professional report. This process will involve a custom generative AI solution trained on relevant real estate documents and websites.
+PDF Report Generation:
+The generated report will be formatted into a PDF document. Users can download the report locally to their machines for further review or presentation to clients.
+
+
 
 ### Data Wrangling / Preparation
 - Scraping House Data and ensuring the data includes relevant features.

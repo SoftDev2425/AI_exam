@@ -1,14 +1,78 @@
 import customtkinter
+from tkinter.filedialog import asksaveasfilename
 import tkinter as tk
 import joblib
 import pandas as pd
 import locale
+import requests
 from geopy.geocoders import Nominatim
 from tkintermapview import TkinterMapView
 from sklearn.preprocessing import LabelEncoder
-import requests
+import pdfkit
+
+from langchain.llms import Ollama
+from langchain.chains import RetrievalQA
+from langchain.prompts import PromptTemplate
+from langchain.vectorstores import Chroma
+from langchain.embeddings import HuggingFaceEmbeddings
+import time
 
 OPENCAGE_API_KEY = 'f3b9a12a21f64b66b9aa66c7a215adcb'
+
+model = None
+
+# Load the persisted Chroma vector database
+persist_directory = '../data/chroma/'
+embeddings = HuggingFaceEmbeddings(
+    model_name="sentence-transformers/all-mpnet-base-v2",
+    model_kwargs={'device': 'cpu'},
+    encode_kwargs={'normalize_embeddings': False}
+)
+
+vectordb = Chroma(persist_directory=persist_directory, embedding_function=embeddings)
+
+# Set up the language model and retrieval chain
+llm = Ollama(model="mistral", callback_manager=None)
+
+template = """
+Danish zipcodes and citynames: [
+    'Choose Zip', '2100 (København Ø)', '2620 (Albertslund)', '2740 (Skovlunde)', '2750 (Ballerup)',
+    '2760 (Måløv)', '2950 (Vedbæk)', '2960 (Rungsted Kyst)', '2970 (Hørsholm)', '2980 (Kokkedal)',
+    '2990 (Nivå)', '3000 (Helsingør)', '3050 (Humlebæk)', '3060 (Espergærde)', '3070 (Snekkersten)',
+    '3080 (Tikøb)', '3100 (Hornbæk)', '3120 (Dronningmølle)', '3140 (Ålsgårde)', '3150 (Hellebæk)',
+    '3200 (Helsinge)', '3210 (Vejby)', '3220 (Tisvildeleje)', '3230 (Græsted)', '3250 (Gilleleje)',
+    '3320 (Skævinge)', '3480 (Fredensborg)', '3490 (Kvistgård)', '2300 (København S)', '2400 (København NV)',
+    '2450 (København SV)', '2500 (Valby)', '2600 (Glostrup)', '2610 (Rødovre)', '2630 (Taastrup)',
+    '2640 (Hedehusene)', '2650 (Hvidovre)', '2690 (Karlslunde)', '2700 (Brønshøj)', '2720 (Vanløse)',
+    '2765 (Smørum)', '2770 (Kastrup)', '2791 (Dragør)', '2800 (Lyngby)', '2820 (Gentofte)', '2830 (Virum)',
+    '2840 (Holte)', '2850 (Nærum)', '2860 (Søborg)', '2870 (Dyssegård)', '2880 (Bagsværd)', '2900 (Hellerup)',
+    '2920 (Charlottenlund)', '2930 (Klampenborg)', '2942 (Skodsborg)', '3300 (Frederiksværk)',
+    '3310 (Ølsted)', '3360 (Liseleje)', '3370 (Melby)', '3400 (Hillerød)', '3450 (Allerød)', '3460 (Birkerød)',
+    '3540 (Lynge)', '3550 (Slangerup)', '3600 (Frederikssund)', '3650 (Ølstykke)', '3660 (Stenløse)',
+]
+
+I would like the HTML format that you are going to output to include key features of the house: 
+name of the address and zipcode (location in Denmark), size in m2, type of house, energy class, amount of rooms, construction year, risk of burglary, 
+distance to pharmacy (m), distance to daycare (m) and finally distance to grocery store (m).
+Also have a medium-long paragraph describing the house. Try to sell it. If any information is missing from the answer, then write a paragraph at the bottom stating that some information about the house is missing, but there is going to be "Åbent hus" very soon and that the reader should subscribe to the email service to find out asap. 
+Also below Energy class E is not so good.
+Also style the document. Make it nice, professional, and presentable.
+Always end with a paragraph saying "happy house hunting". Do not try and make up an answer. Follow the instructions.
+
+{context}
+
+Question: {question}
+
+Helpful HTML Answer than I will download as pdf:
+"""
+
+prompt = PromptTemplate.from_template(template)
+chain = RetrievalQA.from_chain_type(
+    llm,
+    retriever=vectordb.as_retriever(),
+    return_source_documents=True,
+    chain_type_kwargs={"prompt": prompt}
+)
 
 customtkinter.set_appearance_mode("dark")  # Modes: system (default), light, dark
 customtkinter.set_default_color_theme("green")  # Themes: blue (default), dark-blue, green
@@ -110,7 +174,7 @@ entry_grocery_distance = customtkinter.CTkEntry(master=app.frame_left, placehold
 entry_grocery_distance.pack(pady=input_pady, padx=input_padx)
 
 def clear_fields():
-    print("hi")
+    print("Clearing fields")
 
 # clear fields
 clear_fields_btn = customtkinter.CTkButton(master=app.frame_left,
@@ -124,6 +188,25 @@ calculate_button.pack(pady=12, padx=10)
 
 help_window_width = 500
 help_window_height = 200
+
+def create_pdf(html_content, output_path):
+    pdfkit.from_string(html_content, output_path, options={"enable-local-file-access": ""})
+
+def generate_report(address, zip_code, size, house_type, energy_class, room_count, year_constructed, risk_of_burglary, pharmacy_distance, daycare_distance, grocery_store_distance):
+    query = f"Præsenter min bolig, der har addressen {address}, zipcode is {zip_code}, typen er {house_type}, energiklassen er {energy_class},størrelsen er {size}m2, byggeåret er {year_constructed}, risiko for indbrud er {risk_of_burglary}, antal værelser er {room_count}, distance til apotek er {pharmacy_distance}m, distance til børnehave er {daycare_distance}m, distance til indkøbsbutik er {grocery_store_distance}m"
+
+    result = chain({"query": query})
+    result_html = result["result"]
+    
+    pdf_filename = asksaveasfilename(defaultextension=".pdf", filetypes=[("PDF files", "*.pdf")])
+    if pdf_filename:
+        create_pdf(result_html, pdf_filename)
+        update_text_box(f"Report has been generated and saved as '{pdf_filename}'")
+    else:
+        update_text_box("PDF generation was canceled.")
+        time.sleep(2)
+        update_text_box("Please fill out the form and press calculate")
+
 # Help button
 def show_help():
     help_text = (
@@ -173,10 +256,23 @@ app.text_box = customtkinter.CTkTextbox(master=app.text_box_frame, height=10, fo
 app.text_box.insert(tk.END, "Please fill out the form and press calculate")
 app.text_box.configure(state='disabled')
 app.text_box.grid(row=0, column=0, padx=10, pady=10, sticky='nsew')
-
+    
 generate_report_btn = customtkinter.CTkButton(master=app.text_box_frame,
                                               text="Generate Report",
-                                              fg_color="blue")
+                                              fg_color="blue",
+                                              command=lambda: generate_report(
+                                                  entry_address.get(), 
+                                                  entry_zip_code.get(), 
+                                                  entry_size.get(),
+                                                  entry_type.get(),
+                                                  entry_energy_class.get(),
+                                                  entry_rooms.get(), 
+                                                  entry_constructed.get(), 
+                                                  entry_burglary_risk.get(), 
+                                                  entry_pharmacy_distance.get(), 
+                                                  entry_daycare_distance.get(), 
+                                                  entry_grocery_distance.get()
+                                              ))
 generate_report_btn.grid(row=0, column=1, padx=10, pady=10, sticky='e')
 
 def update_text_box(text, error=False):
@@ -193,7 +289,11 @@ def update_text_box(text, error=False):
 
 def load_model():
     global model
-    model = joblib.load('../models/RFG_Model')
+    try:
+        model = joblib.load('./models/RFG_Model')
+    except Exception as e:
+        update_text_box(f"Error loading model: {e}", error=True)
+        model = None
     
 def get_coordinates(address, postnr):
      try:
@@ -280,15 +380,16 @@ def calculate():
         update_text_box(f"Error in search event: {e}", error=True)
         return
 
-    try:
-        load_model()
-    except Exception as e:
-        update_text_box(f"Error loading model: {e}", error=True)
-        return
+    if model is None:
+        try:
+            load_model()
+        except Exception as e:
+            update_text_box(f"Error loading model: {e}", error=True)
+            return
     
     if model:
         try:
-            data = pd.read_csv('../data/all_houses.csv')
+            data = pd.read_csv('./data/all_houses.csv')
         except Exception as e:
             update_text_box(f"Error loading data: {e}", error=True)
             return
