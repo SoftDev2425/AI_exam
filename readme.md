@@ -80,7 +80,7 @@ The project is divided up in directories.
 Scraping directory has files with methods which can gather data from dingeo.dk, a website with houses for sale.
 Data directory stores the data webscraped from dingeo.dk, and also holds the vector database.
 Notebooks directory is where we do our data wrangling, with the data stored in data directory, to train various models and pick the best one.
-Models directory stores the best performing model based on its R-score.
+Models directory stores the best performing model based on its R^2-score.
 GenAI directory trains the generative AI. We load data from websites revolving real estate, split it into chunks and save them in the vector database in data directory.
 GUI directory has one file, the GUI which uses the best model and generative AI. This is also the file to start project.
 
@@ -93,7 +93,7 @@ To find the best model, we train multiple models such as Linear Regression and R
 A vector database is used to store chuncks of data, used for training a generative AI. We use the large language model Ollama as the generative AI.
 
 ### Outcomes
-The best trained model became Gradient Boosting based on the R-score of 73. 
+The best trained model became Gradient Boosting based on the R^2-score of 73. 
 When predicting house prices, the result is not 100% accurate if compared to the origin source from the webscraped site, but it is fairly close.
 The generative AI can take the input and predicted price result from our GUI and generate a text, which gets saved as a PDF file.
 
