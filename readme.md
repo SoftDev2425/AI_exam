@@ -75,12 +75,6 @@ Our hypotheses is AI models can achieve high accuracy in predicting house prices
 ### Motivation
 The real estate market is complex and influenced by numerous factors. If AI can predict the price for a house from these factors, it would be ideal, to implement it to this business area. Reducing workload for real estate agents.
 
-### Theoretical Foundation
----
-
-### Argumentation of Choices
----
-
 ### Design
 The project is divided up in directories.
 Scraping directory has files with methods which can gather data from dingeo.dk, a website with houses for sale.
@@ -103,8 +97,6 @@ The best trained model became Gradient Boosting based on the R-score of 73.
 When predicting house prices, the result is not 100% accurate if compared to the origin source from the webscraped site, but it is fairly close.
 The generative AI can take the input and predicted price result from our GUI and generate a text, which gets saved as a PDF file.
 
-## Extend Project
----
 
 ## Setup project instructions
 1. Clone repository.
